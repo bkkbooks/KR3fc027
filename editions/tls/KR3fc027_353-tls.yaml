@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/353
+seq: 353
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五分得二両二錢五分爲法除之得棉布二十八疋合問假如原有麥三斗五升磨麵二十五斤今欲用麵一百七十五斤問該麥若干荅曰二石四斗五升法日置原麥乘今用麵爲實以磨麵二十五斤爲法除之合問假如今有綾一百六十一疋每七疋價銀五両問共該銀若干荅曰一百一十五両法日置總綾以五両因之爲實以七疋爲法歸之合問
+  hash: sha256:8400c555f3083858db118403c010a38e694e4412f168b1242036ef52b360382d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4a92d3f2526604630b1f3ed9136aebf714f46b957d0ac1d0c0105bd4cd3814c8

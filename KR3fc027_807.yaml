@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/807
+seq: 807
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法日置積為實以相和為减縱開平方法除之上商三十以减縱六十餘縱三十與上商三十相呼合除積九百而積實不及乃命法除原積八百六十四餘負積三十六為實再置上商三十以减餘縱三十訖次商六步下法亦置六為隅法與上商六呼除負積恰盡得長三十六步合問今有方田一段圎田一段共積二百五十二步只云方面圎徑適等隅方圎徑各若干
+  hash: sha256:f4bc41e81da1a16bb7428fb8e7750e9425f5bc7f13c676cb8ceb5451923777a8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:dbca93210ee7e203b4ab13f08632b1b0029de42059961391804a7521227778ce

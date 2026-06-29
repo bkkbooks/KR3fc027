@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1017
+seq: 1017
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:024d10c821eb86838a25c0084b6a44aec5f9625f1a0389f9800d9e7beb05b6b9

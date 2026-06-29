@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1030
+seq: 1030
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 價八錢麥價六錢豆價四錢問各若干荅曰米麥豆各二十一石法曰置總銀爲實併米麥豆價共一両八錢爲法除之得毎色二十一石之数各以價乘之合問不拘四五色省倣此推之今有甲乙丙三人以田多寡應當一年差役甲田三十五畆乙田二十五畆丙田二十畆問各該值月若干荅曰甲該五箇月零七日半乙該三箇月二十二日半丙該三箇月法曰置甲乙丙三人田共併得八十畆爲法田另置甲田以
+  hash: sha256:1eb0e52a199bd45785039da0fd1965cb59a7e190203106ccf2db3b10fbd1d18c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:783460a736fc20b81208c55d464575828cadcbc8abff785f3157ad3cffc1447d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/331
+seq: 331
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 貞該利二十五兩法日置利銀七十兩為實以四人共本一百四十兩為法除之得五錢為每兩之利就以此為法以乘各人原本合問假如今有甲乙丙三人合夥同商因各人本銀不齊前後付出甲于正月付出本七十兩乙于四月付出本八十兩丙于七月付出本九十兩三人共本二百四十兩至年終得利七十兩問各該利銀若干答曰甲該利二十八兩乙該利二十四兩丙該利一十八兩
+  hash: sha256:252bab27999a1af8ed358dc88f37b0dd43652e5e621cbc01e3eea323c809dd41
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:eee06134a9f6e5312cf495797d7d51d221e09d257011e8191421ef7b1b425c92

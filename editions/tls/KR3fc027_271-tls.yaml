@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/271
+seq: 271
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法日置銀爲實以人分爲法除之合問定位法先数原實千順下至法首百前位定両合得法首七十除五百歸法少實多實尾三分二錢五七除三十五逢五進一十定位七両五二倍作四二七除一十四五厘九十五一倍作二七九除六十三二分見五無除作九五一七如除七百法首位是百遇百卽止前位得令是両合得六錢實首一千無除起一下還五原起五一倍作二实千起呼千往後至百合得一両還原用乘
+  hash: sha256:0324ae8671df7a5a727e4a21cb290f32f44433b141a1cc4f67c34f02fc85c061
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:caf290777480ad46c867c0031a8fb2c96eeb0569a5adc0747cbe73ec1119904e

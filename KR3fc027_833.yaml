@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/833
+seq: 833
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五尺却以三乘下法一十得三十為方法列位次商五尺于左初商之次下法亦置共商五于初商一十之次共一十五就以五遍乘之得七十五為廉法再以方法三十乘廉法七十五得二千二百五十除實訖餘實一百二十五却以次商五自乘再乘得一百二十五為隅法餘實恰盡開立方法圖式此如方倉還原之意次商併初商共一十五尺又用次商五尺乘之得七十五尺為廉法以乘方法餘實右自乘得一百再乘得一千除實訖就以二箇初商一十得二十為方法實尾次除本身五十餘二
+  hash: sha256:2e627ddc270d64783f6357dacb32d9d59bd297a9ec63ae44a0defbd887388999
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:55a2558d3e4531feff1912f338e769820e6f2e091b6c3bf756fe21f43607f5f1

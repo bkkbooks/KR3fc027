@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1198
+seq: 1198
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰木長五丈零五寸去墻四丈九尺五寸法曰依弦較求弦以墻高十尺爲勾自乘得一百尺以過斜木根一尺爲弦較除之如故一百尺加較一尺共得一百令一尺折半得木長五丈令五寸如弦減過斜木一尺餘如股至墻四丈九尺五寸合問今有圓木泥在壁中不知徑以鋸鋸之深一寸鋸道長一尺問木徑若干荅曰木徑二尺六寸
+  hash: sha256:2cf19511388f7e0ef6dd72e46144fc418e9a81d10c1381db9fe072052d1bab46
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b35625937983fd1ca60d3636a67e2919424641f12abbeeaf6bf0876ecf055234

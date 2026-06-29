@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/932
+seq: 932
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以原徑八步除之得三千四百二十步又置外周七十二步自乘得五千一百八十四步以少减多餘一千七百六十四步為實以開平方法除之得中周四十二步减外周七十一步餘三十步以六除之得徑五步合問今有環田外周七十二步內周二十四步徑八步欲從內周截積九十九步問截中周併徑若干答曰中周四十二步徑三步法日先將內外二周併之折半以徑乘之得總積三百八十四步內减今截內積九十九步餘二百八十五步即是前截外周積也
+  hash: sha256:c29a3954848f9a990b7d26b74ef3a6d48b431facba83e4264f309ce129441461
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:31107c2f2c09961890779dfe4368e6dd7cb5dfa4a155f73e12f8f729b4252882

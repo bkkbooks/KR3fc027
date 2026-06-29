@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/847
+seq: 847
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除實餘實五百一十二另以次商八尺自乘再乘得五百一十二尺為隅法除實恰盡得立圎徑合問此問周徑如圎毬今有積六萬二千二百零八尺欲為立圎問周若干答曰周一百四十四尺法曰置積尺以四十八乘之得二百九十八萬五千九百八十四尺為實以開立方法除之初商一百尺自乘得一萬再乘得一百萬除實餘實一百九十八萬五千九百八十四尺另以初啇一百以三因得三百為方法次商四十于初商之下共一百四十就以四十乘之得五千六百為廉法以方乘廉得一百六十八萬除實餘實三十萬五千九百八十四另以次商四十自乘再乘得六萬四千為隅法除實餘實
+  hash: sha256:2bd5a8e675efeab1aa807078790c3d5356b6dcd1659477c9fbeb434fa6b61b9d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8ef3787ffbea8ffaca45518d115f1acd3255e4cebecc933d56f44a4724c4704c

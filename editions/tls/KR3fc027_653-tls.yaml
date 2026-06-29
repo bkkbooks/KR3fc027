@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/653
+seq: 653
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四人支裙絹五十尺問該總絹若干荅曰共絹一十二萬四千四百八十五尺衫絹八萬一千零六十尺裙絹四萬三千四百二十五尺法曰置三人七十尺四人五十尺以三人互乘五十得一百五十以四人互乘七十得二百八十併之共四百三十乘兵士得一百四十九萬三千八百二十爲實又以三四相乘得十二爲法除實得總絹数置兵士總以七因三歸得衫絹数以五因四歸得裙絹数合問互和减半差分
+  hash: sha256:ce431ba066474b2d6e6ec90c009150fd5d4b14ad658444a73eab05a6ea3f4b22
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d710eb16a7565b7bf88e4ed9fd7de74c6807a6e37d843155450f188885b54a91

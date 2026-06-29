@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/639
+seq: 639
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又併丙三丁二戊一得六减九餘三却于前五人衰內各增三甲得八乙得七丙得六丁得五戊得四副併得三十衰為法除實得八石為一衰數以乘各人後增衰數得各人所得數合問戊起遞加八數至甲止或七人分者要將甲乙丙三人數與丁戊巳庚四人數同者又云三人分者要將甲得數與乙丙二人所得數同者俱倣前法算之今有金六十兩令甲乙丙三人依等遞差五兩問各若干答曰甲二十五兩乙二十兩丙一十五兩法曰置金六十兩內减差甲多丙十兩乙多丙五兩共一十五兩餘
+  hash: sha256:2b16644dc234f8d44bf088c147dc089585b2edd5e54aba02359c7553bf4fe462
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a7dfd85eba4ccd7dacc30c7c415a604530441def2bb4910c65ddb7e96e3146d2

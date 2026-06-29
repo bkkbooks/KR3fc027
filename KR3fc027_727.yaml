@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/727
+seq: 727
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右廉法二十步之次名曰隅法共得二十八步與左位次商八步相呼二八除實一百六十步又左八對右八相呼八八除實六十四步恰盡得方面一十八步若還原自乘是也右法以明方廉隅之名也假如今有圍棊盤共子三百六十一箇問每面子若干答曰每面一十九箇法日置棊子為實約初商一十步于實左下法亦置一十步于實右左右相呼一一除實一百箇餘實二百六十一箇就以下法一十倍之得二十次商九箇于左初商一十之次亦置九箇于右倍方二十之次共得二十九皆與左次商九相呼二九除實一百八十箇又左九對右九相呼九九除實八十一箇
+  hash: sha256:c486f3399b2cb7cf17d47b8f58b326c5c31ff5726943f761a95532da1ee0a8a8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b6aedcebdd88725d934594c8d62de489cd1cfd9407aa49d1c91324933e8d3a6c

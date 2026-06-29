@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/329
+seq: 329
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以七斤五爲法除之得二丈九尺六分六厘六毫六絲爲法則另以東西各絲斤数不動將両减六東六両変作三五七西二両変作一二五併原斤爲實乘之合問假如今有元亨利貞四人合本經營元出本銀二十両亨出本銀三十両利出本銀四十両貞出本銀五十両共本一百四十両至年終共得利銀七十両問各該利銀若干荅曰元該利一十両享該利一十五両利該利二十両
+  hash: sha256:c28c404ee47bb422e2530e2f2cbee7a66c7ab3ce2b3ab6c9b2b692c1c4dcadd6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:adad397d5f612c32fbd10317765e825cd0082eab4a5c9145353e40464d606054

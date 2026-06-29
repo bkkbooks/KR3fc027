@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1248
+seq: 1248
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 難題目錄卷之十三方田七問歌五鳳樓梧一雙搗練一粟布一十三問歌八西江月三梅氣清一水仙子一卷之十四衰分二十九問歌二十四西江月三鷓鴣天一水仙子一卷之十五
+  hash: sha256:99d4ad490739f4fa1a08b6d1c6d83cc862888f9e96e46eb25ad2b38ae2116c14
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0559b752f15e16cb03953257f40b8695ac6f45e82f21e1880333c79d63933de1

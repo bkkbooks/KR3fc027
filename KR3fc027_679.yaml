@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/679
+seq: 679
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 匹為法除之得二兩五錢為每匹絹價加多一兩三錢五分得羅匹價三兩八錢五分又加多四錢七分得綾匹價四兩三錢二分合問今有綾七尺羅九尺共價適等只云羅每尺價比綾每尺少錢三十六文問各錢價若干答曰綾每尺一百六十二文羅每尺一百二十六文法曰羅九尺以綾價三十六文乘之得三百二十四文為實另以綾七尺羅九尺相减餘二尺為法除實得綾尺價一百六十二文另置綾七尺以三十六文乘之得二百五十二文為實仍將前法二尺為法除之得羅尺價一百二十六文合問
+  hash: sha256:70895d2dc1e92248e62a3d4a47b16d3b9f2fede66b4345a456ce0a4598359b79
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f5a0544de167c5f4d875fcabe8606077edfa7456b288d700d2f8e09de73ef6ac

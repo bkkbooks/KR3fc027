@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1190
+seq: 1190
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置去岸九尺爲勾自乘得八十一尺以出水三尺爲股較自乘得九尺以減八十一尺餘七十二尺爲實以較三尺倍作六尺爲法除之得水淺一丈二尺合問水淺如股葮至岸如弦今有勾九尺卻將弦比股有餘三尺問弦股各若干荅曰弦一十五尺股一十二尺法曰以勾九尺自乘得八十一尺爲實以多三尺爲法除之得二十七尺減去多三尺餘得二十四尺折半得股長一十二尺加入弦多三尺
+  hash: sha256:03439ee1b0e70cba7389e45863141a9dea3b4e00ed2cddd65438ae7707761a3c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9fcbd6ac1a6ea531ec551a8ede29f39168f52d874e0efd4d8c62b0eb790cf389

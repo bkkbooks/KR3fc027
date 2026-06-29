@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/964
+seq: 964
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法日併上下廣折半得四十七尺以深一十二尺乘之得五百六十四尺又以長乘之得積四百二十五万八千二百尺為實以每工三百尺為法除之即得今有穿渠上廣二丈四尺下廣二丈一尺深九尺長三千八百四十尺每用人夫一十二名日開積六百尺問該人夫若干答曰一萬五千五百五十二名法日併兩廣共得四十五尺折半得二十二尺五寸以深九尺乘之得二百令二尺五寸又以長乘之得七十七万七千六百尺為積又以人夫一十二名乘之得九百三十三万一千二百尺為實却以六百尺為法除之
+  hash: sha256:0125666edca66a98dba555cf47994575818e34fe6e3c5f37a47e0a803fa6b02e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:517d1aa2643d2dc5de0ebbd3dfc7ab488c2530ad4d2c374f023fec1591b7cea3

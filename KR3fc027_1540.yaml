@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1540
+seq: 1540
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右易換術曰以十六子依陽圖作四行排列先將外四角封換一換十六四換十三次將內四角對換六換十一七換十只以内外四角換畢橫直斜角皆積三十四数求積法日以上西南一下東北十六両角共十七以十六乘之折半得積一百二十六爲實以四行爲法除之得縱橫斜角皆二十四数易換術曰先以十三居中位周圍連中位各三層一二三四五六七八九十十一十二廿二廿四廿三廿一廿一二十十九十八十七十六十五十四各相對換畢卽得数上債有餘下橫不足各数八
+  hash: sha256:6227019fafacdf6d3c95ae51f9c586b1ab16f571ee2060f23bdb9338dc7e856b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7a3d6b8eb0b4f034392abb811acea1ad6676f04c38cc5c3cb160c655bec6184a

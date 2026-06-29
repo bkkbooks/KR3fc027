@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1234
+seq: 1234
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今立表三尺退行一尺八寸又立表三尺六寸人目望其二表俱對遠處參合問遠若干答日十尺零八寸法日置後表三尺六寸一退行一尺八寸乘之得六十四寸八分爲實卻以二表相減餘六寸爲法除之得一十尺令八寸爲後表相去之遠若以前表三尺以退行一尺八寸乘之得五尺四寸爲實卻以二表相減餘六寸爲法除之得九尺爲前表相去之遠也窺望海島歌望島知高法術奇立來二表並高低
+  hash: sha256:f2292c7507f962fdcfbb25b1badcb2e6b301f26dbbf9ac1908e9fdf42f13e84d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b2b14084dc3895048697b030488168b7d5b4d2777c5806fbbcbf9062906edfcd

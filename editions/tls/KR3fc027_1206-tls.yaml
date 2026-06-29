@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1206
+seq: 1206
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲勾股較自乘得四十六尺二寸四分二位相減餘五十三尺七寸六分加入斜自乘得一百尺共一百五十三尺七寸六分爲實以開平方法除之得勾股相和一丈二尺四寸加入差六尺八寸共得一丈九尺二寸折半得高九尺六寸內減差六尺八寸餘得廣二尺八寸合問此二條卽勾股相差股别勾弦歌附勾别股弦卽勾弦和股弦和股別勾弦股自乘勾弦自乘減股零折半晉爲勾實積勾弦爲法最公平法除勾積爲勾數勾別股弦依此行今有竹高一丈爲風所折僕地稍尖去根二尺問折處高若干荅曰高四尺五寸五分
+  hash: sha256:45bdec144b2a0b07ea1a582e9f78d45d22b5da55fe9312520fda199ccbe8d008
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:41860b1a96323655f0d5e85dd5b6869aa5d4bcb5bbebe68c43f218f6decb2830

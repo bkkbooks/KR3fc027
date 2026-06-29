@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1454
+seq: 1454
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰原酒五升六合二勺五抄法曰置四處倍飲列一倍二二倍四四倍八併之得一十五率爲法乘盗六升得九斗折半四遭得原酒五升六合二勺五抄合問又法置盗六升以併倍酒率十五乘之得九斗爲實以倍酒率十五加原酒一共十六爲法除之亦得若以原酒倍飲四次卽知酒盡也每次除盗六升西江月待客攜壺沽酒不知壺內金波逢人添倍又相和共飲斗半方可添飲還經五處壺中酒盡無多要知原酒無差訛甚麼法兒方可
+  hash: sha256:d0d43fe6380c490caa8336551ce327245de83e50a5839c14711fcf007b1b473a
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7a9a9c9182d50ac05ae4a174d861adc6d3aa96a1485b1a660c3e971cec282c52

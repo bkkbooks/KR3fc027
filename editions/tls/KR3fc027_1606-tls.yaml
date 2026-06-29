@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1606
+seq: 1606
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 書直指筭法綂宗後数居六藝之一其來尚矢葢自虙宰世龍馬屓图而数擊端軒後纪暦隸首作筭而法始衍故聖人戀天立拯所以齊度量而民信者不外黃鍾九寸之管所以完四时而成歲功者不孙周天三百六十五度之数以至遠而天地之高廣近而山川之浩衍大而
+  hash: sha256:16df9bb31ef067229fd0377ac371e5c1885a28a1d9e352dea212f57c6efd8b04
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4743d12401b70e80d8dd6c2abe01a0c461d94c81495d35e425bd6bce7d9d8b29

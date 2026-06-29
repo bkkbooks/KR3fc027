@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/583
+seq: 583
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各若干答曰主米三千二百五十石腳米二百五十石法曰置米三千五百石以腳價五分乘之得一百七十五兩是腳銀數為實却將米價五錢六分併腳價五分共七錢為法除實得腳價米二百五十石以减總米三千五百石餘三千二百五十石為主米合問今有白羅六十七丈五尺于內抽一丈七尺五寸買顏色作染只染得紅羅六丈二尺五寸問各諛若干答曰紅羅五十三丈七尺三寸四分三厘七毫五絲
+  hash: sha256:ff099d09f063eb329816683241063aa79cc23f7d958c284071afcaf66d093014
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1ec4deed47efae16e1340623b0fe6d7c2044fac53d509a37ab41e85f4a588eaa

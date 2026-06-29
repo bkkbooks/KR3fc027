@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/375
+seq: 375
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 前圖下段坐車三式總合于一以為完成車樣于上外套似無蓋底墨匣兩旁木比十字木空長存作兩頭橫木插角合栒內空僅容十字轉動下橫木鑿一匾眼後高前底出篾上可釘環下釘鐟腳十字中心如墨斗㯒轉之心作曲尺樣三折裝在十字中心內者方而不動外者俱圓活動以便收放即似紡車之形套匣上頭橫木之下鑿一眼其十字四頭各開一口但遇一頭湊著匣眼用拴拴之置鎖其篾擇嫩竹竹節平直者接頭處用銅絲札住篾上逐寸寫字每寸為二厘二寸為四三寸為六四寸為八不必厘字五寸為一分自一分至
+  hash: sha256:fd4ed3d19d41dd8520c9d63ea424826214f0d57ca7c3ef6ff10f44657c0c5b9e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:15eb67caffd4e7db35066650b933f34d5dfa53ae2f5ff78b747a44ade88be437

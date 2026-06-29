@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1074
+seq: 1074
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰九人物一百二十箇法曰置盈不足併盈十二不足六共十十入箇爲人實以分十四减分十二餘二爲法除人實得九人却以分一十四箇乘人数得一百二十六箇內減去不足六箇餘一百二十箇是物数或置九人以分一十二箇乘之得一百令八箇內增十二亦得物数合問此是併盈朒爲人实出率相减餘爲法除人实得人数以分率乘之或增盈减不足得物数凢分物則用增盈减不足若買物者則用減盈增不足今有買物毎人出錢八文盈三文毎人出錢七文不足四文問人数物價各若干荅曰七人物價五十三文
+  hash: sha256:61ff4d54ac3b5562d063cf003609a29ab45dcd0a99ddeb2a6915f0064df89eb8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ff2ab412f91120a5403a215a879547ea6c0dbb3116dbc2697674dd393eac4c12

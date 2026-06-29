@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1434
+seq: 1434
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 比如有錢一文每日生利八文問八日該生利併本一文問共若干荅曰一千六百七十七萬七千二百一十七文法日置初日利八文自乘得六十四文又以六十四文自乗得六千零九十六文又以四千零九十六自乘得一千六百七十七萬七千二百一十六文加本錢一文合問前諸葛綂兵一問出吳氏九章因傑改正数差反爲不正故設此問以明上意歌一條竿子一條索索比竿子長一托
+  hash: sha256:c5f829f9686d56bd8baaa37153d32a7fc2dcd469fbbd8f7319e4011adbe5ec14
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:22034a40543b81399154c1a4654600aae60e53c059bb8f6aa867023fad2011ba

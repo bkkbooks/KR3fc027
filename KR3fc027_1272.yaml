@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1272
+seq: 1272
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有一公公不記年手持竹杖在門前借問公公年幾歲家中數目記分明一两八銖泥彈子毎歲盤中放一丸日久歲深經雨濕總然化作一泥團秤重八斤零八両加減方知得幾年荅曰一百零二歲法早置總八斤牛以毎斤三百八十四銖乗之得三千二百六十四銖爲實以毎歲一両作二十四銖加入八銖共三十二銖爲法除之合問西江月白麵秤來四斤使油一斤相和今來有麵九斤多六両五
+  hash: sha256:2c5c7e7971e208cc4c9d36dc7522ccae0c26b6400f02de1d68b9eeae94ed5714
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1fa5029546d01066445714811e8443d354daefbd155c6e0757123239d632cddc

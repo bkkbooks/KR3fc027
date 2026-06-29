@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1294
+seq: 1294
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 脚米一十七石三斗二升五合法曰此乃就物抽分之法置米八十四石以價一千二百七十文乗之得一十萬令六千六百八十文爲實併石價脚錢共一千六百文爲法除實得客米数以减總米餘爲脚米合問新編直指筭法統宗卷之十三
+  hash: sha256:e2624f1b06de0b203826bf709d84a8b2fc2a1080e21707c887006a875c1fde7c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:33c63832647df89e77d8745e6bedd67fe989ba97440f81b991849b92423c0ecd

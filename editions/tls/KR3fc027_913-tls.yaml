@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/913
+seq: 913
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圭田截積歌若作三段分者先截尖段下二段以做梯形截法圭田截積小頭知倍積原長以乘之原濶歸除爲實積開方便見截長冝仍以截長乘原濶原長爲法以除之除來便見截濶数法明簡易不須疑今有圭田長七十五歩北濶三十歩今自尖頭截積四百零五歩問截長濶各若干荅曰長四十五歩濶一十八歩圭截小頭法日置截積四百零五歩倍置得八百一十歩以原長七十五歩乘之得六萬令七百五十歩以濶三十歩除之得二千令二十五歩爲實以開平
+  hash: sha256:a273c9beb13f0b81d3d8836242a9869d8bc2da77aa3ea6a49a8983fe448cc50b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3a01ce234183f3f78c599e791d1e7925d84ba06e5a45861cf2a67c52d12cf3c1

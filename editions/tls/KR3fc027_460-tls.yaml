@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/460
+seq: 460
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 角田一段每角面濶七歩問八角占積併外餘若干荅曰八角占積二百三十九歩角外餘積五十歩法曰每七歩是上下斜角面如斜求方以五因其歸得五倍之得十歩是上下二段長加中一段面七歩共十七歩自乘得方面總積二百八十九歩另以一角長五歩自乘得二十五歩倍之得外餘積五十歩以减上積餘得八角占積二百三十九歩合問假如圓田徑十四計積一百四十七歩內容錠田占積併兩腰外餘積如欖形田二段長是歩濶四歩問該積若干
+  hash: sha256:15dd52d58961a1166b2a0a7980d6039a252d759d0dc4b96769de07d49e1af8a4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:da1379b6b5b99bb4f3c4e2d4b2127dc455b81ece812b604146b42e35ebe2211c

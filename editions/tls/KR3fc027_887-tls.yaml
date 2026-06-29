@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/887
+seq: 887
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有米五百一十八石四斗欲造方倉盛之問方高若干荅曰方一十二尺高九尺法日置米数以斛法二五乘之得一千二百九十六尺爲實以開立方法約之得方一十二尺却以方一十二尺自乘得一百四十四尺爲法除實得高九尺合問或云高九尺問方若干荅曰方一十二尺法日仍以前實以高九尺除之得一百四十四尺以開平方法除之得方一十二尺合問新編直指筭法綂宗卷之六
+  hash: sha256:c830a33432b972676e6a5507e7e13871fd7d2c1870ea24dd1fdd9af7b5ef22e2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:08e9580facfc3897aa4758f913d9f65f1499294a7abd979201b7513814c56f4b

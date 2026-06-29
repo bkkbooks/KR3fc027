@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/713
+seq: 713
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新安實渠程大位汝思甫編集會肆素亭光肆章甫乾正蕴斋鈁洪䝂甫禾閲小廣章第四此章如田截縱之多益廣之少故日少廣如方田還原之意以方法除積幂而求方以圓法除方实而求圓所註開平方平圓頭緒樂冗初學者難今註釋簡明于後開平方法認商歌一百一十定無疑一千三十有零餘九千九九不離十一萬爲一百推得商方除倍作亷次商名隅併亷除
+  hash: sha256:594046a2491a18811cb54fdf56da2b08ea5a3c1de2d136a06ab3f2ee882c0e2f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:24b50400e8e6b58a45d491d521da84f5079ba63d589a945bcf25e3ead9b31b2f

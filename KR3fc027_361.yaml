@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/361
+seq: 361
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 總除為法此術極妙矣傾煎論色假如今有九二成色銀七兩四錢八分傾銷足色問該若干答曰六兩八錢八分一厘六毫法曰置銀為實以九二色為法乘之合問假如今有足色紋銀一十五兩二錢換九五色銀問該成色銀若干答曰該九五色銀一十六兩法曰置紋銀一十五兩二錢為實以九五色為法除之即得
+  hash: sha256:08924ce6c67744765fb289c9f68c95d847b4667b0199269e189d3e8d4493089c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2aa1d0010fdbecdae2e1c9570f7853114321a67e07357f9e3a0f335ae0b70929

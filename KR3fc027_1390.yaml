@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1390
+seq: 1390
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二歩得長六十八歩合問船缸均載歌三百六十一隻缸任君分作幾船裝不許一船多一隻不許一船少一缸荅曰船一十九隻每隻裝缸一十九箇法日置缸三百六十一隻爲實以開平方法除之初商一十于左亦置一十于右爲方法左右相呼一一除實一百餘實二百六十一右法初商一十倍作二十爲廉法次商九于左亦置九于右之次共二十九皆與左次商九相呼二九除實一百八十又呼九九除八十一實晝得一十九船每船載缸一十九个合問
+  hash: sha256:71a9a9d97fcbe832d73c674b56e3a30177cd68f6df1d0bf2c9b3e9067fa30700
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4d0d4fdccf8d893de4d9a8272c1fb072e16b6309686328a69e8f8991be8d715c

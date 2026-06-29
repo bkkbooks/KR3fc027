@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1336
+seq: 1336
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七文以少减多餘四十一爲常法又以右中七箇互乗左下九百九十九文得六千九百九十三文再以左中四文互乗右下一千箇得四千以少减多餘二千九百九十三文却以常法除之得七十三爲短法若求甜果以七十三乗九箇得甜果六百五十七箇另以七十三乗一十一文得甜果錢八百令三文於總果內除六百五十七餘苦果三百四十三箇又於總錢减去甜果錢餘得苦果錢合問均舟載塩歌四千三百五十塩大小船隻要齊肩五百塩裝三大隻三百塩裝四小船請問船隻多少数毎隻船載幾引塩
+  hash: sha256:a0faf4802584feccbfaf1793a84f113707faa439ba2e049e7763d25476ecbcb2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d1eda24a91a473f8329f590f5d7d12f80e378482c8505178d5db6321879c4355

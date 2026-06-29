@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/531
+seq: 531
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二百整斤為一引兩下別有毫厘分截兩為斤歌一退六二五二一二五三一八七五四二五五三一二五六三七五七四三七五八五九五六二五十六二五十一六八七五十二七五十二八一二五十四八七五十五九三七五截兩成斤歌此謂斤下零兩叠積以求斤數一退十五共十六成斤進一千斤位二退十四發後進一皆同三退十三四退十二五退十一六退十
+  hash: sha256:7bea84eeae689059c604da74957cda1bb36d48337acc3a90bbf552fd90799dc1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:970cbf868ee9e68df3ff2c1027ffbbaeca1d7209470d108998e7a08690aab222

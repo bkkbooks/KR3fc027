@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/893
+seq: 893
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置截積七百二十步為實以原濶四十步為法除之得截長一十八步合問今有方田一丘今從東南角截一直形積三十二步原要南邉濶四步問截東邉長若干答曰截東長八步法曰置截積三十二步為實以南濶四步為法除之得截東長八步合問若東長定數問截南濶就以長數為法而除截積今有直田長一十五步濶一十二步今從東邉截積五十
+  hash: sha256:dd79dde94ad10a32870510863d45ff95a4f04cb93b565c2e341f131482f443f2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:19713894cc7bbf0376cc68c462cd7c5cf35672fcdce5375a63b261aa2151c42b

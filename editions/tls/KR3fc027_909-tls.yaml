@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/909
+seq: 909
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圭求中廣数圭求中廣要思量却用下廣乘尖長正縱加入尖長数爲法除之中廣長法日置下廣一十二尺八寸以尖長一尺五寸乗之得一十九尺二寸爲實另以正縱一十尺令五寸加入尖長一尺五寸共一十二尺爲法除之得中廣一尺六寸合問假如三角田一坵三靣各一十四歩今作三段俱要四角問長濶各若干荅曰共積八十四歩三角各得二十八歩每各計長八歩濶七歩
+  hash: sha256:809ad7dd261c634dc58e7ea1a84a896e53369dc28f5bd8ffb8cbba24b9a658f4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f5f081337b3643e42ac1e4b1090354d96bf654eba3295b5ee0c2df5151960aa6

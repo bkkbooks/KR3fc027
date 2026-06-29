@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/691
+seq: 691
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仙人換影歌又曰貴賤相和貴賤相和換影仙賤物互乘貴價錢貴物互乘賤價訖相减餘為長法然先使總錢乘賤物後用總物乘賤錢二數相减餘為實長法除之短法言貴物貴價各乘短物價分明皆得全總內减貴餘為賤不遇知音不與傳今有錢四千九百九十五文共買桃梨五千箇只云錢一十一文買桃九筒又錢四文買梨七箇問桃梨各若干答曰佻三千二百八十五箇諛錢四千零一十五文
+  hash: sha256:123030378a745d3506cf10a093815828eb7e60813403a080c0495196ff179558
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:325c217ed2b2a5e600e355bfbc8b3703d51b87f2af2fba7e528133834341e0e7

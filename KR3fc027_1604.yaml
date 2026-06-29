@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1604
+seq: 1604
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 敏不是以遠紹薪傳竊願有志斯道者由府君之言上讀府君之書而志府君之志庶幾如痀僂丈人之不反不側其進乎技也不難矣峕康熙五十五年歲次丙申鲁孫光紳謹識
+  hash: sha256:6dbfa00067706a2818fe129bf6d74ee797f874e27fc589f7d86e16084bda6fa9
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4052f95ba6ce8d85c874e51232e2c63835bcae0fea28981c77618eaab27237de

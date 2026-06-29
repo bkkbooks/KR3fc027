@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1292
+seq: 1292
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 來有一斤不知多少数特來問緣因荅曰金七百三十萬斤法曰置周八里以四歸之得毎面二里自乗得四里又以每里三百六十步乗之得一千四百四十步以毎步二千五百寸乗之得三百六十萬寸又以湥二寸因之得七百二十萬寸卽七百二十萬金也合問西江月客向新街糴米共量八十四石一千二百七十知石價盡依鄉例雇覔小車搬運裝錢三百三十脚言家內缺粮食只據原钱要米荅曰客米六十六石六斗七升五合
+  hash: sha256:78c5d5e12b74e9d85f873ae0466d91b05f6210bd872afcc416eab8f393ec1b93
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:72dd3e10b27486165a3c0261d410100f11a5d9e680096fd4e17b339819c0a04e

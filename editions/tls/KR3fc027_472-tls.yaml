@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/472
+seq: 472
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰二十三歩六分歩之五法日置廣五歩以分母二通之加分子一共十一另置縱八歩以分母三通之加分子二共二十六與廣一十相乘得二百八十六折半得一百四十三爲實以分母二分三分相乗得六分爲法除之得二十三歩餘實五以法命之得六分之五今有圆田俓六歩十三分歩之十二周圍二十歩四十一分歩之三十二問該積若干荅曰三十六歩法日徑求積置徑六歩以分母十三通之加分子十二共九十自乘得八十一百又以分母十三减分子十二餘一以乘分
+  hash: sha256:dba3a7f45ca1e3d137e0ff37e3413b3911a5a55d89c6ecd26dd5a6e8cc6b7d24
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:50535d81fa3078f435fa0342aabea5b67023cf402456dfea426ab51142174b01

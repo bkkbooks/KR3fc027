@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1298
+seq: 1298
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五十六両李得八十四両副併共得二百四十両爲法另以織布一百零八尺乗張一百五十六両李八十四両得張一千六百八十四丈八尺李九百零七丈二尺各自爲實以法除之合問歌趙嫂自言快績麻李宅張家雇了他李宅六斤十二両二斤四両是張家共織七十二尺布二人分布鬧喧譁借問卿中能筭士如何分得的無差荅日張宅五丈四尺李宅一丈八尺法曰置共織布七十二尺爲實併二麻張六斤一十二両以斤加六得一百零八両李二斤四両以斤加六得三十六両共一百四十四両爲法
+  hash: sha256:12a2fe216f2210074742de3046283c77cf96cde55fb1541186ced5fb6410820c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4db1590b4fccab17bdb9639198b6ea4f48f3254eb324f2d7ce8441e258bdb6a8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/142
+seq: 142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若干法日置米為實以銀每兩雜米三石為法歸之得數莫動定位訣日此是實多法少先從實首位起數原實百順下至石遇法首位是石則止前一位得令是兩又前一位是十兩又前一位是百兩此是逆上假如麥四百五十石賣銀三十二兩四錢問每石該銀若干法日置銀為實以麥為法歸除之得數莫動定位訣日此是法多實少先從實首位起數原實十逆上至百遇法首位是百則止前一位得令是兩降下順數至實是七分次位即二釐也
+  hash: sha256:b2040ae2f357b2502d282ed3a05a727b093f9097dcda19e1b57471e3da1ec16b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:bd0586fdbd5ffad59d390e9278238ea72ce3f13f372f22fa19527fec76b43ec4

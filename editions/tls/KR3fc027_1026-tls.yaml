@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1026
+seq: 1026
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新安賔渠程大位汝思甫編集會孫素亭光紳佩章甫較正蘊齋鈁洪聲甫叅閱均輸第六章均平也輸送也此章以戶数多寡道里遠近而求車数粟数以粟数高下而求僦直以錢数多少而求傭錢歌曰均輸只要一般般不許虧民及損官勞費程途知遠近分毫依法要詳端行道駕船皆一體負桃車載重輕看今有銀二十二両八錢買黃白蟾各要均平共黃臘毎三
+  hash: sha256:efe896cc185fa7aa0078167e0fed20c51e801ad3ee42ab4f55e9b637a3dbaab7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:381ce366a159470ab6640989038cd8743ebc6992a16508e9eebc264cecfff228

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/128
+seq: 128
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加法者隨母畱身增添謂之加謂如正米每斗帶耗七合者畱身以七合隔位加之又如每銀一両加利三錢不破本身以三增之故謂之加法或用乗法而代之如每斗加七合就以一斗零七合乗之得正耗之數也減法者卽日定身除法約存原本之數而除之故謂之減假有正耗米共九斗只約正米八斗呼七八減去五升六合之類又如本利銀四両每両減去三錢只呼三三除減九錢得本銀三両有零之類或用歸除而代之如正耗米爲實就以一斗零七合爲法歸除
+  hash: sha256:ce025a6aef9dcac6537a5c7eb97a3caa7c57c94cd266dc9054d750c4a139457e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9b2a6e08605f7170885292204c27a2545f09a031fbfefcfff15098faeb81e68c

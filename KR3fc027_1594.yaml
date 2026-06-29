@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1594
+seq: 1594
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鈴經鈴釋嘉定咸淳德祐等年又刋各書詳解黃帝九章詳解日用筭法乘除通變本未績古摘奇筭法巳上俱出楊輝摘奇內詳明筭法元儒安止齊何平子作有乘除而無九章不偹九章通明筭法永樂二十二年臨江劉仕隆作九章而無乘除等法後作難題三十三款指明筭法正綂巳未江寕夏源澤作而九章不全九章比類筭法景泰庚午錢塘吳氏作共八本有乘除分九章每章後有難題其書章類繁亂差訛者亦多筭學通衍成化壬辰京兆劉洪作九章詳註筭法成化戊戌金陵許荣作采取吳氏之法
+  hash: sha256:0d929cc8b18e8b4c49633fbfa5f10a7f255cbe2b758b3dd8e439b6e0b8cf16d7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:65044c62d672ee3b257c9c9f1a15716f0f6edf8ec5c101e7645686917812c4d1

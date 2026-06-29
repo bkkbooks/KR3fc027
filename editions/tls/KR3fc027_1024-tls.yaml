@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1024
+seq: 1024
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 作八十八根相乘得一千二百三十二根爲實另以長六丈以一丈五尺除之得四根爲法乘之得四千九百二十八根又以深二丈一尺用三歸得七尺加之合問若量方圓束木法見前六卷少廣中右捆法雖設則獘客獘未免但一封書併荒排法無異其方捆所如或濶深長不一法難必新編直指筭法綂宗卷之八
+  hash: sha256:ae73a7ad9f7e0d3e7fd881601a22ac9c1cbba91158585de656cf7483c41e92b6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b0faba710105f2802d25f2a352fc8ce1d1f11743c51b863fb71a2b4d1f26c250

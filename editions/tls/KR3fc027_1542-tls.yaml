@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1542
+seq: 1542
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求積法曰併上一下二十五共二十六以二十五乘之折半得積三百二十五爲實以五行爲法除之得縱橫斜角皆得積六十五数解曰併上下数者非圖中之上下一乃数之始爲上二十五乃数之終爲下後皆倣此求積法日併上下数上一下三十六共三十七以三十六乘之折半得積六百六十六爲實以六行爲法除之得縱橫斜角皆積一百一十一数易換術曰以一換三十六俱斜對相取
+  hash: sha256:797ec4840c7b5c492e8f8fa0761a93eb5445e2f00f88ba7d07c50fbc1de0efa1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:262b3a0056a5e566302588c10c27f215053dcb5e4451273d98afb35c2bb5d98e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1596
+seq: 1596
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九章詳通筭法成化癸卯鄙陽余進作采取詳明通明法啟蒙發明筭法嘉靖丙戌福山鄭高昇作馬傑攺正筭法河間吳橋人嘉靖戊戌作而無乘除只攺錢塘吳信民法反正爲卯数今予辯明圖釋系校免愪後李勾股筭衝嘉靖癸巳吳㒷尚書箬溪顧應祥公作無乘除正明筭法嘉靖巳亥金臺張爵作筭理明解嘉靖庚子江西寧都陳必智作重明筭法訂正筭法嘉靖庚子浙東會稽林高作詳解定位測圓海鏡嘉靖庚戌學士樂城李佁公作無乘除弧矢弦術嘉靖壬子顧箬溪作無乘除
+  hash: sha256:898d6f6aab1f090964e7878fdd3076e2692f4ff67b8376fe925f62ea7df6ebbb
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c2e6f4abf1853cba6a5b017f78ca301016f78f387d10668c6b548f83e2e41682

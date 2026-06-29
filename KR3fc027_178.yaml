@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/178
+seq: 178
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五十四五得二十變五為二十實首二百二四如八本位除去下位加八原實百起呼百往後順數至兩令得一百還原用四歸法詳後四一二十二四二添作五四三七十二逢四進一十逢八進二十假如今有榖二百四十六石九斗每石碾米五斗問該白米若干答日一百二十三石四斗五升法日置榖為實以每石碾米五斗為法因之合問法五斗因
+  hash: sha256:d792ea3221807373c4b599815cd3fb2d85b0abd190ffaba9c8575a003f785c58
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:89f0f13e4f8fea092cecc19b4de583ac84825807afc24064bd22f6fb86b68bfb

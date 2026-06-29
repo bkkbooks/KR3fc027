@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/677
+seq: 677
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七兩七錢為馬價合問今有銀二千九百二十八兩共買綾一百五十匹羅三百匹絹四百五十匹只云綾匹價比羅匹價多四錢七分羅匹價比絹匹價多一兩三錢五分問三物匹價若干答曰綾價每匹四兩三錢二分羅價每匹三兩八錢五分絹價每匹二兩五錢法曰列羅三百匹以多絹價一兩三錢五分乘得四百零五兩又列綾一百五十匹以二項多價共一面八錢二分乘得二百七十三兩併之得六百七十八兩减總銀餘二千二百五十兩為實併綾羅絹共九百
+  hash: sha256:aa39a0db75e752ce702a0e5bd84a8568373b7e0c596f69aed918348be7cb3737
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a97ab668c264a41b7ac296c81eba1d3eed7d6635ea749b6ac0e22cbb64ce1bc7

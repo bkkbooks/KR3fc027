@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1308
+seq: 1308
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五等分金歌公侯伯子男五四三二一假有金五秤依率要分訖荅曰公一秤十斤侯一秤五斤伯一秤子一十斤男五斤法曰置金五秤以毎秤一十五斤乗得七十五斤爲實列公五侯四伯三男一子二副併得一十五爲法除實得五斤爲男所得数加五得十斤為子所得数再加五得一秤爲伯所得数又加五得一秤令五斤爲侯所得数再加五得一秤一十斤爲公所得数合問
+  hash: sha256:837e7816b543e829427d502a426295560da6aa7abfe0efa6dffce7253f99b7d6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3b7d496bccea3620fbad0cfc0d7dd96938b5ce88cf55c01b31245eb7f224262b

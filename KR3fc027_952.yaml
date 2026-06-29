@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/952
+seq: 952
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 離徑自乘併為實開方倍數為圓徑法日置弦二十四步折半得一十二步自乘得一百四十四步以離徑五步自乘得二十五步相併得一百六十九步為實以開平方法除之得一十三步倍之得二十六步為圓徑圓徑及離徑求弧弦歌圓徑離徑求弧弦圓徑折半自相乘離徑自乘减餘實開方倍得弧弦成法日置圓徑二十六步折半得一十三步自乘得一百六十九步以離徑五步自乘得二十五步相减餘一百四十四步為實以開平方法除之得一十二步倍之得弧弦二十四步
+  hash: sha256:3bb357857fc41ebfff355ec5fac814f3457e75eee111a9f5a18d94d4b59fd2ef
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fead889d08231f84d8400ff60c0cb509ba4d1ac11991e935fda391e8d9fe7a0c

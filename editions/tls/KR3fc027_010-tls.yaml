@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以徔事制舉未之習也比来亰師属天子留心律暦開置館局脩明筭法四方經緯通達之彥雲集輻輳予甞以暇過徔諸公逰亟為余稱道以謂此書寔集算學大
+  hash: sha256:c9a68587856d0fa9b06786775719709f7507a372ad21e3fb088650c5f1fe4629
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:be39789d66a02633703369f31dec519bb5e510c8dfc659902358d3c0a73d4e07

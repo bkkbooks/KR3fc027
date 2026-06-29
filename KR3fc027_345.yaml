@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/345
+seq: 345
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五分加原本一兩本利共一兩一錢五分為法除實得除本銀七兩八錢二分六厘又以通利一錢五分乘之得利銀一兩一錢七分四厘本利共合九兩之數另將原本一十五兩除還原本七兩八錢二分六厘餘者仍存數也異乘同除此法雖易知之術其意至奧或人用先除後乘之法若除之不盡將何以乘之乎此異乘同除實為通變之法也歌日異乘同除法何如物賣錢來作例推
+  hash: sha256:efa9d81989f80f9709c488eeac4fa096c8a5881b7762aeee3440287ce7555138
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d6cc7b07a6ca66000228b86bb13ca81deab92c23166f9e55d4080dc483b83eb3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/525
+seq: 525
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰二領法曰置米十石以較米二石五斗除之得四領爲實以平方開之得二領作囤合問今有米二十二石五斗欲用蓆囤盛之亦以一蓆較数同前問諛用蓆若干荅曰三領法曰置總米爲實以較米二石五斗爲法除之得九領又爲實以平方開之得三領合問論曰蓆盛米法予以蓆一領且如長四尺作一囤較之四靣各方一尺也若二領若長八尺作一大囤是
+  hash: sha256:01e21b27cf0a31cfc7ea4b44bd66c41d3f4e88cdf6eade7be4b39990e7452b47
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6fc7ee56604e105c7407a8725ebc379dbde30024ae62520081f4b59e40bd2e47

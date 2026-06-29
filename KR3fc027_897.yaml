@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/897
+seq: 897
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 邉勾濶若干答曰截北勾濶七步直截勾股法日直截積三十一步五分倍置得六十三步以西股長九步為法除之得截北勾濶七步合問今有直田積一千九百二十步只云長六十步問濶若干答曰濶三十二步法日置積一千九百二十步為實以長六十步為法除之得濶若是只云濶三十二步問長若干就以濶為法除之得長今有圭田積二百二十五步只云長三十步問濶若干答曰濶一十五步
+  hash: sha256:7c814e62921c72ebd6c29d3458774bc1fde8777d0bb1d82803040e2f1ba10fe8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7232b9d6fd5e75a275ee9dc77dc8477d1ba9d8867f3930d01dbce41d543cfb7f

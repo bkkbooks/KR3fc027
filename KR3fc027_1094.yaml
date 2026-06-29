@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1094
+seq: 1094
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有人買物毎人出銀七両不足一十四両毎人出銀九両適足問人数物價各若干荅曰七人物價銀六十三両法曰置不足適足列出七両出九両互適足不足十四両只以不足一十四両互乘出九両得一百二十六両爲物實另以不足一十四両爲人實却以出九両內减出七両餘二両爲法除物實得物價除人實得人数合問一法以不足一十四両爲人實以出率相减餘二爲法除實得七人以九両乘之得物價今有米換布七疋多四斗換九疋適足問米布價各若干
+  hash: sha256:7677cf126b1526c852aefd63cc3028a5d10cfb8bac82c80b41ba24b84c422aec
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9f10bd5c19638c0e5709b56f5e7211df23842d0ba450e37b050473c6cf483bac

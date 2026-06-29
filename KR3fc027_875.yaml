@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/875
+seq: 875
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有米七百零五石六斗欲作圎倉盛之問周圍及高各若干答曰周四十一尺高一十二尺法日置米數以斛法二尺五寸乘之得一千七百六十四尺再以圎法十二乘之得二萬一千一百六十八尺為實以開立方法約之得周四十二尺自乘得一千七百六十四尺為法除實得高一十二尺合問今有米五百七十七石二斗欲作方窖盛之問上下方及深各若干答曰上方九尺下方一十二尺深一十三尺法日置米數以斛法二五乘之得一千四百四十三尺又以三因之
+  hash: sha256:75c010426ed4ee9db63ee6cd21a843e7ee055f1b356fb0dfac4099d3055ccbc7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:612e486e5c4d30f8bd61810f8d568939c104436c3f33010324d73f4342de0e2a

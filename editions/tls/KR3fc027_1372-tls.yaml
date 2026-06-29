@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1372
+seq: 1372
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古法通田三分得七十二歩以每邉三歩約之得圓徑一十二歩自乘得一百四十四歩三因四歸得一百令八歩减田積七十二歩餘三十六歩平方開之得池方六歩合問又法以每邉三歩自乘得九歩又以四因得三十六歩加入倍積一百四十四歩共一百八十歩爲實另以沒邉三歩以八因之得二十四歩爲縱方平方開之約商六歩于左亦置六歩于右併入縱方二十四歩共得三十歩與上商六歩相呼除實盡得半徑六歩倍之得全徑一十二歩是也孤峯馬傑斷古法曰以每邉三歩之得圓徑一十二歩此數非圓田之正徑手以正徑前之積歩不及三分豈有方池六歩之容前後不接細考後矣
+  hash: sha256:ecba35478ad62699841af1c664891af08ba6f308bfdbc7d03be00367af35425d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0353b3ad1e6bcd165ed96f88222e06d69e0e73014bdcb25dc2becf988f4f6ccd

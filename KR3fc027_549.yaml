@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/549
+seq: 549
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置棗七十八斤不動將二兩化為一二五併得七十八斤一二五為實另以二斤不動將四兩化作二五併得二斤二五為法乘之得一百七十五斤七八一二五却將斤下零七八一二五用加六之法加之得一十二兩五錢合問今有生漆三百七十七斤每斤晒得熟漆四兩問諛熟漆若干答曰九十四斤四兩法曰置生漆為實以晒熟漆四兩化作二五為法乘之得九十四五二五却將二五用加六法得四兩合問原買大絲一斤用價七錢六分五厘今又買六兩問諛價
+  hash: sha256:30c042a8918fed27550966d3cb838768582e0427416d68d2cca80311b9fd8582
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:dd051a2195ca17e324e8a9c787f4f15ad355698993deab9972a58a081bec2d79

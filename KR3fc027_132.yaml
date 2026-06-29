@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之以四去之算家若不精微豈可合得數乎異乘同除者謂先應除法而後用乘法者其除法多有畸零不盡之數則何由而用乘法乎故變法而先用乘法然後用歸除雖有畸零數之不盡者而可命之故日異乘同除至于精與其變通之大術矣異乘同乘者謂如用四乘之又用五乘之再以七乘之者就變法以四乘五得二十再以七乘之得一百四十就以一百四十為法乘之以代三次相乘而數之不差矣異除同除者謂用四歸之又用五歸之再用十二歸除
+  hash: sha256:99333b51b2bb2e754605cf0df3772f5d19eb16cff13c2dbf9494ba674b29663a
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1936360626abf433c7009f9d082735690d641526a15bc9998d6fc1cc201922d3

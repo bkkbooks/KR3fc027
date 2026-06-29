@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1432
+seq: 1432
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 每隊更該八箇甲每箇甲頭八箇兵荅曰一千九百一十七萬三千三百八十五人法日置總兵一以八因之得將八員又八因得菅六十四又八因得陣五百一十二又八因得先鋒四千令九十六人又八因得旗頭三萬二千七百六十八人又八因得隊長二十六萬二千一百四十四人又八因得甲二百零九萬七千一百五十二人又八因得兵一千六百七十七萬七千二百一十六人除营陣不作数其總兵將先鋒旗隊甲兵併之合問馬傑曰以八八相因得六十四自乗得数又自乗得数加總兵一共得一千六百七十七萬七千二百一十七人予據傑變用此法差数二百餘萬改正之誤也
+  hash: sha256:394dde6415a566dc1a97b21473dbc81af38646151ba8b88639fb4e8541cd149f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:581399a5d5acdf646af1ddc4e1e1feff85e42ed221dd24dd9d3cdeaf2613e769

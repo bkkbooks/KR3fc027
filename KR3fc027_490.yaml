@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/490
+seq: 490
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 要將易換貴求賤乘來除去不差池諸數率數此若粟換稻置粟以稻率乘之為實以粟率為法除之得稻今率不一姑記之餘做此粟率五十稻率六十糲率三十糲七十五稗米二十七御米二十一御四十二稗大麵各五十四小麵十三半糳米二十四豉六十三麻麥菽各四十五今有榖八百六十八石五斗礱為糙米四百一十六石八斗八升問每榖一石礱米若干答曰糙米四斗八升法日置糙米為實以榖數為法除之即得今有糙米四百一十六石八斗八升春作白米三百三十
+  hash: sha256:e07faae6c0bf137f4bb367adb528e63b0ba9d512095b16e6c62658b6a1125edf
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:be8628e3abf2feb09ea2210a172b49d4f74b9c8adb810af26df6e0a0975a07f2

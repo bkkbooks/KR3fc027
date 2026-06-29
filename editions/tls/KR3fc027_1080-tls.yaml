@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1080
+seq: 1080
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 数另併互乘長短得六尺四寸爲舊帳幅實仍前法除之今有直田一叚欲截南頭賣之只云截長六步不足七步截長八步盈九步問截賣步数及田原濶各若干荅曰截賣五十五步原濶八步法曰置盈不足截六步截八步互乘盈九步不足七步先以截六步乘盈九步得五十四步次以截八步乘不足七步得五十六步併二位共得一百一十步爲截積之實却以截賣六步八步相减餘二步爲法除之得截積五十五步另以不足七步共得一十六步爲田濶之實仍以前法二除之得原濶八步合問兩盈兩不足歌
+  hash: sha256:de8c0598dc6de3f52082ea5695aaba26836c2cf872e374ff7f00a12d85e14982
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:796a795fce203774f83c852930aa02f7a786e03559f103c2592e1ada4e81c1de

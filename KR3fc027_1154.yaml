@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1154
+seq: 1154
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰列所問數以一行三行爲奇二行四行爲偶一瓜二梨四空空價四分二空梨二桃七空價四分三空空桃四榗七價三分四瓜一空負四空榗八得幹六價二分四厘得四分八厘先以一行瓜二爲法遍乘日行梨空負四桃空榗八得一十六價二分四厘得四分八厘卻以四行瓜一遍乘一行梨四得四第四行梨空無減桃空價四分得四分與四行四分八厘對減餘八厘次以二行梨二遍乘四行梨負四得八桃空榗十六得三十二價八厘得一分六厘卻以四行梨負四遍乘二行梨二
+  hash: sha256:5ad1b1f21a4301b30d9d99c1fae337e49a3d32ab89de86fe9a575cdeb6627085
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6d8c9b8f67f20a107ca9512a9132ce19b3a3a01f432ddd2756a8942652545c20

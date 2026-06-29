@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/869
+seq: 869
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開立方廉隅圖
+  hash: sha256:f65a0b8152141d6279461318cc9e2cc364d45c6274dfb138eb7a089283300527
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:890b725e96e2445acc5a2d3cf022b5de9d1925504185b630e1c3325f49214c0a

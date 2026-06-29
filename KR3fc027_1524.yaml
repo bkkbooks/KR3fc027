@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1524
+seq: 1524
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歌曰縱橫十五人能曉天下科差掌上觀萬中千坎百歸艮十震両巽錢離安分坤厘兌毫乾上洛書干載再重看免用筭盤併筭子乘除加减總不難自古有洛書縱橫十五数今以此数九位爲筭先熟記其位数坎一坤二震三㢲四中五乾六兌七艮八離九次書其圖形布排運用乘除不用筭盤並無差悞依前排列九圖爲萬千百十両錢分厘毫用錢九箇若遇問分只動分圖上一箇錢共九箇卽九位也若实数位少只用三四圖卽得右上一圖相生爲九定式于左
+  hash: sha256:7938eb8eb9675a81e37891d64db4ad6e44f7322f851004cf56140aa07c67924f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:53305c943a5ffe29778e253dd5b3bec083d4e8e03e7468bcdb5f11e7c1ca2407

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1522
+seq: 1522
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 該價若干荅曰二両七錢四分法曰置銀于左列爲四行以綾四十五疋于右爲法除之四一二十二二五除一十四三七十二五七除三十五四一二十二逢八進二十四五除二十尽此亦總呼之法後分四行而用三両加前五作加前二共十逢八進二于前位仔四五除二恰尽十加前二作五七除三十五去四存下位加五又四二十下位二加二又加後進二作四分二百加前二作二五除一十存四三七十下位二加二錢千四二十下位合二加二得二両
+  hash: sha256:93d571093ce36abf7c3e4d7ed0f5fe52bb7cefe16899d0a63f95ffc3c47534f4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:11630d48c2f58b19dc5028a60d6785d6fe1e14061fadd0db673625fb0b9b32fc

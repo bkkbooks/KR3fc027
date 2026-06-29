@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/94
+seq: 94
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四日少廣以御積冪方圓五日商功以御功程積實六日均輸以御遠近勞費七日盈朒以御隱雜互見八日方程以御雜操正負九日勾股以御高深廣遠筭學節要學筭之人須努力先將九数時時習呼如下位筭爲先變其身数呼求十觀其發問果何如仔細斟量分法實若然法實旣能知次求定位最爲急再考九歸及歸除又將減法細尋繹有能致意用工夫筭學雖深可盡識乗除用字釋以者用也置者列也爲者數未定也得者數已成也呼者呼喚其数也命者言也首者第一位也尾者末
+  hash: sha256:531450bf25e40bbd12eb56e8dc74046840000c3676bccb49bec892c922ffac46
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:572ac6d6825a05ebfdbfeb2549b9ae86fd2f08087becf640f24235ccbcf766e8

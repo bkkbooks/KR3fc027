@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/948
+seq: 948
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弦矢求圎徑併離徑歌弦矢求圎徑可推半弦自乘矢除之再加矢濶為圎徑半之减矢離無疑法日置弦二十四步折半得一十二步自乘得一百四十四步為實以矢八步為法除之得十八步再加矢濶八步得圎徑二十六步復折半得一十三步减矢八步餘為離徑五步圎徑及弧徑求離徑併矢濶歌徑弦求離徑矢濶元徑弧弦各折半各自乘减餘開方離徑圎徑弧矢辨法日置圎徑二十六步折半得一十三步自乘得一百六十九步另以弧
+  hash: sha256:0472cf797c29f1bcb5b4ed3493d7700b8ca9a4d882b57c319434b56b3c934a83
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ccba94fe48b6485760dd7cfb326e0b94a734dbdac650f6172d000bc5a4594f36

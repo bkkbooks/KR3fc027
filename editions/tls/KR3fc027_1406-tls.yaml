@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1406
+seq: 1406
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次商五下法亦置五自乘得二十五爲隅法又次商五乘廉三十三得一百六十五併方三百六十二廉一百六十五隅二十五三法共五百五十二皆與上商五相呼除實盡得底脚一十五个合問難題商功五歌穿渠二十九里程再加一百四歩零上廣一丈二尺六下廣八尺丈八深每日一夫三百尺問該夫数雇工興荅曰三萬二千五百八十人不尽二百八十八尺法日置二十九里以每里三百六十歩乘之得一萬令四百四十歩加零百一
+  hash: sha256:96e5e850cedd937d10f35b35948bc91bf475242fea8baad1f35666b7651b5416
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e1582d122b6baf026dc3d61dc13ffeaac57bdfa0f298eb73f13c128a1085ae2a

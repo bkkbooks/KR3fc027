@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/831
+seq: 831
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得立方数若干自乘得若干又以三因之得若干另以所商得立方数若干用三因之得若干再添一箇共得若干便商得多一立方数也因此不及而爲之命立圓法遇有不盡者亦倣此若要還原以立方面自乘再乗見積若還原遇立方原有不盡数者以立方靣自乘再乗併入不盡数見積今有物三千三百七十五尺問立方若干荅曰立方靣一十五尺法曰置物三千三百七十五尺爲實約初商得一十于左下法亦置一十于右自乘得一百再乘得一千除實訖餘實三千三百七十
+  hash: sha256:4f39602b767bbebd194b0228f33932d26aec67ec50782b7eccd4d66c770dce76
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8d04c1145c98a1cd05b861be1da07463a145f12fd7ae7cb9cfb37f061b1cc383

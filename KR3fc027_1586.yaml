@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1586
+seq: 1586
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 因乘定位法假如有田三百一十二畆毎畆科粮四升問共諛米若干荅曰一十二石四斗八升法曰置田畆爲實以毎畆粮四升爲法因畢得数莫動先從寅上定百畆以卯上得十畆以辰上得一畆就以畆下巳位上得術變升逆回辰上得斗卯上得石寅上卽十合問歸除定位法用歸法有逢進故陞前一位而得令假如有米四百石毎銀一両糶米二石五斗問共諛價銀若干
+  hash: sha256:a1f705d8ca40bc9a0adc68115aac333262d54ef3d4a80b1b5e12671a3d0b00b2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5e3b0baa0ea0f6be74ac05f61390121835f544747f8693647d998d82a60d690f

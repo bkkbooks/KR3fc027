@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1496
+seq: 1496
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置錢二千二百五十文爲實以軍九十名爲原数另以九十倍之得一百八十名爲倍数先於二千前挨身呼加雙下除倍除實一千八百餘實四百五十次於餘實四百前呼加雙下除倍除實一百八十又呼加雙下除倍再呼加一下除原九十恰盡得每名該錢二十五文合問今有香油四百二十斤每油七斤半換芝麻一斗問芝麻若干荅曰芝麻五石六斗法曰置油四百二十斤爲實以七斤半爲原数另以七斤半倍之得一十五斤爲倍数先于四百前加二箇雙除二箇一百
+  hash: sha256:a005cc502e86659a2f93bce885e3a3113b64a11029334169f1af734839050963
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:874952a5ff8bfb8fc1cf1af0f1584a487a64c46b73ee5fb8dc505ca8ed3e4bea

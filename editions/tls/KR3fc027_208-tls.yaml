@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/208
+seq: 208
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三两五三倍作六变三爲六両法上是銀両遇両卽止前一位得令是金両也六錢二十五二倍作四变二爲四十是金両也向前逆陞合得四両實首二百起五一倍作二变一爲二原實百起呼百往後順數至両合得二十還原用五因五九四十五五六得三十四五得二十二五得一十又如今有米二十石作五萬人分之問每人該米若干荅日四勺法日置米爲實以人五萬爲法歸之合問定位法多實少先從實首原位數起逆上至遇法首位是
+  hash: sha256:8ad6862cb5c736c445df594e1c9b6ef67df70205a2e034a705387e39c12caa6f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ce6975393f578f9e2edc781fe90c84d5d3eb25744704134b9d666f07903d6513

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/124
+seq: 124
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八七八十六逢八進一十九歸九歸隨身下逢九進一十右法與九九合數相混伹記句法惟辨多數在先少数在次卽九歸之句如八六七十四是歸六八四十八是因之類已上句法併後各樣歌訣皆學者所當熟記因乗法者單位日因位數多日乗通而言之乗也置所有物爲實以所求價爲法皆從末位而起如法乗之呼九字相生之數次第乗之呼如須次位言十在本身陞積謂之乗其數離陞而位反降矣必須用定位之法而治之詳見于後
+  hash: sha256:7f81edf2054fb9ce293cb15a106dab4e2cd341594b10190ce5ae976d7d79edd6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d8d2d746e8a087204deb639230a3d2c47f21ae3babdc4012036b3b07013f0715

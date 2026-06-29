@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/426
+seq: 426
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孤峯改正吳氏法未得真傳奇妙訣丈量之法要分明方自乘之為何說方周摺角數連根豈可除根用束法今立圖形考校明例依吳氏為定决方圍方束圖辨于後
+  hash: sha256:5b7b9117d217be7f0d9c710c5388909f5c9bdaffafce5a8dadaf01e2e6d06377
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:823423d3eedcbd8371cb25481f31226ce9f4f1d0e88c1a94862f6c90cfa837ad

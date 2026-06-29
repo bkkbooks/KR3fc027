@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1464
+seq: 1464
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以絹四疋除之得三以價九十貫乘之得二百七十貫合問西江月甲借乙家七硯還他三管毛錐貼錢四百整八十恰好齊同了畢丙却借乙九筆還他三箇端溪一百八十貼乙齊二色價該各幾荅曰筆價五十文硯價九十文法曰列所問数右硯正七爲法中筆負三下價正四百八十左硯正三中筆負九得負六十三下價負一百八十得負一千二百六十先以右行硯正七爲法遍乘左行中下得数却以左行
+  hash: sha256:00409edcaa6a5b076fed3ce6b8f26005d13af7b294ddfc59b6b7a16004e34e27
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f3d5a238c5ebba265e983ff7f943ee7f748270f8d70a6611c999eb398faae046

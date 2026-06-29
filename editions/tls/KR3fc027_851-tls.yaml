@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/851
+seq: 851
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得一千二百爲法歸除之呼逢五進五又呼二五除一千另置初商二十歩以次商五歩乘之得一百歩以三因之得三百歩加入自乘次商五歩得二十五歩共三百二十五歩於右與次商五歩相呼除之呼三五除一千五百歩又二五餘一百歩又五五除二十五歩積盡以左上二十五歩爲立方一靣之数合問今有立方積一億零二百五十萬零三千二百三十二尺問立方一靣若干荅曰四百六十八尺歸除開立方法曰置積爲實以七千萬該商四百尺于左上又置四百尺于右下自乘得一十六萬相呼一四除四千萬尺又四
+  hash: sha256:838baadb7597670e58b1ac7993e1cd09b90d4ae15d5f89935381e5af08e18eb1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c01efbcc09f72b1a5361debc4987427d5c6fe6b620b0d94f6dc98a30708c7e80

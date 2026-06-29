@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/229
+seq: 229
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法酉四斗二石乘四勺八八六十四四合六八四十八五八得四十五升四八三十二五六得三十一三八二十四定位三斗實尾八錢二八一十六四五得二十十三六一十八下位是石也向前逆陛合得八石五兩二五得一十三四一十二兩法酋是每兩米二石過兩即止下一位得術是石也合得實首三十二三如六原實十起呼十往後顧教至兩還原用歸除法詳後逢六進三十三四除一十二三六除一十八
+  hash: sha256:56f9d1028180737e781159ef8b8fe0b640c5bb9acd8d2e051d2c919c7dbe079b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a3701d4e0aae22611d843a4bd9afa7352b6aa826593f6bdf21ed5c1fb76da2f8

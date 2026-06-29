@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/595
+seq: 595
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有鰥寡孤獨四貧民共給米二十四石其鰥者四分寡者五分孤者七分獨者九分問四民各該若干荅曰鰥三石八斗四升寡四石八斗孤六石七斗二升獨八石六斗四升法曰置米爲實另鰥四寡五孤七獨九併之共二十五爲法除實得九斗六升爲一衰之数以各自衰因之合問今有甲乙丙丁四人各出本銀七兩五錢甲銀八色乙銀七色丙銀六色丁銀四色共三十兩入爐傾成一錠合夥不成各欲分散問各該若干荅曰甲銀九兩六錢乙銀八兩四錢
+  hash: sha256:a2b10db147294e559e5c37a99953b704056dbff9fe3a86c883dc2dc501254549
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:bbaa73880182b61bf8a5133bc2faf4c3f5c94bc59d099a033ec7448d62838cf7

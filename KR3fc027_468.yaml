@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/468
+seq: 468
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歸亦得圓積四庇方內四分之一後論圓內容方圓徑十四步計積一百四十七步問容方併四旁羃積若干答曰圓內容方每面十步計積一百步四旁羃積四十七步圓內容方圓徑即方斜方明方圓之理方環者謂如方田中央有方池方環求積法日以內方自乘得全積另以內方自乘得內積以减全積餘得方環積又法以外方併入內方倍之為長以徑濶乘之得方環積解日非言田也皆是托物比興算家窮理盡性致知格物以明方圓勾股之理至於天地高廣乎
+  hash: sha256:b38ba69410e27a43e4b53e4278a77f3d220387015f0d43777f162c0df1c9e3ef
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1be02032037d4de621185b2389486d788d908fa2850d66089d7bcc8e2cc2cc4f

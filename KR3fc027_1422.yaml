@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1422
+seq: 1422
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百二眼將人窺或出没往東西倚觀看不能知有人筭得無差錯好酒重斟贈数杯荅曰圑魚一十五箇龜一十二箇解日此乃托物业比以團魚三足二眼遍四足六眼共九十三足共一百二眼法日置三足四足九十三足二根六眼一百二眼互乘先以三足六眼乘得一十八以四足二眼乘得八以少减多餘一十爲法又以六眼乘九十三足得五百五十八又以四足乘一百二眼得四百令八以少减多餘一百五十爲實以法除之得圑魚一十五个以三足乘之得足四十五以减總足餘四十八足以龜四足除之得龜一十二个合問西江月
+  hash: sha256:bb1dd1daa7ac0dc8ccedd916e579936b1e5fb80075102718b7d23fa90dc86fc0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:794885d76ce4876c4781b59da19b08c8f8cea1d83722298ea37bf954a7178c83

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/759
+seq: 759
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰股三十六歩勾二十七歩弦四十五歩法日三因積得一千四百五十八歩爲實以弦差九歩折半四歩五分爲縱方開平方法除之得股長三十六歩加九歩爲弦四十五歩另以股自乘弦自乘二数相减餘七百二十九歩爲實以開平方法除之得勾濶二十七歩合問長濶相和歌與减縱開平方法同長濶相和不識情四因積歩莫差争和歩自乘减去積餘用開方差歩名却將和歩加差歩折半當爲長数成
+  hash: sha256:a567c81408099b841dd7765a5b7d0aa0698cf7f91922822c821bfa2c2dd4ba33
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:303a7bed2edbf1467f35cd79f09c84e754b71b0f5956f60308a057a117e734f7

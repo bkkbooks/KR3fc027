@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1534
+seq: 1534
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 坎三一三十一將坎一移在震三又將下位兌七移在艮八今有鈔二十三貫九百二十文每鈔四百六十文買絲一両問絲若干荅曰五十二両法曰置鈔于圖中爲實以每両鈔四百六十文爲法歸之坤離二六除一十二將本位坎一除去更于下位坤二亦除尽逢八進二十將离九除八移在坎一進二加于前坤二上震五六除三十除去震三尽坤四二添作五將坤二移在中五一掌金定位圖
+  hash: sha256:3c9c2e32d6ebd9cf93ac54a70ca532f5cc0bc96931b3bbb2d0bc4480bf5d207d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d69300a77c96a23f064bc2ae4d52ec935c0fe3241ea80420d3a830b6e9e3d570

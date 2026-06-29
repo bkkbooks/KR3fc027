@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 伍錯綜之變盡神化冝民之用信有以發前賢之槖鑰乘後學之津梁自非賦質之敏用力之敷且久固不能研精其術以至于此也蓋公殫思竭慮者厯二十餘年始克通其奧以成是編
+  hash: sha256:5b5f254cd68b37a287fbc1f02ec7d9b48eadb4a8573b6266904ac218ca6d1b42
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3f5ac663a0bf426053e4345881fd3ca40a036782796bbaa582d1fe8b65438ae3

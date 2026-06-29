@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/480
+seq: 480
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 休寧驟科則附辨畝法論本驟于萬曆久年清丈有根里編號二百一十一里帶官無根里三十四里半以千字文編號自在城東北隅天字一號起至三十三都八固建字號止田畝起科等則每斗加耗七合地山同田每一畝古米共五升三合五勺帶耗科麥共二升一合四勺帶耗地每一畝古科米共三升二合一勺麥共二升一合四勺帶耗新米共三升八合七勺一抄三帶耗制麥共一升九合八抄七抄帶耗
+  hash: sha256:4ab24ca65612d745dce9eb1c9ada95e3f5ce39d71c61733fc05a1be8e8aec62c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b7e74517ab96666ad687f9d375be3e744a9e365d1f619426d0deaa494a63db83

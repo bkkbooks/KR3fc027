@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/745
+seq: 745
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 解曰若以積四百九十歩加入四十五歩减去分子六歩仍得五百二十九歩便商得二十三歩所謂不及故謂之命也歸除平方带縱歌平方带縱法最奇四因積歩不須疑縱多自乘加因積又用開方法除之再以縱多併开積折半方爲長数施若問濶涉知多少將長减却縱多基今有直田積一千七百五十歩長比濶多一十五歩問該長濶各若干荅曰長五十歩濶三十五歩
+  hash: sha256:4a60879f6ac5878519ce9f915c89eb8bedb56853557e798deb474dd790c35863
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e0e0bcf85a3417abd26bc3e3afe9f69d753eb7bec958c4a205753054b3a574f0

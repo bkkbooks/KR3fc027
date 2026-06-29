@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/68
+seq: 68
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歸除平方帶縱一問帶縱平方四問長濶相和二問長濶相差一問平圖三問平方通分二問方圓三稜圖三附束法三問演假根源圖解帶縱平方圖一問長濶相差求和圖二問減縱開方圖一問減縱翻法圖方圓求徑圖一問減積帶縱開平方圖又各鑽方一問大中小三方合一圖一問開立方四問立圓法二問歸除開立方法二問立方帶縱法三問又二乘方法一問立方廉隅圖一問米求倉窖九問
+  hash: sha256:e824ffa991424f11688482b8dff019247278c517ca7881c1a1547df777b9841e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4557d3589967dbef8110fb80e000e88e1c4af78293a5b8290c7eb642312b3874

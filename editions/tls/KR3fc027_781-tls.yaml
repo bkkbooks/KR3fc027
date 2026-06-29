@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/781
+seq: 781
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右商法開方歸除開方二者聽從人便方圓三稜總歌方圓三稜求周数各减總一分明布十六乘方帶縱八十二乘圓加縱六十八三稜添縱九俱用帶縱開方術倍方不倍縱開除何愁外周不知数還原束法歌四方之束添八乘十六歸除数頗明圓束外周加六凑乘來十二法除清三角加九乘周数十八歸除歩差争
+  hash: sha256:c07b0cdd54ee8f57cee0ae4542b8f9e110cb4a8eb9b5b8b06e92276d6fdf64cd
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2306fd2c11caa9f3b3cae701c5897cec91db7ea76293bc30155c303fdbb36f02

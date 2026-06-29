@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/992
+seq: 992
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九尺次以西高倍之加東高共五十一尺却以西頭上下廣併之共四十二尺乘之得二千一百四十二折半得一千令七十一二數相併共一千五百尺再以長九十六尺乘之得一十四万四千尺為實以五歸之得積合問今有甲乙二人開渠甲日開積四百尺乙日開積三百五十尺先甲開七十日後令乙開問幾日與甲同答曰八十日法日置甲開七十日以每日四百尺乘得二万八千尺為實却以乙日開三百五十尺為法除之得八十日才與甲同數今有人快行者日行九十五里慢行者日行七十五里今
+  hash: sha256:ac19d312289f06eabfbdaa07256fbd2be18e8be780b3779b67831a293bc0b8d6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:80a175bfb3514e6b6543537f2d11cdc7d2ec8cc2d926c6489a841830837a7840

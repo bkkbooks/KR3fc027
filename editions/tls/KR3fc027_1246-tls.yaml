@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1246
+seq: 1246
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新編直指筭法綂宗難題附集雜法序夫難題肪於永樂四年臨江劉仕隆公偕內閣諸君預修大典退公之暇編成難法附於九章通明之後及錢塘吳信民九章比類與諸家筭法中詩詞歌括口號總集名曰難題難者難也然似難而實非難惟其詞語巧捏使筭師一時迷惑莫知措手不知難法皆不離於九章非九章之外其難題惟在乎立法立法旣明則迎刅而破又何難之有哉今分列九章立法明辯附集雜法於綂宗之後俾好事者其覧雲
+  hash: sha256:c2729fbaca2aca72a1079a0ff8af51c7502563a46f374b89d127a7f2d9b88df6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e10df6ee863917b281c708e726cb562b10e5660e750ca1f8a22269c73de3f33a

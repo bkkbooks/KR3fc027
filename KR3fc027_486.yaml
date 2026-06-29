@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/486
+seq: 486
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古今折步法原用古弓每步五尺今以鈔弓校之只有四尺八寸問古弓百步該鈔弓若干若曰九十二步一分六厘法曰置四尺八寸倍之得九分六厘自乘得九分二厘一毫六乃古弓步一步今折得鈔弓步數也自此升上合問若鈔弓步數每百步用八步五分加之以合原古弓步之數其方直田形截積具載六卷少廣章中凡量東西南北丈尺問積就以東西南北併之相乘合問新編直指算法統宗卷之三
+  hash: sha256:62cbd12c057a7cea7d513befa2a908a0086a40439d6e0ba76553648048968f74
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4d7c9e70519932d16f8d56584e6c5d31f3f10a9fbed31be2c0195c946582491a

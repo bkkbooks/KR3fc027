@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1312
+seq: 1312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 数加十七得八十二斤爲七於數倣此逓加十七至長合問九兒問甲歌一箇公公九箇兒若問生年總不知自長排來爭三歲共年二百七歲期借問長兒多少歲各兒歲数要詳推荅曰長兒三十五歲次兒三十二歲三兒二十九歲四兒二十六歲五兒二十三歲六兒二十歲七兒一十七歲八兒一十四歲九兒一十一歲
+  hash: sha256:df9cf6598e3e846dd17d42aa9fec053072d3bf6106d21dc730dc9536c39b9b29
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:80f72079a9f03e92aa0ab196350226b1325554ab26887f200cf237095e433e5b

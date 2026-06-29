@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1476
+seq: 1476
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一尺以木長二十尺爲勾自乘得四百尺併之得八百四十一尺爲實用開平方法除之得二丈九尺合問西江月三月清明節氣蒙童開放風箏托量九十五尺繩被風栝起空中量得上下相應七十六尺無零縱橫甚法問先生筭之多少爲平荅曰五十七尺法曰弦股求勾法也以繩斜長九十五尺如弦自乘得九千零二十五尺又繩頭量至風箏上下相應七十六尺如股自乘得五千七百七十六尺以减弦積餘三千二百四十九尺爲實以開平方法除之得勻五十
+  hash: sha256:1131f58bee6d70927a88bc1c59768131462f15a10137ee9de4395bc861d9123f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:35f72a2c2536ead030f9ac352e3c9994b15acab8bca6d1c9dd71a156fe9eed44

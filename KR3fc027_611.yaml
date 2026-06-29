@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/611
+seq: 611
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置米為實列丙四乙六甲九副併共得十九衰為法除實得八十二石為一差衰以乘各人衰數即出納數也今將前米令甲乙丙丁四等人戶作四六出納問各該若干法曰置米為實列丁四丙六乙九甲十三衰五分副併共得三十二衰五分為法除實得若干乃為一衰之數以四因得丁所該納數列一衰則以乘各人衰數合得各人所納數也又將前米令甲乙丙丁戊五等人戶作四六納之問各該若干法曰置米為實列戊四丁六丙九乙十三衰五分甲二十衰二分五厘副併得五十二衰七分五厘為法除實得若干為一衰之數以此為則以乘
+  hash: sha256:ac7e0449cc6f956b2080f7ef6734a1fd0a66fdafb5eabc8587b7fe9e83499fae
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:aca139c578d8a35ed94772b1208d9c7d26b75ef497eeadd18736e1667b4be262

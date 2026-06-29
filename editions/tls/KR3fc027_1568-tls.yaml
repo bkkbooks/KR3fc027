@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1568
+seq: 1568
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃鍾属陽空圍九分律長九寸以九分因之得積八百一十分其候冬至陽律生陰之法却以九寸二因之得一十八寸三歸之得六寸隔八下生林鍾林鍾属陰空圍九分律長六寸以九分因之得積五百四十分其候大暑陰律生陽之法却以六寸四因之得二十四寸三歸之得長八寸隔八下生大簇大簇屬陽空圍九分律長八寸以九分因之得積七百二十分其候雨水陽律生陰之法却以八寸二因之得一十六寸三歸之得五寸三分之一隔八下生宮以上三律皆得全寸自此以下九律不尽之寸俱用通之
+  hash: sha256:15208511c3bda8d49bdc5d48e3ae6df6edcb40304e58cab9fa6794b6b2321cde
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0cf1be94ac5555ea791349c1391a2804169344f3d7765c061b11227a420a1d77

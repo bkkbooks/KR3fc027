@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡乗除積分離合進退之數無不一窮極杳渺而會通指歸一時名震逺邇無智愚咸以神算目之公乃惧夫乆而或其傅也扵是綜集古今來成書畧焉而未偹爲而未精者刪其
+  hash: sha256:d2ae3f61496c9ce46f47ca445b3bd82a6b37c079858f222a3c4b14da334f9c3b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:62781fd07d19659c1874a38ca245b730615522a03042f303009bc559b86f3d5f

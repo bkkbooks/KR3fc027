@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/357
+seq: 357
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 織二十七日問織錦若干答曰一千二百四十七丈四尺法曰置五十六人乘二十七日得一千五百一十二工再以日織八尺二寸五分乘之得一萬二千四百七十四尺合問異除同除法理假如今有客一十五人住一十二日共用米三石六斗問一客每日用米若干答曰每日二升法曰置米三石六斗為實另以一十五人乘一十二日得一百八十人為法除實得二升合問
+  hash: sha256:3f1dddeed9ce499742d1b55648d293ef1ce22047bd43ac47a77c56a3caae9808
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:cfda44cb419189b423b82211a2ce35b5aabd853bcaf697ef0c82cded05070009

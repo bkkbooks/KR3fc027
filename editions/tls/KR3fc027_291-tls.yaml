@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/291
+seq: 291
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四七加二十八千位加二下位加八按因乘加三法其名雖殊而理則一但加法須記實位不動本身學者冝當詳審不致差悞也减法凢歸除過法首位有一数者用此所謂定身除者先定本身之位而後减除也置所有物爲實以所求價爲法與身数相呼九九之数言十就身言如隔位次第如法减而除之先從實首位起用加法還原定位法因實位本身减去而無逢進比歸除而降一位今將法首一数除而不用亦可以抵逢進陞位也
+  hash: sha256:ce3dd426ce669e74bd20976db5eaea11bf518c0698bb4ee2804338d97d1cf7e2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2a8379ed6a8e9c553c51e22eac5febc87f250572a7a961a143cc16e0656b8abf

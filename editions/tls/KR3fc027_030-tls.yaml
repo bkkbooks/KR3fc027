@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 沈司封受學著述具在乃儒者所罕而曲藝所不敢望庶乎稱專職精諸者汝思折而裁職之信謂淂大全也已嗚呼乗除積分合道退皆茹之自然即巧暦不能窮者一神之所爲也引伸觸類以畢孔事匪化裁之人矣詣有之行年六十而化汝思舞象而習茹及耆而著書捿托神明游心
+  hash: sha256:7867294a004922cab5a174ca38383c88e8ae107401e83775dc1be5e0b286cf37
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:467b0f06ca3485b83faf70610cc158acae42116d6c5b2afbdc50bde03ee1b549

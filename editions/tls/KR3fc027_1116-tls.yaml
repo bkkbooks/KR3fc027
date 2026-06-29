@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1116
+seq: 1116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四両合問取錢買物仍適足歌取錢買物仍適足子互乘母自相通却以盈錢爲物實减率畱餘作法宗取錢適足乘盈数乘子除爲錢實宮如法除之錢可見不足適足術相同假有銅錢不知数欲買木一根取錢二分之一買之盈錢四文取錢七分之三買之適足問錢数木價各若干荅曰總錢五十六文木價二十四文法曰先以之一互乘七分得七次以之三互乘二分得六以
+  hash: sha256:0c1959111639377ca719caae8ffccfe1594ba886009ef83cc54be125b99534a7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0dad90481248655741c03133bb094ab37968dbf403cfc219d7dbc3c6e86f42b5

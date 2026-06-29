@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/765
+seq: 765
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 相和九十二步為减縱加前商之即得長濶相差歌與帶縱開平方法同長濶相差要識情積數將來以四乘差步自乘加入積開方得數以和名和步加差須折半此為長數更無零以長减差便為濶學者留心仔細尋今有直田積一千九百二十步長濶相差二十八步問長濶若干答曰長六十步濶三十二步法曰置積以四因之得七千六百八十步另以相差二十八步自乘得七百八十四步加入積數共八千四百六十四步為實以開平方法
+  hash: sha256:97f422ae99d01c13b89e7a78ec5d185448ebc71b53d227cd6ef46717bf9dc979
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1c6db5b5b8d71d00b2cc3352d733da16cdac7d0dcb775255114db7d5796f78f1

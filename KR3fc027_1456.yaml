@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1456
+seq: 1456
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰原酒一斗四升五合三勺一抄二撮五圭法曰置五處恰飲列併一二四八十八併之得三十一爲法以乘一斗五升得四石六斗五升折半五遭卽得原酒数又法置飲一斗五升以併倍酒率三十一乘之得四石六斗五升爲實以倍酒率三十一加原酒率一共三十二爲法除之亦得芳以原酒倍之除飲去一斗五升餘倍五次得四斗五升卽知酒尽也歌本利年年倍債主催速還一年取五斗三年本利完荅曰原本四斗三升七合五勺
+  hash: sha256:0598cc5c3cf92eb8b86aaa15898ef28cab6c0271a98179ef8db028c6d3ec7dfb
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6372b686331cedf912912eb6fce0e3ed6e9573b21c27ea8f1802aa7b00295dc3

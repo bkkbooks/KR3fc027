@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1378
+seq: 1378
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七十二歩乃是圓內容方弧弦方角俱至邉周可用此法若是錢形內容方池角不通邉外有餘空豈可以四均而歸之重疊四角其理明矣西江月方田一十五畆及時人去耕犁圓池在內甚稀奇圓徑不知怎記方至池邉有數每邉二十無疑外方圓徑若能知細演天源如積荅曰面方六十歩圓徑二十歩法曰以畆法通田得三千六百歩以平方開之得六十歩以减每邉二十歩二邉共减四十歩餘得圓徑二十歩合問
+  hash: sha256:8c2b0278201f95b0f838e7377b0b96c9734ca71bceb25c05680a84a0e9003613
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5bdac1cf66b8b92098aa3b09ff42c558399f2896bed24564050182ef35a8f9c6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1598
+seq: 1598
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 筭林拔萃隆慶壬申宛陵太邑楊溥作一鴻筭法萬曆甲申樂邑余楷作庸章筭法萬曆戊子新安朱元濟刋新編直指筭法綂宗卷之十七終
+  hash: sha256:7402155e6fc27e3da2de45a452cc2d880a1ea49e104323438c5790b9f924b3d2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3f21eb5d29281bce93259200f7c797fc9b74f9f6a8c6f7423a633a69a4374c7f

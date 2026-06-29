@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/395
+seq: 395
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰二千三百零四步法曰置南北二廣併得七十二步折半得五十六步以縱六十四步乘之得積合問假如眉田上周四十步下周三十步經八步問積若干答曰一百四十步法曰置上下周相併得七步十折半得三十五步另以徑八步行折半得四步乘之得積合問假如牛角田中依灣長十七步五分濶八步問積若干
+  hash: sha256:9428050eb24cf5cf6a8a59b7fa487bc8cbbcfbe35c4de8b08e25cd52b4a9a0fe
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:709da57f06ff0ae9a7ea8000ce2fb63cfdef80ede730d85f254a343d12971f5f

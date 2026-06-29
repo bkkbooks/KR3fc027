@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/671
+seq: 671
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有官米二百二十五石三斗六升令五等人戶作十分之有出之問每戶逐等各若干答日第一等四戶每戶二石五耳共一十石第二等八戶每戶二石共一十六石第三等十五戶每戶一石六斗共二十四石第四等四十一戶每戶一石二斗八升共五十二石四斗八升第五等一百二十戶每戶一石二升四合共一百千二石八斗八升解法日一等定率一萬以八因得八千為二等率又八因得六千四為三等率又八因得五千一百二十為二等率又八因得四千九十六為五等率前問十分之七倣此即以七因定率
+  hash: sha256:c731ab5fc7be361a143d07c67a54256d22b17644611bce807452cf0e109bd834
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a22436892acf9d4755decf05377a046304e5a838dd8f03c2e152b5e483bbdd87

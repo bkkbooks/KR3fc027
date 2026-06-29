@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 既壯周逰吳楚之遇方田米粟差分少廣商功均輸盈不足方程勾股諸書輒厚購得之而人耆通數學者輒造請問難孳孳不倦久之而齟者侵而通會心者印證而汝思年六十且倦逰家居賈勇特止師之知以人法窮天巧以諸家得直指而統宗之著成書焉友人吳泰
+  hash: sha256:5fbc52917ad3d47ff2b578b69919fc49586c19004540d800b084f9feeefe9c27
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ad4ac56b0775cfbdebaf006237c6720f19c3295a4381e6bf5c94ef1af0a0f888

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1478
+seq: 1478
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七尺爲高合問歌池河八分下釣鈎魚吞水底是根由釣繩五十岸齊並使盡機関無法疇縱橫源流雖辨認水深幾尺数難求荅曰水深三十尺法曰置園池八分以畆法二四通之得一百九十二歩以四因三歸得園積二百五十六歩爲實以開平方法除之得園池徑一十六歩折半得八歩以每歩五尺乘之得池半面如股四十尺自乘得一千六百尺鈎繩五十尺如弦自乘得二千五百尺相减餘九百尺
+  hash: sha256:97af362a0673fa30592523fabb1bc2ff22bd0487424ff79bd0b54a113e425dc6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e387a693da061395397fa2ff9fdc0c7e0bd76cb5bb0d19bbae177cc6af0cd3ce

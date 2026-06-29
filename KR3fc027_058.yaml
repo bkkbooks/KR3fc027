@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賓渠小像贊龍馬負圖首篇總說河圖洛書伏義則圖作易太極兩儀四象八卦圖四洛書釋數九宮八卦圖洛書易換數黃鍾萬事根本圖卷之一先賢格言算法提綱九章名義算學節要乘除用字釋用字凡例數附暗馬式大數小數
+  hash: sha256:8cf879c388028dcf331996fdac4e75fb63733dd0bd63618a9310982d4ef908f2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ef7d6e8a29d3e4811176ce3ded8e3db4dce59cb73c51f347dcd28259c65c2ee0

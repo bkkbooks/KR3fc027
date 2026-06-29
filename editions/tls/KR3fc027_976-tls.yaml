@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/976
+seq: 976
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一法將原下廣三尺减原上廣一尺餘二尺另以原高一丈二尺内减今高九尺餘三尺以乗二尺得六尺爲實以原高一十二尺爲法除之得五寸加原上廣一尺共一尺五寸亦得原築墙上廣一尺下廣三尺高一丈二尺今欲築高一丈五尺開上廣若干荅曰上廣五寸法日置原下廣三尺减原上廣一尺餘二尺另以原高一丈二尺减今高一丈五尺餘三尺以乗二尺得六尺爲實以原高一丈二尺爲法除之得五寸以减原上廣一尺餘五寸爲今上廣合問築墙截下廣問今高歌卽是截去下節
+  hash: sha256:affe1f219597bd6695dc750806140049402f13779dfc8b74b4cd972e79ffa108
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:00e7ddf9451da45107ea28f6e7f330ab94de2a8e24643156810a8ff088d68e9e

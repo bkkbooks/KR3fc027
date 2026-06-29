@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/899
+seq: 899
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置積倍之得四百五十歩爲實以長爲法除之得濶若問中長歩数倍積爲實以濶爲法除之卽得以上二数名日忘長失短與直田截積意同今有勾股田長三十歩濶一十五歩今從尖截長一十二歩問中廣若干荅曰截中廣六歩勾股截積法日置截長一十二歩以勾濶乘之得一百八十歩爲實以股長爲法除之又法置勾爲實以股爲法除之每股長一歩得濶五分以乘截長亦得今有斜田南廣四歩北廣十二歩長三十二歩今從中截
+  hash: sha256:f0b3aad43e3e70b45c1d0f745aa713159c9a818d07d7da9419be5ba3b3f01e98
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2ab82a550c8f6e05e069c526004ba71ea725ca02583de982c9aae9f8d9c633d2

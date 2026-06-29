@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/803
+seq: 803
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置田積以四因得三千四百五十六步另以相和六十步自乘得三千六百步却减去四因積三千四百五十六步餘一百四十四步乃相差自乘積用開平方法除之得長濶相差一十二步合問長濶相和求差同前圖解曰其相和六十步自乘積三千六百步內有四因積四箇共三千四百五十六步居邉有一箇相差自乘積一百四十四步用開平方法除之得長濶相差十二步今有直田積八百六十四步只云長濶相和六十步問長濶各若于答曰長三十六步濶二十四步
+  hash: sha256:45f39a17ad47d168de8c89cc8a1068f3bc502edd9ac4610299e686ff3ca4e361
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f2cc25ad069250bab5151633944d728276ffc8d3b7f9d4c83bf1ca86fcb12441

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/998
+seq: 998
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰二百三十八里一十四分里之三法日置不及二十三里以馬主追去一百四十五里乘之得三千三百三十五里為實另置巳行三十七里减去不及二十三里餘一十四里為法除實二百三十八里不盡三以法約之今有大都路至杭州四千二百七十五里馬從大都往南日行一百二十里船從杭州往北日行七十里問船馬幾日相會各行若干答曰二十二日半馬行二千七百里船行一千五百七十五里法曰置四千二百七十五里為實却併船馬日行共一百九十里為法除之得二十二日半又為實各以原行里數乘之得各行數
+  hash: sha256:851224278ca79fc3f94a907c9dbbb3439616bc148f92e09c2df2aa3989fb6fca
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e711f23aa91534383eaae011878bc5bebaf6f163ff41f0f2146fd08c975643c0

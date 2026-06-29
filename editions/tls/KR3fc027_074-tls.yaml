@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/74
+seq: 74
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷之十二勾股九章勾股形圖一勾股名義一十三求勾求股求弦容方容圓等圖一十三二十九問海島題解求高求遠共圖五七問十三卷之十七卷目錄另載卷之十三難題首新編直指筭法綂宗目錄終
+  hash: sha256:2f1bd20da765ac4f8f6423a1c6bede2e468ee72a1d774424fc6f5b58985aad62
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a3c33e17c62778cda22b8149eab82202f726149a1ae07dd980bd7edfbf594359

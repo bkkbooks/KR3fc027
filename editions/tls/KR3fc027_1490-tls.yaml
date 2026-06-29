@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1490
+seq: 1490
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新安賔渠程大位汝思甫編集會孫素亭光紳佩章甫較正藴齊鈁洪聲甫尜閱雜法金蟬脫殼又名乘除昜會筭訣因乘歌起雙下加倍見一只還原倍一挨身下餘皆隔位遷此法不用乘除只以此歌二十字代之聰悟者頃刻易明假如有米三石五斗每斗價銀七分問該銀若干荅曰二両四錢五分
+  hash: sha256:436869edc3ee8997ee58150ab8cf9189d2419a9937862132c2829342fcbdc0f7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:baa87c76bc8506f1ea789921262c2a06305f7e77773c07bfc122064c1a1b0d44

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1034
+seq: 1034
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十五日减甲十二日餘三日爲法除之合問今有官派粮八百四十石令四縣照依田地多寡納之甲縣田五十六畆乙縣四十四畆丙縣三十二畆丁縣二十八畆問各該納若干荅曰甲二百九十四石乙二百三十一石丙一百六十八石丁一百四十七石法曰置列甲乙丙丁四縣田数各以官派粮八百四十乘之各列爲實另以四縣田併之得一百六十畆爲法以除各縣乘数卽得各縣該納之数合問又法置總粮爲實併四邑田爲法除之以乘各田数亦得今有五縣輸粟二萬石照人戶多少道里遠近價值上下
+  hash: sha256:d4f57f3fd48cb422db495a403be683fd2878e919f262f64e118c508223d1ef03
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5e1b399a531dbc15a2aaceb5ab951ca744e0e1cab642479f612af3896d5e3c07

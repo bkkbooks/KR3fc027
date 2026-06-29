@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1450
+seq: 1450
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰三人綾一十二疋法曰置不足適足以不足六疋爲實以分綾六疋四疋相减餘二爲法除之得三人以適足四疋乘之得綾一十二疋合問歌今攜一壺酒遊春郊外走逢朋添一倍入店飲斗九相逢三處店飲盡壺中酒試問能筭士如何知原有荅曰原酒一斗六升六合二勺五抄法曰置三處倍之飲列一倍二二倍四併之得七率爲法以乘一斗九升得一石三斗三升折半三遭得原酒合問又法置一斗九升併倍
+  hash: sha256:22cb6d6abded1149c8092981f36ec8c113ccdd451edc329fab0858bcf9f23e19
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7ac655e5d034560184ef0baf7d67a028790c66aa2e58df6a2d913c7e930b8e6f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者要領已哉萬曆玄點執徐崴三月既望新都學海程時用際明父著
+  hash: sha256:ea4badb12229647062f49a947b1c1c02a594c31817a50fa0a811ac4b2390c211
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:82863bcc4dac5d558d8b3aead8392eb3125a2fb99ecc20b8debd4853dc093d93

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1396
+seq: 1396
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又曰要知金積將徑方寸自乘再乘以九因十六除得積西江月假有坡地一段中間一賣安塋總皆一畆二分平更有八厘相應只要縱多両堵每堵八尺無零築墻選日雇工興幾許封堆可定解題假如有地一段共積三百零七歩二分周圍築踏每堵八尺東西長比南北濶多二堵問各該地併堵数若干荅曰東西各長一十九歩二分墻一十二堵南北各濶一十六歩墻十堵法日置田一畆二分八厘以畆法二四通之得三百令七歩二分爲实以
+  hash: sha256:364a2b8d8610949d0af5d40e458862f0c9ee32e37773cefd9aa0e3bad3b12d08
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:22a19a86c1bbcfac58cc61c49da674d83a1773436dcbf4cad330f77d9feaa340

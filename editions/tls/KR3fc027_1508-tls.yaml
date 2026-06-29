@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1508
+seq: 1508
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有銀一千二百三十三両買綾四十五疋問每疋若干荅曰二両七錢四分法曰依前式置銀爲實以綾四十五疋爲法除之合問四五除二十本位去二恰尽逢八進二十本位十去八疋二進二于前位二上作四分四一二十二本位一增一作二更于下位八上增二作十五七除三十五本位五去四存一更于下位三上增五作八四三七十二本位三增四作七更于下位三上增二作五二五除一十本位四去一存三四一二十二本位一增一作二更于下位二百上增二作四
+  hash: sha256:5fc80389482e7b2a7bf2e3b160437f6e267d78f9b794c5f7e724d806a74126b6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:105aa547abc6009678a4f95b7f68e554fde136fd3357f4eebb97388cde90801c

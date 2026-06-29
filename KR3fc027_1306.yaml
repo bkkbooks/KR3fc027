@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1306
+seq: 1306
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰馬八共賠三石牛九共賠一石六斗八升七合五勺羊十四共賠一石三斗一升二合五勺解日馬八隻牛九隻羊十四隻共議賠榖六石羊一分牛二分馬四分法曰置米六石為實另置馬八以四因得三十二衰牛九以二因得一十八衰羊一十四衰併得六十四衰爲法除之得九升三合七勺五抄爲一羊所吃賠榖数爲法遍乗各衰先以羊一十四衰乗之得一石三斗一升二合五勺爲羊主賠数又以牛衰十八乗之得一石六斗八升七合五勺爲牛主賠数又以馬衰三十二乗之得三石爲馬主賠数合問
+  hash: sha256:5d12bb3df46ff8fdc9dbfa346e24462e3e73aaae0a2ada18e0cee57653714ef4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0d390b731779fab953d52bec3486bc1f1b2648aced23fa5b66f1119b4de56a35

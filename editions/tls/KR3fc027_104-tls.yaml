@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/104
+seq: 104
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 塵埃渺漠模糊逡巡須臾瞬息彈指剎那六德虛空清凈雖有此名而無實公私亦不用度所以分別長短之法也丈十尺尺十寸寸十分分十釐釐毫絲忽同前正四丈今無定則端五丈今亦不一量所以分別多寡之法也石十斗斗十升升十合合十勺勺十抄抄十撮撮十圭圭六粟粟卽一粒之粟也斛古一石今五斗或二斗五升釜六斗四升瘐十六斗秉十六斛衡所以分別輕重之法也
+  hash: sha256:ad457c03ed752d3ef6709a8670b5662eefa14302bef376d65d14e577237f00bf
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5816026837204bee290239d125abc4423b352f7f46b46cdd9eb00b7c763a3d87

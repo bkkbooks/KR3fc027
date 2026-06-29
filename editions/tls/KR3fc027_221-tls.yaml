@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/221
+seq: 221
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三四五來乗遍了却將本位破其身用畱頭乗法若依盤式小九数位次先後不一難以挨次今將暗馬数以別先後庻不亂矣暗馬式已附一卷大數前假如今有布四百二十五疋每疋價銀二錢五分問共該銀若干荅日一百零六両二錢五分法日置布爲實以每疋價銀二錢五分爲法乗之合問定位法只認疋下一位定錢依次逆数陞上合得也此所謂因乗俱向下位推五分法百三錢爲乗
+  hash: sha256:43c0aa5ba5d26905ff79db5dbe6f39c6ab7b9eb6022cba278121432027a6d3ea
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b7f69150b45953e9d4d0def11a4e888d71c572705d8d2424b106195f544d55aa

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1364
+seq: 1364
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水仙子元宵十五閙縱橫來往觀燈街上行我見燈上下紅光映遶三遭数不真從頭兒三数無零五数時四甌不盡七数時六盞不停端的是幾盞明燈解題初以三筭之恰尽次以五筭之餘四盞再以七筭之餘六盞問共燈若干荅曰六十九盞法曰此如孫子物不知總法也先置三數無零不必下五数剩四每一下二十一四共該下八十四七数剩六每一下十五六共該下九十併之共得一百七十四减去滿法一百令五餘得六十九盞合問新編直指筭法綂宗卷之十四
+  hash: sha256:fdaefaa19715f99c83d44bd2f6f544eeec60dd31a91abf68d757ad57e32da9ae
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:406a8477085453c988f0253b4d43b594f74df93cddf764418bd6e8271680e214

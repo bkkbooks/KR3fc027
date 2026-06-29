@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/609
+seq: 609
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分五厘併得五十二衰七分五厘各副併為法除實得一衰以乘各衰合問今有金四千兩令二等金戶四六納之問各該若干答曰上等戶該二千四百兩下等戶該一千六百兩法曰置總金為實以六因得上戶以四因得下戶合問今有米一千五百五十八石令甲乙丙三人四六納之問各諛若干答曰甲七百三十八石乙四百九十二石丙三百二十八石
+  hash: sha256:d3971ab5a12f2fd4f627a8de6a2b93408f6db46cccd273344a43ba8a3fe57363
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d7b87cd77b12f4703694b3003f46e1a2c233c22d97ca02ef64ab31f060fa07da

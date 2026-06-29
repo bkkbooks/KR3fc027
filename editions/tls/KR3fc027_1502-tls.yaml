@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1502
+seq: 1502
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 從末行起依次相乘逆上至实首止得数從下右邉小数起亦是逆陞向前自下而上合問法疋價五錢六分五厘三五一十五三六一十八三五一十五二五得一十共銀一十二両九錢二六一十二二五得一十今有絹四百三十五疋每疋價鈔五千六百七十八文問該鈔若干荅曰二百四十六萬九千九百三十文法曰先画格眼將絹数爲實於上橫冩以每疋鈔数於
+  hash: sha256:547300fe7c0eb021b78a074f6c4286e95decaef4dc860ad9614f5da81dc56762
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:95ad654092d78f5952a473d59079e15e880bf023c41622b46ab7375eed4eaa56

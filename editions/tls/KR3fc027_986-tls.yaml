@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/986
+seq: 986
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上方與高乗爲實下方内减上方積餘積爲法除實数便見接高今丈尺原方臺上方六尺下方二十四尺高二十四尺今改作方錐問接高若干荅曰接高八尺法日置原高二十四尺乗原上方六尺得一百四十四尺爲實另以原下方二十四尺内减原上方六尺餘一十八尺爲法除之得接高八尺合問原有圓錐下周七十二尺高三十二尺今改作圓臺只用上周一十八尺問今築高若干
+  hash: sha256:79fc36662a68036aa360ef680ac8c0da7f578bb75f25927059bc753930271a7e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0f224e7bb4862f51b8f15fbd1a030179feed7ecac475451b4e94d04b783f1786

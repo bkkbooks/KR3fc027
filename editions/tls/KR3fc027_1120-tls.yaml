@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1120
+seq: 1120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不足適足列位八十両七十二両互不足十六石適足先以七十二互乘一十六石得一千一百五十二却以之一之三相乘得三除之得三百八十四石爲麻實却以八十両減去七十二両餘八両爲法除之得總蔴四十八石另以不足一十六石爲銀該蔴之實仍以前法八除之得毎銀一両該蔴二石合問此取錢買物数條是帶分母之法新編直指筭法綂宗卷之十
+  hash: sha256:f016b19031a3daa7967795582b78ed4962c27cf99cd81151fd4faed77bf62d26
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:dd05b1caee821313e404acb948d651289358ccffc68cb6d4de8a71b28cc77621

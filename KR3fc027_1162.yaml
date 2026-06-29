@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1162
+seq: 1162
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新安賔渠程大位汝思甫編集會孫素亭光紳佩章甫較正蘊齋鈁洪聲甫泰閱勾股第九章橫濶謂之勾直長謂之股両隅斜去謂之弦此章以勾股求弦之斜勾弦求股之長以股弦求勾之濶求勾股中容方容圓求山之高水之深城之廣路之遠皆可知也勾股之形卽今木匠曲尺之形也勾是尺股是尺稍目尺頭至稍尾斜去是弦也假如勾二尺股四尺弦卽五尺也
+  hash: sha256:5cf63f225265e0e6a8a99116b23114e5ff22b4e0cfbbd54631067d00043cac8d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e543b9ceae099351f2bf97b7a252d885f4b6e31a2305c3df33567a644ffb1a7f

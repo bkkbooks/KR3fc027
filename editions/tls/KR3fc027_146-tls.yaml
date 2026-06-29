@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/146
+seq: 146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 問貨價目以銀爲實以貨爲法有銀若干每貨價若干問共該買貨若干以銀爲實以貨價爲法有貨若干賣銀若干問銀每両該貨若干以貨爲實以銀爲法問貨價以銀爲實以貨爲法有貨若干每両賣貨若干問共該銀若干以總貨爲實以每貨爲法有棉紗或花若干換布一疋米一斗問布米共該若干以綿紗花爲實以每疋斤斗爲法
+  hash: sha256:28710b484b186ba0b73f751d4f0a4e04bc84a96330b3f41ff0453af90315c658
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e1ce59b00bc1801e434ffbf2475279384f271f40028e53378087a01788f25ecb

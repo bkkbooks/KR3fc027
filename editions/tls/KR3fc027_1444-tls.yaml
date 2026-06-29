@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1444
+seq: 1444
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又餘兩箇厮打荅曰一十二人瓜二十九箇法日置両盈四人九个三人七个三人乘九个得二十七四人乘七个得二十八个併之得五十五个加両盈数三个共五十八个折半得瓜二十九个以三四相乘得一十二人合問歌牧童分杏各争競不知人数不知杏三人五箇多十枚四人八枚兩箇利荅曰二十四人杏五十枚法日置兩盈以三人互乘八枚得二十四以四人互乘五枚得二十以
+  hash: sha256:441f6c0b3203ae3b677c0de0ea0c6446d8460e2c08d0c511f751201938e0d5c7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a36ae7052a75efbe4993182bbd7a296d35e8309dd72a4402a78930d45d9d37f8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1612
+seq: 1612
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 数象則必召比類旁通如孫是之兵至良造父之御仕不然累寸者至尺必積銖者至両必謬卽一一接之成法其何能周天下窮之变而六豈吾鋟梓以傳之意也考周漆園吏有言迹復之所出而豈復考吾於笔法亦云萬曆壬辰夏五申子新安浚學程大位
+  hash: sha256:9c92638a78a8a90594becbedd3eacdd5ad70105ff81a2ed672f1fda75b6bfac0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:58d388899f7a572ceb4dab9667ff1d9f28d7631e5829965174d80593868d56c1

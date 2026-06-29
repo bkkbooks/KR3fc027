@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1340
+seq: 1340
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二百三十六担貨程途遠近論船錢九十五担六分筭八十五担四分還更有五十六担貨二分五厘筭爲先只因剥淺爭船價二両五錢二分添請問高明能筭士各人分派免憂煎解曰假如趙一錢二孫三三人共貨二百三十六担雇船一隻原各以程途遠近不等水脚多寡不同內趙一貨九十五担交卸甚遠毎担船脚銀六分錢二貨八十五担卸處頗近毎担船脚四分孫三貨五十六担程途又近毎担船脚二分五厘筭其銀付足外因中途剝淺貼銀二両五錢二分照依遠近船錢派分各該若干
+  hash: sha256:410f8c14fff4d1499ce0f2fa873cbd488532aaf93343630dd9e578c7627e0803
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7051e7e6b7368cde8dce86378c513af627aa6a2a31b0c6a2f7053f4f1bed9740

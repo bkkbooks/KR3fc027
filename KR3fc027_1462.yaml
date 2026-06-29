@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1462
+seq: 1462
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 布一十八疋該鈔三百貫法曰列所問数右價九十爲法中價五十下共五百七十左絹四疋中歩三疋得二百七十下共三十疋得二千七百先以右行價九十貫爲法遍乘左行中下得数却以左行絹四爲法復遍乘右行中價五十得二百减左行二百七十餘七十爲法又左四遍乘右行下共價五百七十得二千二百八十减左行二千七百餘日百二十爲實以法除之得六爲錯宗之数以布三疋乘之得布一十八疋以减總絹布三十疋餘得絹一十二疋布十八以價五十乘之得九百貫以三疋除之得三百貫絹十二
+  hash: sha256:b38af4e2d6ca0d3b7a96744fdad46aad0d06c22499c322420b536c4a3af343a1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d4ef2756da6b5ef5d74d1dbdaf7677264c73acdb6494312142acbb1a9aa3994b

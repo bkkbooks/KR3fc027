@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/523
+seq: 523
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 合問今有席三領作一囤亦用一席較數同前問盛米若干答曰二十二石五斗法曰置席三領自乘得九領以較米二石五斗乘之令問今有席四領作一囤照前一席較數相同問盛米若干答曰四十石法曰置席四領自乘得一十六領以較米二石五斗乘之令問若五六七領俱倣前例自乘再以較數乘之即得今有米十石欲用蘆席囤盛之先以一席作囤較數盛米石五斗問諛用席若干
+  hash: sha256:50024d321e1b13e8217e46e1ce02e5558895ab63a4b22c3de2352a8c9dddcb89
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:55db4f01b563426f67bf7af24cc584e9a718598eaef8dd7f7437b02df580087e

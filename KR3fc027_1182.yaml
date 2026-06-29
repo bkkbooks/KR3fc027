@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1182
+seq: 1182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勾股容圓法可知勾弦股數併爲奇三數併來爲法則勾股相乘倍實宜法除倍實爲圓數筭者詳之不用疑今有勾二十七尺股三十六尺問中容方面徑若干荅曰中容方面徑一十五尺有畸法曰置勾股相乘得九百七十二尺爲實另以勾二十七尺併股三十六尺共六十三尺爲法除之得中容方面徑一十五尺不盡二十七尺卽四分二厘八毫今有勾二十七尺股三十六尺弦十五尺問中容圓徑
+  hash: sha256:6522ad1db467141a1ded8406f71dbec0d950f3519b2db07c005973ff4dafd509
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:55b81a83c0514f8135df3b6788a2ddcc9fd0ef8c39f0ce731a7a000d45b9edcb

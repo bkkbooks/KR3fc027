@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/192
+seq: 192
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 晒得乾榖九斗問該乾榖若干答日一千一百一十一石一斗一升一合一勺一抄法日置濕榖為實以曬乾九斗為法因之合問法九斗因一秒實尾九勺起呼九九八十一變九為八下位加一一勺七合七九六十三變七為六下位加三一合六升六九五十四變六為五下位加四定位一升五斗五九四十五變五為四下位加五下位是斗也回向前逆升合得一斗四石四九三十六變四為三下位加六石法上是每石乾九斗遇石即止下一位是斗也一石
+  hash: sha256:4a63d22500befa0aea665e8da16481fe34921352730a0bb1c18f36fc924a4ee1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e56166ae69bad06989f0e0ee157e79c80c7cf2189feebe47229182675a165f61

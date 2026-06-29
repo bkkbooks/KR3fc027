@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/403
+seq: 403
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假如直田縱長六十歩廣斜相和一百歩問積若干荅曰一千九百二十歩折半如勾股法日置廣斜百歩自乗得一萬歩另以緃六十歩自乗得三千六百歩以少减多餘六千四百歩折半得三千二吾歩爲实以廣折和一百歩爲法除之得廣三十二歩以縱六十歩乗之得積一千九百二十歩合問假如直田兩隅斜去六十八歩只云縱多廣二十八歩問積若干荅曰一千九百二十歩折半如勾股積法日置斜六十八歩自乗得四千六百二十四歩另以縱多廣二十八歩自乗得七百八十四歩以少减多餘三十八百四十歩折半得積合問
+  hash: sha256:b6c31a7b6a2a416e06705ed7a84d40c173294b584c11478c917781c7e39510a1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:48ad3238d13d3a9b0caaabedc5eeb7d004c811cd5d0d514057ebe0f0a994b9f5

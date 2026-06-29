@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1028
+seq: 1028
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斤價銀四錢白臘毎斤價銀五錢問黃白蠟各若干荅曰各三十六斤黃臘諛銀四両八錢白臘諛銀一十八両法曰置總銀以黃臘三斤乘之得六百八十四斤爲實另置黃臘三斤以白蠟價五錢乘之併黃蠟價四錢共得一両九錢爲法除之得黃白各三十六斤就以白臘三十六斤以毎斤五錢乘之得價一十八両再置黃蠟三十六斤以價四錢乘之得一十四両四錢又以蠟三斤爲法除之得價四両八錢合問今有銀三十七両八錢糴米麥豆三色各要均平毎石米
+  hash: sha256:a0928fb0ef3177c02276efd4474acb80f04bbd164bf4897c41012d278c5b69a4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:034cae5699f4ab77b8db313399f2b7d328be5aca8eae620e18a444a915d02ae1

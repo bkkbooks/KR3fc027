@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1142
+seq: 1142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 價六錢四分內減原丹六共價二錢四分餘價四錢爲實以粉五爲法除之得粉毎斤價八分又于右行價二両令四內除粉三斤共減價二錢四分餘價一両八錢爲實以硃二斤爲法除之得硃毎斤價九錢合問今有鵝四雙鴨三雙共價七錢五分又鵝三雙鷄四雙共價六錢又鴨五雙鷄六雙共價八錢一分問三色各價若干荅曰鵝毎雙價一錢二分鴨毎雙價九分鷄毎雙價六分法曰列所問数
+  hash: sha256:3ed969779ae5d906603301b8ebe918b9c5d0ec7edb2bed33a4140f7de147a7af
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ef14bc250e21fcaa96d9c7b9602a9b0f63172ed759c14a52d1661e69f3938ca9

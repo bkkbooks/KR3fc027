@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/974
+seq: 974
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六萬五千八百八十八尺為實以圓率三十六尺除之得積合問築墻截高問今上廣歌上下原廣數相减餘用今高數相乘原高為法除為積積减下廣上廣存假如原築墻上廣一尺下廣三尺高一十二尺今巳築高九尺問上廣若干答曰一尺五寸法日將原下廣三尺减原上廣一尺餘二尺以今築高九尺乘之得一十八尺為實以原高一丈二尺為法除之得一尺五寸却於原下廣三尺减法一尺五寸餘得今築上廣合問
+  hash: sha256:5d7e2fe3194c973c12e54308122d1f8a861dfd133b27f3253739001a626ce8ec
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:230a97a75e007a4d73f5cb03e54688b31ef2e701078c9138a44d426deef68a14

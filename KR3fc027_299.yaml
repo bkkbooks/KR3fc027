@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/299
+seq: 299
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法首九人空十减實尾八分三錢二九除一十八本位去一右位去八定位六兩本位定二本位去七存二右位去二八九除七十二二分實首八十本位定八原實十起法首空十遇十即止合前位得令是兩也得八錢前位是兩也順降下位合得兩求一乘除法按古有之賓渠因考其法用倍折之繁難不如歸除之簡易故愚于此而廢之使學者專心于乘除加减之法而無他岐之惑焉
+  hash: sha256:7a4a0f0360004e012eba2508b695a4b8eb10f53f7193168ecf90d1ba6b31d8f1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:128b8c32781d0361e2bec6acd855c89870e450b69ef299a27b0e99a6450581b9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1554
+seq: 1554
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各積一百数二十四子作三十二子用斜直周圍併中九各積一百四十七数
+  hash: sha256:7203ef3785061c0c0a1d911196f614d47284331dacec7ff926814204be441670
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fa7a0d296af7badc459176e0c113fd9e8377c4ac347cb3601cca83fe27f2f1a2

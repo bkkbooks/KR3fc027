@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/763
+seq: 763
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商三十再减餘縱六十二仍餘縱三十二次商二又减縱二餘縱三十與次商二相呼二三除實六十盡合問若先問長者仍前布列先商長六十减縱亦得今有勾股田積九百六十步長濶相和九十二步問長濶各若干答曰長六十步濶三十三步法日置田積以八因之或倍田積以四因同得七千六百八十步另以和步自乘得八千四百六十四步相减餘七百八十四步以平方開之得長濶相差二十八步加入和步共一百二十步折半得長六十步內减差二十八餘得濶三十二步合問若以减縱開平方法算置積倍之得一千九百二十步為實以
+  hash: sha256:563a03ecfe8756430e1c76b8c40bf6d95193b41842e3c11cb0e8055ce9638ed1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1efdb66643de53b2a4b58f77cf7e30a5febb0b98ea76988674ee64d1da6be353

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/659
+seq: 659
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 米折半得乙米六十石合問今有銀二百四十両令四人從上互相减半分之只云甲多丁一十八両問各該若干荅曰甲六十九両乙六十三両丙五十七両丁五十一両法曰置銀爲實以二四六八併得二両爲法除實得一百二十乃甲丁首尾二人共数干內减甲多一十八両餘一百零二両折半得丁銀五十一両加多十八得甲銀六十九両惟乙丙二人不可併折以甲多十八例用三歸之得六両加人丁銀得丙銀五十七両又加六両得乙銀六十三両合問
+  hash: sha256:42a6e0b439e5a792730db4a5bee37dd847b045257063dda57c360df56d569a7f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:594871e8fe25451ed47c54990f51291771301aa56235aefde96d462221c88822

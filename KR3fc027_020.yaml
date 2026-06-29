@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 算法統宗序古先哲王以六蓻教天下而數要其成所湯耒久矣有氏創之隸首即周公受之高于是算學大興九章之孫立而氏實司之世代相沿算博士等官屬之太史令淳唐時樊英單揚劉徽李淳風甄鸞湯之流訂考注釋皆卓然名家當是時專
+  hash: sha256:dcbecfa3faf68cc619fbe43fc81bff1236669b34c8e13d861b7189b0d93a47f8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3d21a60d58b0c0e1b4c88b978fe72a17e729c232847847f35bc0fac2dd2ab29c

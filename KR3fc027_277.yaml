@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/277
+seq: 277
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九百三四除一十二本位去一右位去二尽百六千三六除一丨八本位去一右位去八逢五進十十本位去五進一干左千法首位是千遇千即止前位得令是枚合得實首一萬起五一倍作二本位加一為二原實萬起呼萬往後順至千合得二枚還原用乘三六一十八三四一十二三五一十五假如今有銀五萬五千三百八十五兩作一千零七人分之問每人該銀若干答曰五十五兩法日置銀為實以人分為法除之合問七人除
+  hash: sha256:287c077789ae8c953cb9d2c98b9e00ff51fea13bd9342dfb810318597fd9e8a4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:02f80ac12e0b7d5152fdb8ed55b376416b4ef8c932324abaa6ee8c00209409fe

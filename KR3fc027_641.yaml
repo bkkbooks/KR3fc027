@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/641
+seq: 641
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五十四兩為實以三人為法除之得丙金一十五兩加五兩得二十兩為乙所得又加五兩為甲所得合問今有俸糧三百零五石令五等官依品遞差十三石分之問各若干答曰正一品八十七石從一品七十四石正二品六十一石從二品四十八石正三品三十五石法曰置五等於上又列五等减一餘四以乘五得二十折半得一十為實以每等差十三石乘之得一百三十以减總糧三百零五石餘一百七十五石却以五等除之得三十五石是第五等
+  hash: sha256:d0d78334ef8e4233bddc9ecbaf3f831c863a4c9b8f57f2937d6c2da962f93b6e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:53ae07cbb937d046f9f6c903a705b1431dbb46a739a36d88ac03019750287f83

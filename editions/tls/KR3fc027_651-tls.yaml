@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/651
+seq: 651
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰甲四十文乙三十七文丙三十四文丁三十一文戊二十八文巳二十五文庚二十二文法曰置二人七十七文三人七十五文令母互乘子以二人乘七十五文得一百五十以三人乘七十七文得二百三十一文以少减多餘八十一爲一差之實併分母二人三人得五折半得二人半以减總七人餘四人半却以分母二人三人乘得六以乘四人半得二十七爲一差之法除實八十一得三文爲一差数置甲乙均七十七文加三文共八十文折半得四十文爲甲得数逓减三文合問今有兵士三千四百七十四名每三人支衫絹七十尺每
+  hash: sha256:9f48877b09799c61c3d7abb0efccb441895871939995b3c4deee4201df0cb54d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1cf49d660a62be7afd304f21a54f19892eeba3f0ae67057f367aa01580417671

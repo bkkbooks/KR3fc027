@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1544
+seq: 1544
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 衍数七七圖法曰併上下数上一下四十九其五十以四十九乘之得二千四百五十折半得一千二百二十五爲實以七行爲法除之得縱橫斜角皆一百七十五数
+  hash: sha256:86bb83f0986d531415ca62b5c1b7e9090b20903f6619236d2435dd8fc08c8012
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f1a94ad584b9072677590087c78e7af7f948e3c1bb6e1b5a7173ea5ea6939662

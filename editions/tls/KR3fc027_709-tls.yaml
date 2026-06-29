@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/709
+seq: 709
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲三数一之衰其三数剩二者剩一下七十剩二下二百四十五数剩三者剩一下二十一剩三下六十二剩二下四十二七数剩二者剩一下十五剩二下三十併之得二百三十三内减去溝数一百令五又减一百令五餘二十三箇合問今有客至不知其数只云三人共飯四人共羹通共用碗三百零一隻問客併羹飯碗各若干荅曰客五百一十六人羹一百二十九碗飯一百七十二碗法日置碗三百零一隻以三人因之得九百零三爲實併三人四人共七人爲法除之得羹碗一百二十九隻又以四因之得客五百一十六人
+  hash: sha256:0f883075afb0e9da58b1f0df3c271415a0a7467ab6cd2197c5f3d80ecb327b01
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3964d73736dfff7ee653d008c31576df0dcb13b28df8d7912982dd3b8916a09f

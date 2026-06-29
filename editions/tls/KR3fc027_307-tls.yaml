@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/307
+seq: 307
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 初商四十斤于左就以左右相呼四六除實二千四百又呼四七除二百八十斤餘實三百三十五斤次商五斤置于初商四十之下位就以五斤對右六相呼五六除五百又呼五七除三十五斤恰盡合得約分法約以分子通以分母也法日可半者半之不可半者以少减多更相减損求其有等以等約之若数如四分両之一者二錢五分也此謂有盡若数如三分両之一者三錢三分三厘三毫有零也此所謂不盡必須約分之法解日約分者謂用除法多有畸零数之不盡帶有幾千
+  hash: sha256:9d2d62247273ef17a24b1173bf6b966f7d48eb0c61cf6e716806559e7088e8d0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:663d7c6020bdc788cb9fd2f853c55ae30f8848fcc350bf76d031b85b3c11c7fb

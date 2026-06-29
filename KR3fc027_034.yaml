@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 刻旨指算法統宗序昔齊威公時有以九九見者威公不迸當時大之豈非以九九末技非也主之所屑越者手不知數雖出于算師掌故之手而其理則原自鴻濛紀于易範肇創于軒后之世其為用起沙塵秒忽以迄秭億無量凡日月運行朓朒遲速之變天地山川之高深廣縱律曆戎賦度量權衡之輕重多
+  hash: sha256:8314dc896421b771d3479e034b660b30d60cb95efac3f609e450b59659afd371
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5368dcc37eeda74af09c13514f7ebb7aded35fd9178dc6f08068f195d0e1949f

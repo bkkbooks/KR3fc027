@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/494
+seq: 494
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰二百一十六石法日置粳米爲實以每石减五爲法定身除之或用十五除亦得原借人小麥四百五十六石今將白米照依時價估折還之其麥每石價四錢五分白米每石價七錢五分問諛還白米若干荅曰二百七十三石六斗法曰置麥数以麥價乘之得二百零五兩二錢爲實却以米價七钱五分爲法除之卽得今有芝蔴四百五十六石易換米豆只云芝蔴三斗換米
+  hash: sha256:70afdc3678171dfcbb7d9dea75c8ec82ee073caebe19e220f3ab411c87b1d627
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c3c15024d8297f959846056bdf2ec7d188d6e73799b2d046a3b25b5da6d26464

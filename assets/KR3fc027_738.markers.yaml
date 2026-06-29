@@ -1,0 +1,9 @@
+canonical_identifier: bkk:krp/KR3fc027/bkk/v1/markers/738
+seq: 738
+markers:
+  front: []
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR3fc027_tls_190b}
+  - {type: 'tls:seg-start', offset: 0, content: '', id: KR3fc027_tls_001-p190.s12.1, seg_type: comm, member_ids: [KR3fc027_tls_001-p190.s12.1, KR3fc027_tls_001-p190.s13.1, KR3fc027_tls_001-p190.s14.1, KR3fc027_tls_001-p190.s15.1, KR3fc027_tls_001-p190.s16.1, KR3fc027_tls_001-p190.s17.1, KR3fc027_tls_001-p190.s18.1, KR3fc027_tls_001-p190.s19.1, KR3fc027_tls_001-p190.s20.1, KR3fc027_tls_001-p190.s21.1]}
+  back: []
+hash: sha256:bb96aff9481daf8246df1509b73fd9eb4e5b0e60ab61b16282f396c0d33d59cc

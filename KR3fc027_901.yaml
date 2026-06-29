@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/901
+seq: 901
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 腰廣六步問截南長若干答曰截南頭長八步斜田截積法日置截中廣六步减上廣四步餘二步以乘長三十二步得六十四步為實却將南北二廣相减餘八步為法除之即得若截下長置下廣减中廣餘六步以乘原長得一百九十二步為實以上下二廣相减餘八步為法除之得截下長二十四步合問今截下長二十四步問截中廣若干答曰六步法日將下廣减去上廣四步餘八步為實以原長三十二步為法除之每長一步得濶差二分五厘就以此為法以乘下長二十四步
+  hash: sha256:f833f71414011be7d206306eccbb93c50d4cd1e50c9477736fb5569c38119e04
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b240f32eb78c9c3e657a4d605f6e85c1bde319c11ca18e6e64c1fc3964760c27

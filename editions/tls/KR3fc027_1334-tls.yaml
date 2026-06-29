@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1334
+seq: 1334
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十両爲實另以大羊毛一十八両减小羊毛一十二両餘六両爲法除之得小羊二十隻以减總羊餘得大羊一百二十隻合問二果問價歌甜桃苦李九百九十九文錢甜果苦果買一千甜果九箇錢十一苦果七箇四文錢試問甜苦果幾箇又問各該幾箇錢荅曰甜果六百五十七箇該錢八百零三文苦果三百四十三箇該錢一百九十六文法曰列九箇十一文七箇四文一千箇九百九十九文先以右上九箇互乗左中四文得三十六箇次以右中七箇互乗左上一十一文得七十
+  hash: sha256:ee625e40b7edee8fad797bd3f009e6190fcf115685fdb0852d3b503bd95bed07
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8539d599ec48e025af67306c961c7f3129dc415403676cf1a2a5cd45c084394d

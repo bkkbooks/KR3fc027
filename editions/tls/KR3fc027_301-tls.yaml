@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/301
+seq: 301
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商除商除者商量而除之也如定商太過則總数不足而無除如定商不及則總数有餘務要酌量彀除方可然此一術亦兼歸除歸除旣通不必學此但開方之法必用商除演此而爲梯堦其法不可廢也歌曰数中有術號商除商總分排両位推惟有開方須用此續商不盡命其餘假如今有軍士六百名分粮三百九十四石二斗問每名該若干
+  hash: sha256:968b641dbc558e6b51050c8ae48a0d31cfd2910fb820fa37e242299865d0b66d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0b5072822c0131d9af0ed5e6b668a87be2277dcf7ae483d8eb92c21e8fb06e02

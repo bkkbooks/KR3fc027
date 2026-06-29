@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 職及季六藝之教既寢而算之學儒者紇不能舉官府會計第委之史輩其書之行于世者曲藝之士或能通一二雪豈獨哉即業其事者省循習而精詔余是以深古今之不相及宗人汝思幼而慧學為儒業既通不復出試吏而為儒不廢耽墳籍科斗文字而尤長于算如年
+  hash: sha256:d2994667f3bef1aa65d8a5053f5ff97732a33cbac07646271c71adb27bc1a4fb
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a1a4079b4fb24ca8636bedaba3a5fd33fd242be20b727fe7b61452a1318f1fff

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1324
+seq: 1324
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 原銀輪逓四六出休將六折術瞞人荅曰甲四千四百零六両四錢乙二千九百三十七両六錢丙一千九百五十八両四錢丁一千三百零五両六錢解曰四六者乃是毎両而多五故自丁起逓用加五爲衰併之爲法除實法曰各列置衰丁四丙六乙九甲一十三衰五分副併得三十二衰五分爲法另以銀一萬零六百零八両以乗各表甲十三衰五分得一十四萬三千二百零八両乙九衰得九万五千四百七十二両丙六衰得六万三千六百四十八両丁四衰得四萬二千四百三十二両各自爲實以法各除之合問歌
+  hash: sha256:2919dd4b22aeefc719ee7d67a178ef8fa4bd9ba67c971214a8bafe249130a4e0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:526f0a8549e75ec11491ec48d23089a0b5f807ed8e8c981c1d9fd34d830a3a03

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1472
+seq: 1472
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西江月田中有一枯柱丈六全沒枝稍尖頭一馬繋難牢吃盡田中禾稻四分五厘田地圑圑吃一過遭索長幾許筭償招不筭難賠多少荅曰三丈四尺法曰此爲勾股求弦置四分五厘以畆法二百四十通之得一百零八歩四因得四百三十二用三歸之得一百四十四爲實以開平方法除之上商一十自乘得一百除實餘實四十四歩以初商一十倍作二十爲方法次商二歩呼二二除四十又呼二二除四歩恰盡得一十二歩爲全徑歩折半得六歩乃枯柱繋馬之處以每歩五尺乘之
+  hash: sha256:4ff3f2094651a058b2be4f360a93c9c6c2b83969cad22dae3c15e192614f874d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a1014e4f1400f77e1fe0edd43ebca652b128a85a8c8236a19c52c7e5bac07918

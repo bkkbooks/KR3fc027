@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/960
+seq: 960
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又以高乗再以三歸之如方窖蒭童倍上長加下長以上廣乗又倍下長加上長以下廣乗併二数以高乗又以六歸之圓臺求積上周自乗下周自乗上下周相乗併之又以高乗再用三十六除如圓窖圓錐下周自乗又以高乗再用三十六除如尖堆方錐求積下方自乗以高乗之又三歸之如圭形下方上尖方堢壔求積以方自乗又以高乗之如方倉方柱圓堢壔求積以周自乗又以高乗用十二除之如圓倉圓柱
+  hash: sha256:f817fde22c188919150ccf0c01122f478df082d353f2e1ec53ac8ebb649dbae1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5658b219cc774d01528d6a8d907a1f9c6646d17094eceb24ffa282a087029aff

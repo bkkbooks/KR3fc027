@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/930
+seq: 930
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 環田截積歌環田要截外周積倍積二周差步乘原徑為法除見數另以外周周自乘以少减多餘作實開方便得內周成二周相减餘零數六而取一徑分明今有環田外周七十二步內周二十四步徑八步今自外周截積二百八十五步問截中周併徑若干答曰中周四十二步截徑五步法日置截積二百八十五步倍置得五百七十步却以外周减內周二十四步餘四十八步為差步以乘倍積五百七十步得二万七千三百六十步
+  hash: sha256:589b1925e953a6541b82abeaa3f79353ff9664b7f4bf3289ce944ee57a807ce7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3d6271a11239e2e78e963b2641d220a34ace63b0d62c1fca6ed3bb2edce76a50

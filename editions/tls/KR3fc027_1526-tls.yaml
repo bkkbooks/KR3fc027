@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1526
+seq: 1526
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 左九圖之上内四圖一圈者乃是各色總物之數内五圖三圈者乃臨時遇物而呼以別分類之不同也縱橫定位分別九圖
+  hash: sha256:0567018077c6755fb14f7469b99e2ef2f3e49a28b08295c22454300391893ceb
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:463876c8a6caa078914614d6360f7bb7899ef80f8540ebcd3c17093115f47f2a

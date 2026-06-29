@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1592
+seq: 1592
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 筭經源流宋元豐七年刋十書人秘書省人刻于汀州學校黃帝九章周髀筭經五經筭法海島筭法孫子筭法張丘建筭法五曹筭法緝古筭法夏候陽筭法筭術恰遺元豐紹興淳熙以來刋刾者多且以見聞者著之議古根源益古筭法証古筭法明古筭法辨古筭法明源筭法金科筭法指南筭法應用筭法曹唐筭法賈九章通㣲集通機集盤珠集走盤集三元化零歌
+  hash: sha256:d06e4b5ac8adf9e9d9434ba5f95e110046e07b435b94285c0a1fca9a4ad0a353
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:86e15d932709fddba94801003e32a2a74f096acf71e51b95887a37ca3e925496

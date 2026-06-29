@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1410
+seq: 1410
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法日以三朝五日相乘得一十五再以七日乘之得一百令五日合問歌今有四人來做工八日工價九錢銀二十四人做半月試問工錢該幾分荅曰一十両零一錢二分五厘法日置二十四人以一十五日乘之得三百六十又以銀九錢因之得三百二十四両爲實以四人乘八日得三十二日爲法除之合問難題均輸六粒米求程歌廬山山高八十里山峯峯上一黍米
+  hash: sha256:dc3817792ef7f8283034048feaffe00f14cdab146c6547711002bcf3263f1c34
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:326fcde46349f30b66bff221d9e54f5f9fb02539e8278b303eae78c55aa0f5bf

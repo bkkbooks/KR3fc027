@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/303
+seq: 303
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰六斗五升七合法日置糧米于盤中為實以軍士六百名于右為法初商六斗于左位就以左右相呼六六除實三百六十石餘實三十四石二斗次商五升于左位六斗之次就以次商五升對右六相呼五六除實三十石餘實四石二斗再商七台于左位五升之下就以左七對右六相呼六七除實四斗二升恰盡今列布算式于後商除式樣學者但看初商即看初除又看次商又看次除復看再商復看再除挨次位數則不亂矣右法六百名中尾二斗去恰盡
+  hash: sha256:3afccb1038789e3bc6b1d85cdd9c4dbaf907b96a3cb70d670f9d37cfa1189eab
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a0451c5afe23f741392e4db0e24f50f9955e488b153e7be1ea9b0d7a1396d625

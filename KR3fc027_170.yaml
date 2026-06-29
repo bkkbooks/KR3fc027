@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/170
+seq: 170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 共該米若干答日二百四十六石八斗法日置銀于左為實以每銀糴米二石于右為法因之合間定位法只認兩下位即錢之位定石逆上即兩之位定十石再上位十兩之位定百石合得此所謂因乘俱向下位推先數原實百起順下至兩遇法首位每兩二石則止下位得術是石回向前逐位逆數升上合得也今列布算之方于後法二石為因
+  hash: sha256:2c320e5e445e81c7590af1a12a5cc1848382d33314b9d03739c60d054d5a32f4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:90522896f87a8f8c45d5fd60c3316e5bfd707bf3af7f6a1c96ae3c301236b6c4

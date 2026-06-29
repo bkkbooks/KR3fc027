@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1264
+seq: 1264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰路墓占地二分二厘五毫內八墓計二十四步内路計三十歩剩地七分七厘五毫該銀一面九錢三分七厘五毫法曰通田一畆爲二百四十步於上另置墓八箇以每箇周六步自乘得三十六步以十二除之得三步八墓其積二十四步又十字路濶一步長一十六步濶一十五步二其三十一步除路中心一步實三十步加八墓其二十四步通其占地五十四步以畆法二四除之得二分二厘五毫爲占地數以減去一畆餘剩地七分七厘五毫以每畝價銀二而五錢乘之得剩地價銀合問
+  hash: sha256:f2a5259945a46ebdab36391ce96afbe4dca62706add551daff1b6754913eec4f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f83c46f59d0ef6f6e67884fe80d3fa72d2e5b822ee9f9e2ceead6a6d3fba284a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/879
+seq: 879
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五十二尺併三位共七百七十二尺為法除實得深九尺合問巳上四條以積米而求高周濶者巳下數條亦以積米或以高濶而問長者以明上意今有米二千四百一十九石二斗欲造長倉盛之只云濶一十八尺高一十二尺問長若干答曰長二十八尺法日置米數以斛法二五乘得六千零四十八尺為實另以高乘濶得二百一十六尺為法除實得長合問或只云長二十八尺高一十二尺問濶若干答曰濶一十八尺法日仍以前實却以長高相乘得三百三十六尺為法除實得
+  hash: sha256:c78d8aeae184d87c4b9cd324921ad5e1250ac3d08d783abef545d8cf03ce559d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:676f2bce1de66b09fce3c3b5ef56cba95d37d8cf5120c4a653ad81423e87496a

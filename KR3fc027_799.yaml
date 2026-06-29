@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/799
+seq: 799
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法初商二十倍之共五十二次商四于初商二十之次下法亦置四于倍方之次共五十六皆與左次商四相呼除實恰盡得濶二十四步加差一十二步得長三十六步合問今有置田積八百六十四步只云長濶相差一十二步問長濶相和共若干答曰長濶相和六十步法曰置田積以四因得三千四百五十六步另以差一十二步自乘得一百四十四步併四因積共三千六百步乃是相和之積用開平方法除之得長濶相和六十步合問若問長數加差折半即得
+  hash: sha256:ac6e6c6913275addaef1e068c960c40e1a122da537a20804acee0006c66096f3
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2e8ee7a63aa4c1298d59d3ada9ebc114485d068dfc07551b88efd26c982517ac

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/482
+seq: 482
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此古米增而麥减何也蓋謂古有官莊産土租米重而租麥輕又紫陽書院田府縣學田有米無麥今變總歸于一則丈出畝步派租米租麥各畝步不同等而田山塘等起科不廢古法惟地扣合米麥總數之故云山按原額計畝新丈不計步數每畝共米一升零七勺帶耗麥同塘池談埸同田則園圃洲堤同地則填塋境蹟多作上地開墾儱野以作莞地三百為畝入山稅畝法論
+  hash: sha256:9d6942d72cb16d6a993df107a1297a0ad4a80cf52cee3ec47c24ea29a5eacd02
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:08ee523f2daadedc75b6e1630ec8f89134a82113917f6b19c9dcf5c93014033d

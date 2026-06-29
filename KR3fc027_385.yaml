@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/385
+seq: 385
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假如覆月天弦長五十六步矢濶二十八步問積步若干答曰一千一百七十六步法曰置弦五十六步併矢二十八步共八十四步折半得四十二步又以矢二十八步乘之得積一法以弦矢相乘另以矢自乘併之折半亦得假如弧矢田弦長四十步矢濶八步問積步若干答曰一百九十二步法日置弦矢相併得四十八步折半得二十四步又以矢八步乘之得積合問
+  hash: sha256:7af65a76b9fcabe896106efd239e4ced6d45e4356cd137511e3498fe1529762b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:efe65890c6360da2833fba592e75a1dfbfc5399aa595df24100980f72d5c158f

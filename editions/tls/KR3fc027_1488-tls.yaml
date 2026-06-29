@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1488
+seq: 1488
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有門廳一座不知門廣高低長竿橫進使歸室争奈門狹四尺隨卽竪竿過去亦長二尺無疑両隅斜去恰方齊請問三色各幾右調西江月荅曰門高八尺廣六尺竿長一丈法曰置勾弦較橫濶四尺以股弦較竪不出二尺相乘得八尺倍之得一十六尺爲弦和較積用開平方法除之得弦和四尺加股弦較二尺得六尺爲勾卽門廣另以弦和較四尺倍之得八尺爲股卽門高又以勾六尺加勾較四尺得竿長卽斜一丈合問新編直指筭法綂宗卷之十六
+  hash: sha256:3fe8f911d4600df88b8fef00e27212247446c971159e7fc60fcb7f067799b1b6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2ee80c81bc9f14c29c54fa0bee5f51cb8b6edec09548f760de1a11d1074776c7

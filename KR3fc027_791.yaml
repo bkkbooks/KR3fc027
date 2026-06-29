@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/791
+seq: 791
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰此是九箇周中包一置三稜物九十一箇减去中心一箇餘九十箇以十八乘之得一千六百二十箇為實以九為縱列于右用帶縱開平方法除之初商三十于左下法亦置三十于右縱九之上共三十九左右相呼三三除實九百又呼三九除實二百七十餘實四百五十另以下法初商三十倍作六十不倍縱共六十九次商六十于左初商三十之次下法亦置六于倍方之次共七十五以左六對右七呼六七除實四百二十又左六對右五呼五六除實三十恰盡合問
+  hash: sha256:eea46eead0c8c35cf42bf520799fd5bcbceca1a19ed4cb9f8c63b739cf9a1912
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:735caf449c0c8da5341a36b4d04c40aa77584711f6d236ea118394507672585b

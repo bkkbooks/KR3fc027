@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1388
+seq: 1388
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歌梭田共積一千二又零二十有四歩濶不及長三十二要見濶長多少数荅曰長六十八歩濶三十六歩法日倍積得二千四百四十八歩爲實以不及三十二歩爲縱方于右初商三十歩于左下法亦置三十加於縱方之上共六十二歩與左初商三十相呼三六除實一千八百又呼二三除六十餘五百八十八歩另以下法六十二加倍初商三十得九十二次商六歩于左下法亦置六歩加于縱方九十二之上共九十八歩皆與次商六歩相呼六九除五百四十又呼六八除四十八十盡得濶三十六歩加不及三十
+  hash: sha256:2fbe8f58a8d190429187bea2616fd0e76fe60bfd0aeb3a793192b58ed00a5b23
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:de2c9a94eeb5b1d888c5e4c1cddb863c400830ba879616050a08e85f7e8819e7

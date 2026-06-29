@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1314
+seq: 1314
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰列入衰一二三四五六七八各以差三歲因之爲各人之衰數長兒因得二次兒因得六三兒因得九四兒因得十二五兒因得一十五六兒因得一十八七兒因得二十一八兒因得二十四併八衰得一百令八数以減總二百令七歲餘九十九歲以九人除之得一十一歲爲第九兒之年歲次逓加三歲至長合問依等筭鈔歌甲乙丙丁戊巳庚七人錢本不均平甲乙念三七錢鈔二十三両七錢念六一錢戊巳庚二十六両一錢惟有丙丁鈔無数要依等第数分明請問先生能筭者細推詳筭莫差爭
+  hash: sha256:2dd01a82a8ad5298338b670a38186ea2dab5074ca1b5fe4ebfe1628984762cab
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6232271ee4defe936c9769af593c8cd45f487c105b6590f213834c3bca523620

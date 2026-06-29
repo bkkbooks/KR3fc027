@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1084
+seq: 1084
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置兩盈出三両五錢出三両三錢互乘盈二両八錢盈六両先以出三両五錢互乘盈二両八錢得九両八錢次以出三両三錢互乘盈六両得一十九両八錢二数相减餘十両爲物實另以盈六両內减盈二両八錢餘三両二錢爲人實又以出三両五錢內减出三両三錢餘二錢爲法除物實得五十両爲物價法除人實得一十六爲人数合問今有人買牛毎人出銀五両不足四両毎人出五両四錢不足二両問人数物價各若干荅曰五人物價銀二十九両法曰置両不足出五両出五両四錢互不足二両不足四両先以出五両乘不足二両得一十両次以出五両四錢乘不足四両得二十一両六錢二数
+  hash: sha256:f578c6d8a462b7c353a25b7522f6d7aa29e075efddadbdbeba8f78e2dd38d512
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:522e31c86f18becfb90aa01811f742244aa63e5cbb3c4289dfd9e9928d0b9cc6

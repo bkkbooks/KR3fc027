@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1224
+seq: 1224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假有立木不知高日影在地長五丈隨立一竿長一丈在邊影長一丈二尺五寸問立木高若干荅曰木高四丈法曰置立木影長五丈爲實以竿影長一丈二尺五寸爲法除之合問今有立木不知高日影在地長四丈隨立一竿長一丈邊影長八尺問木高若干荅曰木高五丈法曰置木影長四丈爲實以竿影八尺爲法除之合問右二問乃孫子度影量竿之法
+  hash: sha256:d375666cfca80177efc0f2959149b3cde94c89e2dea10367dfae74b6ed57bea2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:17f093585c4179cffe95617c2bc85bc25058a067a505a6f16fcd249f98a51e26

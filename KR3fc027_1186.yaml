@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1186
+seq: 1186
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若以圓徑十八尺用一尺二寸歸除得放徑十五尺若以方徑十五尺用一尺二寸乘之得圓徑十八尺較求勾股弦共歌較差也是股弦相差勾弦相差股較求股勾自乘股較自乘減勾盈減除勾餘爲實數股較倍之爲法行法實相除爲股數勾較求勾一樣成弦較求弦勾自乘弦較除之爲實情仍加弦較須折半就得弦長數卽成今有勾濶二十七步只雲弦多股九步問股弦各若干荅曰股三十六步弦四十五步
+  hash: sha256:b227ec396c0fd574f7be2838e9c4079662d13a782eb1caac8bd647b8012cac63
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:63c26d9cf21d5b2f60c8968809d4c196feba7671236f694da88f93f1b4a17a56

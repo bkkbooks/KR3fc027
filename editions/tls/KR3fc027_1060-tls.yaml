@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1060
+seq: 1060
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餘一十一万一千一百五十步以圍兵二万三千四百爲法除之卽得今有粮三千六百石只云毎石則例令三處倉上納東倉二斗三升四合西倉三斗四升五合南倉四斗二升一合依則均開問各倉該米若干荅曰東倉八百四十二石四斗西倉一千二百四十二石南倉一千五百一十五石六斗法曰置總粮爲實以各倉則例数乘之合問今有夏稅麥二百七十四石三限催徵初限五分六月完中限三分半七月完末限一分半八月完問各限該徵
+  hash: sha256:fd2dd553f1d07503fecdd76dbb1f0f537c071e7a7d426e32d9707b98ff33e53e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d9034877c5c76b942d72d1878264948b04e78f29707c07cc3e322ad08ff47ad0

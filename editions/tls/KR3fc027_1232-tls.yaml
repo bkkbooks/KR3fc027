@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1232
+seq: 1232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二表俱與參合自前表相去二丈五尺問高若干荅曰高一丈一尺一寸法曰置遠二十五尺加入退行二尺共二十七尺以二表相減餘六寸乘之得一十六尺二寸爲實卻以後退行二尺爲法除之得八尺一寸加入後表三尺得高一丈一尺一寸合問若依前法置前表三尺六寸減去後表三尺卽是人目數餘六寸以乘遠去二丈五尺得一丈五尺爲實以推行二尺爲法除之得七尺五寸加入前表三尺六寸共高以丈一尺一寸
+  hash: sha256:78ba51aef1cc4a8c3bbde0a206d37f9bcce95b9ccfb87cc226809a25411cc379
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:545bb9a265be291255a4237143bc31f837488932a66efdbd701ea05a11ae688d

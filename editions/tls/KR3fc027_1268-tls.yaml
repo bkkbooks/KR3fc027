@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1268
+seq: 1268
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰二分五厘計六十步法曰置相和一十七步減不及五步餘一十二步爲長以濶五步相乘合問歌今有直田用較除一百二十步無餘長濶相和該一百問公三事幾何如荅曰長六十步濶四十步較二十步法曰置較除一百二十減長濶相和一百步餘二十步爲較以減相和一百步餘八十步折半得四十步爲濶加較二十得長十六合同
+  hash: sha256:3a08b1468b9bea2c8763b00129ea0ac20e64e21b9e28d3aee0c4883e938af181
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d0c6a3bd10bd6f164274642916cd3e136613f5f5c868f25d5df67afdf66518d6

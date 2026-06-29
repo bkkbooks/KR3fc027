@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/164
+seq: 164
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九人為法六兩為實下加六法實相呼六兩不動變作每人六錢九人共除五兩四錢餘六錢歸日下加六六錢又用此歸挨次而算九人為法七兩為實下加七法實相呼七兩不動變作每人七錢九人共除六兩三錢餘七錢歸日下加七七錢又用此歸挨次而算九人為法八兩為實下加八法實相呼八兩不動變作每人八錢九人共除七兩二錢餘八錢歸日下加八八錢又用此歸挨次而算逢九進一十法九人實九兩歸日逢九進一于前位每人各得一兩九人共得九兩以合原數新增續編九歸釋義終
+  hash: sha256:1963bba3d520f64ac3aaaa822787eb0864d082b21a2393bd06f2a5b225d9a5a8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c5a5bf2105a71b01449c42b8e120cce88e16d6d29939ddbe51fe965899d05804

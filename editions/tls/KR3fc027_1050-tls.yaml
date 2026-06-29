@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1050
+seq: 1050
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得一千七百五十里爲實另併空車重車日行里数以三返乘之得三百六十爲法除之不盡二十二以法命之原有人負米一石一斗二升行三十步日五十返今負米一石二斗行四十步問日幾返荅曰三十五返法曰置負米一石一斗二升以行三十步乘之行三百三十六又以五十返乘之得一千六百八十爲實另以今負米一石二斗以行四十步乘得四百八十爲法除之合問今有衆兄弟軰出錢買物長兄出錢八文次兄以下各加一文順至小弟出錢六十文問兄弟軰及共錢各若干
+  hash: sha256:f5fc11e5466e4daf357855a32ec0d3a2801ac48bc360697180ea49162c5ae446
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:aae32be8e05c328695d14c6e18e0002af36a5c9bbd45125835a5c123e4229971

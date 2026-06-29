@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/297
+seq: 297
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法首三人七十减實尾八石定位三十三六除一十八本位去一十下位去八十法首是七十遇十即止前位得令是石也六七除四十二本位去四右位去二本位定六百是石也木位合得合得六石實首一千起此一千下位空無除可退作十百原實千起呼千往後順數至十假如今有金八十九兩三錢八分令金戶一百零九人辦納間每人各該若干答曰八錢二分法日置金為實以金戶除百不用只以九人為法隔位定身除之合問
+  hash: sha256:4fcf0448f873d6b9b0d244eb60d55f45cac1c2917522ed3b005e48f53657d7c0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c44e8d5dcbef43174059e4f6ebb5aad471d9c1bdc7e116b967c52e4d32b273f5

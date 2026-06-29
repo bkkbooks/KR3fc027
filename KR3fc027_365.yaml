@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/365
+seq: 365
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰銅四兩八錢法曰置紋銀為實以八八色為法除之得色銀四十兩丙減原銀餘四兩八錢假如有銅七錢五分今奠作八八色銀問用紋銀若干答曰紋銀五兩五錢法曰置銅為實以每兩用銅一錢二分為法除之得八八色銀六兩二錢五分於丙減去原銅七錢五分餘得紋銀合問新編直指算法統宗卷之二
+  hash: sha256:2aceada39e89d1cf8f3d3cc8c67d057a197fe018115c656fef90351263b0dc6b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e71810b1dcfb7309934745bea4eda181b607449c254cfd275323477af6ed8f94

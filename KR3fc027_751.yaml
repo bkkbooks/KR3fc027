@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/751
+seq: 751
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數為長若要還原以所商得濶若干為實另以所得商數加上縱多共或减不及餘若干乘之見積今有田積一千七百五十步只云長比濶多一十五步問長濶各若干答曰長五十步濶三十五步法日置積為實以多一十五步為縱列于下位以帶縱開平方法除之初商三十于左位下法亦置三十加于縱上共得四十五步與上商相呼左三對右四呼三四除實一千二百又左三對右五呼三五除實一百五十另以下法初商三十倍六十加縱多十五共得七十五次商五于左位
+  hash: sha256:4da9a8470ccc28259022f9fb42c3b92be9d8e6359180be4a893112ddd67ee373
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a06dbea65ca6effba223f2f1d1d5a80aff6d73b28f5dda5e22fd6f1746c6e598

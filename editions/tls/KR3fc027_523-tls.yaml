@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/523
+seq: 523
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 合問今有蓆三領作一囤亦用一蓆較数同前問盛米若干荅曰二十二石五斗法曰置蓆三領自乘得九領以較米二石五斗乘之令問今有蓆四領作一囤照前一蓆較数相同問盛米若干荅曰四十石法曰置蓆四領自乘得一十六領以較米二石五斗乘之令問若五六七領俱倣前例自乘再以較数乘之卽得今有米十石欲用蘆蓆囤盛之先以一蓆作囤較数盛米石五斗問諛用蓆若干
+  hash: sha256:a46beffbc0be6fd2c50ce4e86bea48a762ff29a58412091f1dfeb4f9812527ca
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:53ce7228a70a10d439a00aa99bef623f2d30d8efe5e25021d97392db002994ab

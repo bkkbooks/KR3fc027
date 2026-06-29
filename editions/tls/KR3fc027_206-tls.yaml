@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/206
+seq: 206
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四五得二十四七二十八三四一十二四八三十二一四如四假如今有銀一百二十三両四錢五分每銀五両換金一両問該金若干荅日二十四両六錢九分法日置總銀爲實以五両爲法歸之合問定位法只認銀両上前一位是金両數逆陞合得法歸實尾五分逢五進一十本位除去進一亍左四錢五四位作八变四爲八定位九分
+  hash: sha256:ffe7bb52585299878f1a1238ccc7aa582ba2c63fec597ffa16f9d9f72c472b21
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:bc45c9e5dc0899e799e1671b83d11247acc63ff4e1eed8fe2321bc64a0832eb9

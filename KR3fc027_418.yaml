@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/418
+seq: 418
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡量田地切不可以周圍步數算而計積其謬巳甚今舉方直二形校之其方田每靣三步計積九步其直田長四步濶二步計積八步論周圍俱各一十二步三者小數校之而差一步何况於大者乎解曰方者內中藏一步而無周直者外周多而無藏隱
+  hash: sha256:8aeae88b2fe54e67ca532eef8d7c71acffffad36150aa322e99ae0fce6cf6f53
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3e89ac27aa40e9a7212e4d4c095a2247ad54329853f67bd225ac8eba90c0b319

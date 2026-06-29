@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃鍾萬事根本圖黃鍾生度黃鍾生量黃鍾之管其長積秬黍黃鍾之管其長廣容秬中者九十粒一粒爲一黍中者一千二百粒爲分十分爲寸十寸爲尺一勺十勺爲合十合爲十尺爲丈十丈爲引升十升爲斗十斗爲斛黃鍾生衡黃鍾生律黃鍾所容千二百黍爲黃鍾之長九寸空圖九勺重十二銖両勺則廿分積一百一十分是爲四銖爲両十六両爲斤律本十一律由是而損三十斤爲釣四釣爲石益焉首篇終屬八相生圖釋具載卷末
+  hash: sha256:91b36a2b599ca17a6c97ac3e00fc461ba8390e23d89600d8d330b3a4ac109aff
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4042121dac061ffdc9777fb5e2bba8f12f3222cd0cf014bdc2e0bee0df4a6570

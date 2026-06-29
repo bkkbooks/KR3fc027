@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1446
+seq: 1446
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 少减多餘四爲法又以三人四人相乘得一十二爲實却以多十枚减剩二个餘八枚爲法乘得九十六又以前法四除之得二十四人另以盈一十乘二十四得二百四十人盈二乘二十得四十以少减多餘二百爲杏實以法四除之得杏五十枚合問歌今有粮長犒勞夫不分老幼唱名呼每人七箇少三箇五箇却少四十五荅曰二十一人錢一百五十文法日置兩不足七文少三个五文少四十五个兩不足相减餘四十二爲實兩分率七文五文相减餘二文爲法除實四十二得二十一人
+  hash: sha256:24baf483cf3572f52cd288f55ddb315359fc5747afbba6193a509775afd5697b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a2cf671a6dba1b8eac335d0713f228426d6cdd793b361a10067ddb944542f44c

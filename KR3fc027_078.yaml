@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賔渠程君小像贊顏古而臞資敏而厚髯也修修神號﨣﨣書檀八分算窮九九跡隱市衢心超林藪為率溪一代之偉人系出晉新安太守元談公後三十六峯主人吳宗儒謹題
+  hash: sha256:fac9f7e4872addff236d1dadb5887749defcffd87bf2d8dd895870e3326b1458
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fe4979374918b8b3bbe9d1990533cc7025fa23dd848af0e358b4041ac364e99a

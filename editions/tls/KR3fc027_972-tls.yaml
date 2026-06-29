@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/972
+seq: 972
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法日置上周自乗得三百二十四尺以下周自乗得五百七十六尺以上下二周相乗得四百三十二尺併三数共二千三百三十二尺以高一十二尺乗之得一萬五千九百八十四尺爲實以圓率三十六除之合問此如圓窖今有立錐高三十二尺下方二十四尺問積若干荅曰六千一百四十四尺法日置下方自乗得五百七十六尺以高乗之得一万八千四百三十二尺爲實以三歸之合問今有圓錐高三十二尺下周七十二尺問積若干荅曰四千六百零八尺法日置下周自乗得五千一百八十四尺再以高三十二尺乗之得一十
+  hash: sha256:e37ed8ffd973bad5e6be68b328468fa8c8f8b43815b804d67316128fd2fb56d0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b786c7ddeff3510544105aa241dcbcfc2fc22147b8be976ce2e1182a7e0cbe66

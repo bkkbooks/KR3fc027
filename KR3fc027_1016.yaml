@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1016
+seq: 1016
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上長以下濶乘之得一千四百四十五併之得二千四百零五又以下長減去上長餘五併入共得二千四百一十以高乘之得一萬四千四百六十爲實以六爲法除之卽得今有磚一堆長三丈高九尺入深四尺毎塊長一尺濶五寸厚二寸問共該若干荅曰一萬零八百塊法曰置長三丈爲實以毎塊二寸爲法歸之得一百五十塊另以高九丈以毎塊濶五寸歸之得一十八塊乘之得二千七百塊又以入深四尺乘之合問挑土計方歌每一方長濶各一丈高一尺開塘法同
+  hash: sha256:7c89edd5d27ef9dfbb9abf73ced73b7a00dd84e7f71610121b78c2d526dda1db
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3e3a373f7aa57f58b72452d8dc623766197bf637790f48f649a285f1f03c8b63

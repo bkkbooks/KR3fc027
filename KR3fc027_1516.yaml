@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1516
+seq: 1516
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰一十四両六錢法曰置米于左列爲三行以價四錢于右爲法因之四五得二四六二十四三四一十二此乃總呼之法後分三行用之法七四五得加前四作六錢四六二十四本行下位加四加前二作四両三四一十二本行下位加二合得一十還原用四歸歸法式假如前銀一十四両六錢糴米每石價四錢問該米若干
+  hash: sha256:cf152b3b0253bf73244ac549032bd37e6946f1c2b3763011a910333720502a30
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7bd0b0db6d531a1435c7b8dff94aff00f38caf6760fc50c29500bbbae0959109

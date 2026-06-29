@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1424
+seq: 1424
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲乙隔溝牧放二人暗裏叅詳甲云得乙九箇羊多你一倍之上乙説得甲九隻両家之数相當二邉閑坐惱心腸晝地筭了半晌荅曰甲六十三隻乙四十五隻解曰甲云借乙九隻共七十二乙借與甲九仍三十六故曰甲多乙一倍乙云借甲九隻共五十四甲仍五十四故云相當法日甲羊添乙羊九个多乙羊一倍者爲二十分却减借乙羊九个爲一分净一十九分另以乙羊添甲九个両家相當者爲十分内减借甲九个爲一分净得九分置甲一十九分以九乘之得一百七十一又以乙九分以九乘之得八十一相减餘九十折半得
+  hash: sha256:3f4b8e1ccaafc7740dbe61a9d865a0e46f92bed511ee8154de9c4b64e187dbb5
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6906a1d919340ad8447560b2dcd145705db2411c02fdab59284e6a6cbc2093c2

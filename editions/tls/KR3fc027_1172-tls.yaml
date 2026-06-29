@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1172
+seq: 1172
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 減勾股較九餘五十四折半爲勾股弦較九加股弦和八十一共十九半之爲弦股弦和八十一減股弦較九餘七十二半之爲股勾弦股十八加勾弦和七十二共九十半之爲弦勾弦和七十二減勾弦較十八餘五十四半之爲勾炫和較十八加弦和和一百令八共一百二十六半之爲和弦和和一百令八減弦和較十八餘九十半之爲弦弦較較三十六加弦較和五十四共九十半之爲炫弦較和五十四減弦較較三十六餘十八半之爲較蓌而通之神而明之存乎其人焉勾股求弦勾弦求股股弦求勾共歌勾股求弦各自乘乘來相併要分明
+  hash: sha256:99260d973ad909a141b144bdab60d9a96cade20e3f12efbb691f7414f07ff54b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0d4711fedcd9e8ce7434859037a7cac0cefb56a49d43e3f9a3b4b00d48499149

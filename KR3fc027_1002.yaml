@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1002
+seq: 1002
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰二日一百四十三分日之二十九法曰以日爲分母方爲分子以三母相乗先以五日乗七日得三十五日又以九日乗之得三百一十五日爲實以母互乘子法五日七日九日長女中女小女先以五日乗七日得三十五日又以七日乗九日得六十三日次以九日乗五日得四十五併之得一百四十三日爲法除實得二日不盡二十九以法命之堆垜歌缶瓶堆垜要推詳底脚先將濶减長餘数折來添半箇併入長內濶乘良再將濶搭一乘實以三除之数相當
+  hash: sha256:ccb41b0bd9cfa6a4b8b2bb0a6bc7a7a86cfbb7b7e822b24403a2e78e475d459b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:aedc27c1aaa97d5bacd4eb99e18f80f01056e07963ecade961e329ae5b42d3bb

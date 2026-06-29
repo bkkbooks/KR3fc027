@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/669
+seq: 669
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第二等三十六戸每戸一石四斗共五十石零四斗第三等四十二戸每戸九斗八升共四十一石斗六升第四等四十八戸每戸六斗八升六合共三十二石九斗二升八合法日置總粟爲實另置一等戸一千因得二萬二千第二等戸以七百因之得二萬五千二百第三等戸以四百九十乘之得二萬零五百八十第四等戸以三百四十三乘三得一萬六千四百六十四併四位共八萬四千二百四十四衰爲法除實得二石是第一等一戸所出数以七因是二等一戸数又七因是三等一戸数又七因是四等一戸数各以戸数乘之合問十分之七卽以七因以生各等詳後觧法
+  hash: sha256:2e1f0454845abbc6ec9e7157365ef9bfc7f12de115e587b6d93dce7ea610d84e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:deec1b0997e0023e9cab011d8fb6923c0641d965a5d063b2cf6611921b27b56c

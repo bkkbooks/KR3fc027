@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1222
+seq: 1222
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 海島題解魏劉徽註九章重立差著於勾股之下以闡世術夫度高測淺非勾股之法則無可知矣故以重表累矩旁求審察其窺望海島隔水望木是重表也其岸望穀淺山望津廣是累矩也以海島去表爲之篇首因以名之實九章之遺法也後至唐李淳風而積筭草宋楊輝釋名圖解以伸前賢之美本經題目廣遠難於引證學者今將孫子度影量竿題問於前引用詳解以驗海島之法亦循循誘入之意姑以一問其餘好學者自能觸類而考知矣
+  hash: sha256:a9c2aedce3aeabc19ceda04f66fb1bd6546dc3be5a7af8f17b5707951105c8c5
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8acf7999f4d59acc27e70405c16469b1a28486b6e49f82f2b0ac3ccbdc0a8097

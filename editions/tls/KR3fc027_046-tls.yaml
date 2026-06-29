@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 外八螾之遠皆可數計而淂非夫推本隸首之宗旨以逖遡易範餘諸祖顧唐二公畧意而成一代算學之宗者手異日者天子坐明堂考正律暦绖理方輿慱延天下绖緯通明之士大位氏持是編以徃當必首應詔令若漢唐都洛下閎諸人以布衣起家以闡明數法于天下距但為成學習九九
+  hash: sha256:442409fe5dda28f05058e07fa8096beccb07f8fbf6aab60d3d50be9dba63e712
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b18933a1b4620cf1d39acf5f9b6068fb3bec7dba095428f04a0ab189f1c1c8b5

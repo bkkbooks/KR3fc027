@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1286
+seq: 1286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除之得參四万三千五百斤以毎六斤歸之得七千二百五十斤以參價七錢七分乗之得參價五午五百八十二両五錢以减總銀五午八百两餘得脚銀合問歌二丈四長尺八濶四両半銀休打脫三丈六長尺六濶該銀多少要交割荅曰六両法曰用異乗同除法置今長三丈六尺濶一尺六寸相乗得五丈七尺六寸以乗賣銀四両五錢得二百五十九両二錢為實以原長二丈四尺濶一尺八寸相乗得四丈三尺二寸爲法除之合問
+  hash: sha256:26d13adbc3489c6fc26fa35e574415cd6ca3ea6cb5915bc0b2949cbdd812194a
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f0c5932447e42400c5088b50155977cf6abc1de2c90d22776d9a3abd23c0b2de

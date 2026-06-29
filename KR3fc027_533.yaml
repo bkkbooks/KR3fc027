@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/533
+seq: 533
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七退九八退八九退七十退六十一退五十二退四十三退三十四退二十五退一共十六成斤進一于斤位位嘗見算者遇斤下帶兩用法各不相同有將兩數化為一二五者又有將兩隔位疊數而除十六加斤者俱不合式難兼歸除甚非意也豫觀算盤梁之上二子為十梁之下五子共有十五兩論一斤該數十六而缺一兩故曰一退十五以成一斤之數此法極敏捷餘皆倣此但貨物用稱者不拘法實斤下有兩數切不可隔位
+  hash: sha256:7567e84a226237a1d47fba2bad85bf43aa4abd8b32007ab5a1e1186de3a4eb6f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:36523acd71ba1837b4a29ba3ac62113359135e6cda440c9b82f5f701443a8753

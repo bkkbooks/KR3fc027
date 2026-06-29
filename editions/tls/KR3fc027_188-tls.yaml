@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/188
+seq: 188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假如今有軍人一百三十四萬五千六百七十九名每名給米八斗問共該米若干荅日一百零七萬六千五百四十三石二斗法日置軍人爲實以每名給米八斗爲法因之合問法八斗因定位下位是斗也回向前逆陞合得二斗實尾九名起呼八九七十二变九爲七下位加二名法上是每名八斗遇名卽立下一位是斗也三石七十七八五十六变七爲五下位加六十四十六百六八四十八变六爲四下位加八百五百
+  hash: sha256:8b36e3e302b5aaa3489d6de7e0db447d6d020af706c09f005f05e20439ea8682
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:487a0196617e6181822489d557cb56d1ecd77f68e3a0d1e12352ec4cb4ff3e00

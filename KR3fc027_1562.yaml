@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1562
+seq: 1562
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黃鍾五音相生歌黃鐘九九起宮音尋此三分損一尋六九逢之生徵火三分益一屬商金商居八九還生羽羽木傳流六八侵復以三分而益一角音八八玅通神
+  hash: sha256:ac2d158873084db0955dafa8c80ef5b467d03c39c08781cf0e29b49e7927c436
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:bc95a215967778c36a687f99114fe930d71054e7b625bda8eb60d8fd6762ab9c

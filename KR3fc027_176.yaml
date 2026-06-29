@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/176
+seq: 176
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 逢六進二十三一三十一三一三十一逢三進一十三一三十一逢六進二十假如有人借去本銀二百五十八兩二錢每年加四還利問該利銀若干答日一百零三兩二錢八分法日置本銀為實以利四錢為法因之合問定位照前法四錢因實尾二錢起呼二四如八本位除去下位加八下位是錢也回向前逆升合得二錢八兩四八三十二變八為三下位加二兩法上是每兩加四遇兩即止下一位是錢也三兩
+  hash: sha256:7eaa6370213e1c7830b17876735209bce69a04824e490272c44eb789dd80ece7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5804a18b9a536d4f191f03e5b3228a9dc620094626aa50a08460a9e81a73b979

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1560
+seq: 1560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 連環圖三七三五五十卄四四三二九求積法曰併上一下七十二共七十七二二五九十二六六八三以七十二乘之得五千二百五十六一七一十四六十七六五折半得二千六百二十八爲实以九三六三八二三四九三十四四爲法除之得毎環八子爲一陣各二三九三三五二二二四五二七百九十二子多寡相資隣壁相兼以七十四五七十五六四十九陣化一十三陣此見運用之道也三六九十六五八九六三三四四十二一五一二八四六四一三一五四二十四七二五六八六五五十七六二十二五六七十八五六十一六一三二四二十九五三二六四八
+  hash: sha256:bac2d20841d8e16a11beee98a6f210a07034902e2bc733d0adf67c5e3b31c808
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:178c8ad5cfb1c05570982afcc59564d3479ddcacebb48891c3f5300b60dddbef

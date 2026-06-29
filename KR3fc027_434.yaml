@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/434
+seq: 434
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古法周圍三尺圓徑一尺假如圓徑三十二尺以周三因之得九十六尺而四尺矣嶶術周百尺徑三十一尺四尺密術周二十二尺徑七尺智術圓徑三十二尺周有百尺術日圓徑即方徑若求圓積四分之三不必立法惟以圓求方其法不一始録亍此蓋圓徑一則周不止于三所謂周三徑一者舉其大較耳方五斜七者此乃言其大略矣內方五尺外方七尺有奇方靣求弦法日以方面自乘依之為實以開平方法除之得七步七一故日斜七有奇以此自乘折半得積二十三步若以七步自乘折半得積二十四步半校之得積不全
+  hash: sha256:e21f56535cf968277fd52925e5d184cf867b9d48ba6de36c9dafea74963d7f9b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4230902c5d3f07fa7beee8303c64fd45bb4573f33fd6af42e7533ed49f684cd4

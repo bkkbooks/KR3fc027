@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1498
+seq: 1498
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五十斤又加一除七十五斤次于原二十斤前加三箇雙除三箇一十五斤得芝麻五石六斗合問二句字訣歌有除隔位進無除挨身進隔一位除也只用一原法而無倍折数但因乘從实尾位起除一隔一位而加原法数也但歸除從实前過一位起亦隔一位而除原法数也惟除实尽是数按金蟬脫殼併此二句字訣布筭繁疊只是小智之術蠢子頑兒之数若遇開方等法則不能施又不如乘除簡易此小智之術不學可也
+  hash: sha256:78eec38d135f30c3486ed15fb10199800da64cfa360e92200ce8c87d53efdd1e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:99a468c09fb441c95252e0d2bfb4455c0f009c9fdbd4c7ef8df2aa233ba07bd1

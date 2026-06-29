@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1192
+seq: 1192
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得弦一十五尺合問今有立木不知其高索不知其長埀索委地二尺引索去木八尺其索斜拄地適盡問木高索長各若干荅曰木高一丈五尺索長一丈七尺法曰置去木八尺爲勾自乘得六十四尺以委地二尺爲股較自乘得四尺以減六十四尺爲實以較二尺倍作四尺爲法除之得木高一丈五尺如股加較二尺得索長一丈七尺如弦合問若以弦較求弦法置去木八尺爲勾自乘得六十四尺爲實以
+  hash: sha256:0c13c8bb951669f46fd11bd2afa311d65ee9f353c7428494c9a5e34f7af8138e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:01a7cde9ade6e73fe34d531fbad4f69fc2e1580543f3536fe9ca26cdeaeb7f6e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/393
+seq: 393
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰二百四十步計稅一畝法曰置長三十步以濶十六步乘之得四百八十步折半得積二百四十步合問假如梯田上廣二十步下廣三十步中長四十五步問積若干答曰一千一百二十五步法曰置上下二廣併之得五十步折半得二十五步以中長四十五步乘之得積合問一法併二廣以乘長折半亦得假如斜田南廣三十步北廣四十二步縱六十四步問積若干
+  hash: sha256:e619f49bd6041680a1af1710e772edfc8efb6a569cbc06875868ea9381c20adc
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:00a151fbfeb0962c52c29500ac1f04c76b1f3fb5e454fca760340b9ed5204e2c

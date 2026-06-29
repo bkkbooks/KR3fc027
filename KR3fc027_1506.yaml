@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1506
+seq: 1506
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有銀九十四両五錢買絹七十疋問每疋價若干荅曰一両三錢五分法曰先画圖式置銀数于內爲實次將絹七十于石爲法歸之合問每一圖自中心起從下旋左而前至右而止逢七進一十本位去恰尽進一于前位四上增作五分七三四十二本位三增一作四下位五分上增二作七逢七進一十本位去七存三進一千前位二上增作三錢七二下加六本位不動下位四両上加六共十逢七進一十將本位九去七存二進一于前位定一両
+  hash: sha256:afe80803b6f33f7e19910baea18527c8d06ed2bb7b378bd5c5f537dfe6019e7d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8aa8eba6e63c5acf9d0594f54e0119671af5891734cd0b0d0fad640036fb5746

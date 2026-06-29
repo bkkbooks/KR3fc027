@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1328
+seq: 1328
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歌三百六十九斤絲出錢四客要分之原本皆是八折出莫教一客少些兒荅曰甲一百二十五斤乙一百斤丙八十斤丁六十四斤法曰各列置衰甲一千丙六百四十乙八百丁五百一十二副併得二千九百五十二爲法另以所分絲三百六十九斤乗未併各衰甲一千得三十六萬九千乙八百得二十九萬五千二百丙六百四十得二十三萬六千一百六十丁五百一十二得一十八萬八千九百二十八各自為實以法除實得各人絲合問
+  hash: sha256:af97d78aadad3197d1b46ca5195db0da90973f13ada3ce17dfbe41088801edac
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5ec17cb7d769502bd93c5549af9604be05a82847acce032370ff6af98038f505

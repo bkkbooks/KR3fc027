@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/994
+seq: 994
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 令慢行者先行八日問快行者幾日趕至追及之行路程各若干荅曰快行者三十日慢行者多八日路程二千八百五十里法日置慢行者日行七十五里以八日乘之得六百里爲實却以快行減慢行餘二十里爲法除之卽得今有慢行者巳去七日後令快行者趕去六日追至中途及之其路程巳一千一百七十里問緊慢各毎日行若干荅曰快者日行一百九十五里慢者日行九十里
+  hash: sha256:8f9442b221564e68c0df41338478fe43616c78f8e64981aafa354c3c020052f5
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d9d8b02f2bd5ee2ec6fec7b9493df0a12dcad85e61658690ffa57ceeb71a92b0

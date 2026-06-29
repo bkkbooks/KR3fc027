@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/321
+seq: 321
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰三十両法日置布四十五疋以分子之二因之得九十両爲實却以分母三爲法歸之合問解題曰三分兩之二卽每疋六錢六分六厘而不能尽故用約分之法也假如今有米三分石之二每斗價銀七分二厘問共該銀若干荅曰四錢八分法日置銀七分二厘以分子之二因之得一両四錢四分爲實却以分母三爲法歸之合問假如今有商夥論本分物俱得八分之七至銀百両問該若干荅曰八十七両五錢法日置銀一百両以子之七因之如故仍以分母八爲法
+  hash: sha256:31595e025cff5919251d5a41cf74e5ba48b86bf1915b35e030a2ba34efc04160
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a7825775eb8973502741beeb0e496eff3a33354293a2d57b8f305f01563fee60

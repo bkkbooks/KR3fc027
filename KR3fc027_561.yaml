@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/561
+seq: 561
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有菜子二百五十斤換八十八斤問百斤十斤一斤一兩各該油若干答曰百斤該油三十五斤三兩二錢十斤該油三斤八兩三錢二分一斤該油五兩六錢三分二厘一兩該油三錢五分二厘法曰置油八十八斤為實以菜子二百五十斤為法除之得數三五二為實聽從活變而用加六之法遇斤十百以上不可加但兩起以下加之合問今有胡換六百斤價銀七十五兩問銖分兩裏稱釣石引
+  hash: sha256:5af58b27b838ac8de00c212ec3378e39ec76378e38b83f7b48e8ee58caa8e5ab
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c746b620dc959b5ba2312178d5e5ab38d35eeff46a9c718e1ed1c28b7964d6e1

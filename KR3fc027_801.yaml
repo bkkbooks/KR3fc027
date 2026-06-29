@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/801
+seq: 801
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 演段解曰四因積者乃是四長四濶積居邉共三千四百五十六步却以相差一十二步自乘得一百四十四步補中得相和積三千六百步以開平方法除之得長濶相和六十步也今有直田積八百六十四步只云長濶相和六十步問長濶相差若干答曰長濶相差一十二步
+  hash: sha256:4ade91f4768ce0325024462de7a4a0c23feae792bf4616c3bc573ab92231ee48
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0d210373640d255fa31cc9f9d9a3fb8fdf124c692adb9784c5ee92c064cab440

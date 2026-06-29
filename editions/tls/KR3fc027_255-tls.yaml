@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/255
+seq: 255
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四十五二倍作四変二爲四四四除一十六本位去二下位加四十五十實首二百起五二倍作四変二爲四原实百起呼百往後合順数至分得四百還原用乘法四五得二十五五二十五四四一十六四五得二十假如今有銀二百六十五両三錢二分作十二人分之問每人該銀若干荅曰二十二両一錢一分法日置銀爲實以十二人爲法歸除之合問定位與前歸法同法酋二人除一十歸定位法少实多
+  hash: sha256:2c0a97af8a12762f6ea95674a975ce0f520d1ef374eb25cdd6d5089768d6ff00
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8da489cdf2f8932fdab4fd0035f706b147345407a716f737ec366ff0141b15dd

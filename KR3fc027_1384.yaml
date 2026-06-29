@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1384
+seq: 1384
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 截賣一百九十二欲從一邉截去積解題截積一邉如勾股之形也或用圭形樍截亦同荅曰截長八十歩濶四歩八分法日倍截積得三百八十四歩以乗長一百歩得三万八千四百歩爲實以大頭二十七歩减小頭一十五歩餘一十二歩折半得六歩爲法除之得六千四百歩以開平方法除之得截長八十歩以法六歩乘得四百八十歩却以原長一百歩除之得截濶合問歌
+  hash: sha256:0a5d075504037811274b6fdb715cef5e96b933667093f3a8e1da98ba8319e989
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:bb8a22bdff0b2ea4315e2c5cb0a8e855047d8309a72bbc2b9d9e4d602e8f5f9e

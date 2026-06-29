@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1260
+seq: 1260
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三般可以見端的只要賢家仔細推荅曰徑三步外周八十九步內周七十一步法曰通田一畆得二百四十步爲實另以二周相併一百六十步折牛得八十步爲法除之得徑三步以三步自乘得九步以減八十步餘七十一步爲內周以減總一百六十餘得外周八十九步和問鳳樓梧一段環田餘久慮衆説分明亦有誰人悟忘了二周併徑步人道二周不及爲零處七十有餘單二步三事通知荅日分明住五畆二分無零數玄機奧妙堪思慕解題內周不及外周七十二荅曰徑一十二步內週六十八步
+  hash: sha256:1d408efe22c77f064a7a8817b61336168da8d8ba21056538325207a76ffb15b0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9c81009aad37e323630cf9e0d4ab0a847f095bc228284f63342729394feffffc

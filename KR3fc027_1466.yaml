@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1466
+seq: 1466
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 硯正三爲法復遍乘右行中筆負三得九同减左行筆負六十三餘得筆負五十四爲法價正四百八十得正一千四百四十異加左行價負一千二百六十共得二千七百爲實以法除之得筆價五十文右行價正四百八十異加筆負三價一百五十共得六百三十以硯七除之得硯價九十文合問西江月七釧九釵成噐釧子分兩重多九兩四錢是相和仔細與公説過二物相交一隻秤之適等無那不能筭得是喽囖二人却來問我荅曰釧一隻重七錢釵一隻重五錢
+  hash: sha256:eab04021f7a2385350207f211357b4af92e3e6b940a975bbce837534424e226d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:54cf42a703adbacabe1109e8bbfdae9c6ea81896e6dbb56f8e237a725f479e3d

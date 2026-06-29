@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1500
+seq: 1500
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 冩算卽地錦歌冩筭鋪地錦爲奇不用筭盤数可知法實相呼小九数格行冩数莫差池記零十進於前位逐位数上亦如之照式画圖代乘法厘毫絲忽不須疑今有布二十三疋每疋價銀五錢六分五厘問該銀若干荅曰一十二両九錢九分五厘法曰先盡格眼置布三十二疋填于圖上橫冩爲實再將五錢六分五厘爲法于右圖外直冩法實相呼填冩格內先
+  hash: sha256:698ce74c5304f9c6e75630443ab0b78d0849e0f1eaa38c5bacc1f4551cbb10cc
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7102895ba98954b2ecf427315920c878a1fee9e911367b4db11ad4e6902be119

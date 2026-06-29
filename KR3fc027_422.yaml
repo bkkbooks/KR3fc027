@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/422
+seq: 422
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 云九步巳知圓三徑一得徑九步除方四步外徑一面豈有三步哉傑又增此意駐雲飛此類錢田題法難明不足觀非俺自誇羡改正珍寶鍳嗏二十七步圓眼中間十二方問攺法精制算圖樣明名天下傳答曰改正得四十四步七分五厘傑改正法日置錢周二十七步自乘得七百二十九步以圓法十二除之得六十步七分五厘為實另以錢眼方周十二加八得二十步與十二步相乘得二百四十步為實以方問法十六除之得
+  hash: sha256:4efa17703baba2b11865f617188e5f86ca0c58caebc1d9c6a94d1357f796a682
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1559852a84a2c83d03fa63d0ccbf959aa16def91fbbdff1ac9c57ba681b2a622

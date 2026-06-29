@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/442
+seq: 442
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方圓論說世之習算者咸以方五斜七圍三徑一為准殊不知方五則斜七有奇徑一則圍三有奇故古人立法有勾三股四弦五之論而不能使方斜為一定之法有割圓矢弦之論而不能使方圓為一定之法試以勾股法求之勾股各自乘併為弦實平方開之此施之於長直方則可若一整方勾五股五各自乘併得五十平方開之得七而又多一算矣割圓之法求矢求弦固是至于求弦背則恐未盡也何以知之試以平圓徑十寸者例之中心割開矢濶五寸自乘得二十五寸以徑除之的二十五分為半背弦差倍之
+  hash: sha256:07a4501281c5305005040ec7dafb8dc220a2da09d37172f59b5cf2d32bffcb9f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3b03a9b6d66ef42b7a5251b0f579e56f6e7990b168e560afc3d70e725a774b2e

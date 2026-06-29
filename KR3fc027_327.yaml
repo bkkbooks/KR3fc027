@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/327
+seq: 327
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一十八為法除之不尽之數一法實皆折半而命之差分衰分意同歌日差分之法併來分須要分數一分成將此一分為之實以乘各數自均平假如今有東西二鄰共織絲絹東鄰四斤六兩西鄰三斤二兩共絲七斤八兩織絹二十一丈八尺問各該若干答曰東鄰一十二丈七尺一寸六分七厘西鄰九丈零八寸三分三厘法日置總絹二十一丈八尺為實以共絲七斤八兩先將八兩變化為五就
+  hash: sha256:a9cf7c4e31bb5c46775ce1eb4a29c3206eaf8bb4cf79fe1584408d325d13544c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0cbe7b1e99d3ab1b339518f83242d454b9e4219ba83ff46b29cdc192acb77844

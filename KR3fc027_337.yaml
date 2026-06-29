@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/337
+seq: 337
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歸實二十起三二六十二變二作六右位加二歸得八月月二九除一十八十除實十起見一無除作九除得九假如今有趙錢孫李四人同商前後付出本銀趙一于癸亥年正月初九日付出本銀三十兩錢二于乙丑年四月十五日付出本銀五十兩孫三于丙寅年八月十八日付出本銀七十兩李四于丁卯年十月二十七日付出本銀九十兩四其本銀二百四十兩至戊辰年終共得利銀一百二十兩問各該利銀若干答曰趙一該利三十三兩八錢一分五厘五毫
+  hash: sha256:9b212a42f0faae29d2b23523902d8abea7cfd93961377ddee5c70d3672b095a0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:250a7dd4c221293deb9e97db85f090bd4c0093a733c04085c4dc9933f32994ba

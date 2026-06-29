@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/219
+seq: 219
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實首二百起九二下加二本位不動右位加二原實百起呼百往後順數至分合得二千還原用九因八九七十二四九三十六九九八十一二九一十八乘法留頭乘按因與乘一也單位者謂之因位數多者謂之乘特以此而異其名耳原有破頭乘掉尾乘隔位乘總不如留頭乘之妙故皆不録歌曰下乘之法此為真起手先將得二因
+  hash: sha256:414d8a5d4b2baec953e909425843f310134a2c92a92f18213a81fab1837761ca
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a372a48257d15f82f45b779e1d43c33d104559cd18d280c7dc2356f84e737e70

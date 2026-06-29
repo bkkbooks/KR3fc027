@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/753
+seq: 753
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下法亦置五于倍方之下共八十皆與次商五相呼左五對右八呼五八除實四百歩恰盡得濶三十五歩加多一十五歩爲長合問又法名减積開平方置田積爲實于中另置不及十五歩于右位爲减積上商三十于左位下法亦置三十于右爲方法以乘减積一十五歩得四百五十歩以减中實餘實一千三百歩却从初商三十與上商三十相呼三三减積九百餘實四百就以方法三十倍作六十爲廉法次商五歩于左三十之次下位亦置五歩以乘减積一十五歩得七十五歩以减中積仍餘實三百二十五歩却以
+  hash: sha256:08230e285036c80a92623b1921351d309e3b6b4753fb3bb695740b435dc4db58
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1e4237f6d64e7ac1ad50d7cd7ddde819e92572a7dd074b00067988c24bae1c2e

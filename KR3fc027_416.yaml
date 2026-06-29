@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/416
+seq: 416
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右量田地之法舉此數條巳見大意若截作幾假凑形以例其餘如蛇碗丘扇盆瓜鑿欹側者形狀極多難以一一盡述考究校之數無准積恐誤學者故盡删去不録今纂集直指圖形具之于前以為通變之術若平地而無礙者或作幾假定形立法只以勾股圭梭梯斜弧矢方直之類截而量之或併或减以求實積倘遇基地有房屋者難用此法必須取其方直或借别地以凑方直算積內减除還則形可窮而數可盡學者詳玩形勢理何異焉凡圖形內用點斷節以為繩索耕形定式之辨
+  hash: sha256:14905712d1c9a8f2f6ae55173204729c82179d247b5294ac6059c0cedc7b56ff
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:69eb19b46d46c00f979e2eb9b2dab4b88bdf99ed228e3e86e0bcf3df42735180

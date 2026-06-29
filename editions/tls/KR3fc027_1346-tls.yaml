@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1346
+seq: 1346
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金毬問積歌有箇金毬裏面空毬高尺二厚三分一寸自方十六両試問金毬多少金荅曰一百三十八斤一十両零二錢四分解曰金毬者形如立圓高尺二卽圓中之徑也厚三分者乃中徑之兩頭俱有故併共厚六分以减全徑尺二餘得內中空徑一尺一寸四分也用立圓之法自再乗畢又用九因十六除者何也其平圓居方內四分之三故用三因四歸得積今立圓而又多一再乗者故以三三如九因之平圓四歸而一今立圓亦再以四自乗得一十六
+  hash: sha256:4ffb9276dd9697f59867b116d32e0a4b6b60d9e85f1fbd06cf379e8309e38266
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:304dc2a4724e74dd308f0ea11be7009556d434ca563bb2723425b50d1370d23f

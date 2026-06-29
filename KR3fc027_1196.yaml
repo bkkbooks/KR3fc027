@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1196
+seq: 1196
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰門二扇廣九尺九寸法曰置去閾十寸爲勾自乘得一百寸以不合二寸折半得一寸爲股較自乘得一寸以減一百寸餘九十九寸爲實以較一寸倍作二寸爲法除之得一扇門廣四尺九寸五分如股倍之得二扇門廣九尺九寸合問今有墻高一丈斜倚二木於上木杪與墻頭齊其木根抵地卻將木一根平臥於地其木杪抵墻腳此木根則過斜木根一尺問木長併去墻若干
+  hash: sha256:4b11cd4a241c43f17ece2de633ef6198ea70a14328d2576efc8310fcaab68b72
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1b5de6e7f0a123eac394c5adc3dcda1da00eb354d85cb6ff5412de69176ddc63

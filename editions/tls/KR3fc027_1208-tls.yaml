@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1208
+seq: 1208
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置去地三尺如勾自乘得九尺另以竹高一丈如股弦和爲法除之得九寸以減股弦和一丈餘九尺一寸折半得四尺五寸五分卽是折處高股也今有股長三十六步只雲勾股相和七十二步問勾弦若干荅曰勾二十七步弦四十五步法曰置股三十六步自乘得一千二百九十六步另以勾弦和七十二步自乘得五千一百八十四步二位相減餘三千八百八十八步折半得一千九百四十四步爲實以勾弦七十二步爲法除之得勾二十七步以減勾弦和餘得弦四十五步合問
+  hash: sha256:54986178b1bad3c2b0c61319524686f583de4e0264c96ad927ac27b7fe10e655
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6bf73cc47615f98771075c810aaef9597305a33575f2f1ac08c21d3ac13e85da

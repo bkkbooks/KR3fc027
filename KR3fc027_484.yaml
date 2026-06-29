@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/484
+seq: 484
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 愚按前賢畝法率二百四十步為一畝萬曆九年遵詺淸丈敝邑總書擅變畝法田分四等上則一百九十步中則二百二十步下則二百六十步下下則三百步地亦四等上則二百步中則二百五十步下則三百五十步下下則五百步在城基地有等正之名一等正三十步二等正四十步三等正五十步四等正六十步與前賢二百四十步一畝大相繆戾借日土田有肥磽徵役有輕重亦冝就土田高下别米麥之多寡不得輕變畝法第總書開其弊實舉邑業巳遵行何容置喙姑記之此以見作聰明亂舊章之自云
+  hash: sha256:92cfd9adc8fd12e11d514f755ebd139f96f927ab9e64cf6024f91bfc82329bd2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4c22ef331cab4ab938b96a3bdd9323223ecaa16ed78e3715a88b22966fe4475b

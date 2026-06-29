@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/72
+seq: 72
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷之九均輪六章問荅二十七卷之十盈腑七章盈不足六問両盈両不足四問盈適足不足適足六問取錢買物歌三五問卷之十一方程八章二色歌二問三色歌五問四色歌二問
+  hash: sha256:a7acc59b1482030bc4fab78d4ee6d65adfc0f9a2cc2464b6dd4c060d54ee7821
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:35511301d493d1b068934513b2ba64ca10c0a56c5a72ac4623674350f8282bc9

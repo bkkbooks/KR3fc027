@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1326
+seq: 1326
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三千四百十両銀五箇爲商照本分原銀輪逓二八出休將八折易瞞人荅曰甲二千五百六十両乙六百四十両丙一百六十両丁四十両戊一十両解曰二八者乃是毎両多四故自戊起依次逓用四因爲衰併之爲法法曰各列置衰戊二丁八丙三十二乙一百二十八甲五百一十二副併得六百八十二衰爲法以所分銀三千四百一十両爲實以法除之得五十爲一衰以乗各衰得各人数合問
+  hash: sha256:4656f27a9ac94ef145af06f0a4acdc5061ab43baacaad44f61f9016c41800cf6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7e54a96337ea9b0705ffbcdef13f83318083d94d288d4c5c55e53da2b0293fda

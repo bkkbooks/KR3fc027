@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1452
+seq: 1452
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 酒率七乘之爲實另以倍酒率七加原酒率一共得八爲法除之亦得原吳氏用盈不足筭繁冗故不錄若要知三處飲盡者原酒一斗六升六合二勺五抄又倍之得三斗三升二合五勺除第一處飲酒一斗九升餘一斗四升二合五勺又倍之得二斗八升五合除第二處飲一斗九升餘九升五合倍之得一斗九升是第三處飲盡也歌昨日沽酒探親朋路遠迢還有四程行過一程添一倍却被安童盗六升行到親家門裹面半點全無在酒餅借問高明能筭者幾何原酒要分明
+  hash: sha256:e3dc4ad9a0d4752a70676aa7584c3ee1418a7b0c57ae4acd5d9333a35b39eba3
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:53f3e62eb263a665df4d234693fb0727ac50d51c8fda461b339aca2a60062de8

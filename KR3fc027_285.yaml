@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/285
+seq: 285
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 還原用减法即定身除丗一二减去二九去二存七一六减去六除六下還四一八减去八恰尽假如今有絹九丈公尺每尺價一錢三分五厘問共該銀若干答曰一十三兩二錢三分法曰置絹為實以每尺除價首一錢只以三分五厘為法加之定位只認尺本位定錢丈上定兩十丈定十兩合得法百五厘三分加定位
+  hash: sha256:4ed691b47d02ec55119c2c0929f54c724d9f146697ab111b0e5d4d1dc6b5813f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:811403ddb7f5b12b4d5ca38e30a9dfb21f3d4683e30d10fd70b271e92402e66f

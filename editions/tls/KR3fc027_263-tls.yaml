@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/263
+seq: 263
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是両也順下合得両還原用乘五八得四十二五得一十八九七十二二九一十八假如今有金二兩八錢三分五厘作四百零五人分之問每人該金若干荅曰七厘法日置金爲實以人数爲法除之合問定位法多實少先從原實首位起往逐位逆数陛上至呼遇法首位百則止向前一位得令是兩降下合得
+  hash: sha256:ba562f7dd103edc9ac13433ac58a3baa9cf425c231ac8522228498e21513c918
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f905b9e605f239560af8b9180f5d7a9cf441a17e9593b0156d45b1dfae1351f7

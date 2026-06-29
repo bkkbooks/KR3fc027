@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/315
+seq: 315
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰八分箇之七卽是八隻鴨生七箇子也法日列子母数更相减損置母七十二减去子六十三仍餘母九反將子六十三内减去六箇餘母九子亦餘九相同就以九爲法除原母七十二得八箇九又以法九除原子六十三得七箇故命之曰八分之七也乘分假如今有一百九十人支銀一両十九分両之一問該銀若干荅曰二百両法日置銀一両以分母十九通之加分子一共得二十又以
+  hash: sha256:64019ec534508ccd87a08f09d95227ded5f09f0c176a0e049e23a4eb5b16cc8a
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:01d7f230187232a541e8a71bb439a49c08d5756d2ebb720c4d0753977403059b

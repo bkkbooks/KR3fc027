@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/629
+seq: 629
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日又倍增織成絹六丈七尺五寸問各日織若干答曰初日織四尺五寸次日織九尺第三日織一丈八尺第四日織三丈六尺法日置絹為實列一二四八併得十五為法除實得初日織四尺五十倍之得次日數再倍得第三日數又倍得第四日數合問遞减挨次差分法日置所分物者挨次為衰各列置衰三位者一二三併得六四位者一二三四併得十五位者一二三四五併得十五六位者一二三四五六併得二十一各副併為法除實
+  hash: sha256:23e9ce4fe45bb2a716f4c118e9c7af085a8650341e79131bcb3528885b8b09f5
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:165bcd814ae551c7839b5472f2cbe87418518800761f10a8bf39eafb38ef7808

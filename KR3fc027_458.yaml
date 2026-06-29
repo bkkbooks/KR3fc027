@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/458
+seq: 458
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰六角積一百七十步角外餘積九十步法日置中長二十步减去半面濶五步餘長一十五步以通濶一十八步乘之得六角占積二百七十步另以角外餘長九步以餘濶五步折半得二步五分乘之得一角餘二十二步五分以四因之得四角餘積九十步併入六角占利二百七十步共合直田總積也假如方田一段面方十七步計積二百八十九步內容八
+  hash: sha256:153c8a799a4753f9c64f85189f3a55ac96520484cc44c6b852f4de5482c682ce
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:377a869630dd40ea7e90b597bf1a9c8a8e4aaddedb00b792d5f7dbe3b4778c75

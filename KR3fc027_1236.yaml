@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1236
+seq: 1236
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 表問尺數乘高數以作實情更不疑二表退行相減較減餘爲法以除之更將一表相加併海島巔高盡可知另置表問之尺數以乘前表退行宜前法除之知隔水水程遠近不差池假如隔水望木有竿不知高立二表各長一丈前後參直相去一十五尺從前表退行五尺人目四尺窺望表與竿齊平復從後表退行八尺窺望亦與竿齊平問竿高隔水各若千荅日竿高四尺隔水廣二丈五尺
+  hash: sha256:827d45dffd140d101bb20e5e2a850e0cf2132bd0e98a8e40d6ea16879f162db3
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5d979844bc1710f4ee74920c9a4c6aa176bdde2e58b7dcbd8fb0238478f78ae9

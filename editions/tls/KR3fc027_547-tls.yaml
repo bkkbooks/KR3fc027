@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/547
+seq: 547
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置斤以上不動只將四両化作二五併入斤共二百一十八斤二五爲實以價五錢二分爲法乘之合問今有銅絲四百六十八十両毎斤價銀二錢四分問諛銀若干荅曰一百一十二両四錢七分法曰置銅絲百斤不動只將十両化作六二五併斤得四百六十八斤六二五爲實以價二錢四分爲法乘之合問今有棗子七十八斤二両毎棗一斤換栗二斤四両問該栗若干荅曰諛栗一百七十五斤一十二両五錢
+  hash: sha256:dea0a263d5f423103efc6d910c365e2332ad2c54a5cf0a8eda51f4df8c50cbd9
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1b385400ec8f5166f44a22af368082e6ba260cf967ad82c90f5a1f599812e582

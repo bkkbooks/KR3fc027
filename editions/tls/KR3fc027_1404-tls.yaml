@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1404
+seq: 1404
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 紅桃一垜積難知共該六百八十枚三角垜來尖上一每面底子幾何爲荅曰底子一十五箇法日置果積六百八十以六因之得四千令八十个爲實以二爲縱方三爲縱廉以開立方法除之初商一十于左下法亦置一十于右自乘得一百爲隅法又以上商一十乘縱廉三得三十併方二隅一百共一百三十二皆與上商一十相呼除實一千三百二十餘實二千七百六十乃二乘縱廉三十得六十以三乘隅法一百得三百皆併入縱方二共三百六十二爲方法下法再置上商一十以三因得三十加入縱廉三共三十三爲廉法
+  hash: sha256:922cab26f0a8a2a2752b660a13b54771236fbe94b213025fc74ffd87b711bedc
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6edc776eec5bf5ab15ee48cc21a3366d81c2d7e63edfc5eabd2c78a798f3860e

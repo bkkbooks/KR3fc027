@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/313
+seq: 313
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亦餘七就以七為法除母二十一得三又以法七除子一十四得二合問假如今有絲二百五十二斤賣過一百四十四斤問約得若干答曰七分斤之四法日置母二百五十二减去子一百四十四餘母一百八反將原子一百四十四减去餘母一百八餘子三十六又將餘母一百八减去餘子二箇三十六餘母亦三十六為之更相减損就以母子同數為法以除原母原子各得分數假如今有鴨七十二隻生子六十三箇問約得若干
+  hash: sha256:671763f438651539e3766349f721e652a2968fe8b2000468050e4f77f26d2afe
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3fcc8414018da428907f109c4cc4dd2f73b13781650fb51a6753e712f3961fa7

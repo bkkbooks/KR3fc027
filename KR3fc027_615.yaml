@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/615
+seq: 615
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二八差分法日各以二為首用四因以求各衰首位二以四因得八衰又四因得三十二衰又四因得一百二十八衰又四因得五百一十二衰如位數多者各以四因以生各衰一法以首為二用二歸入因以求各衰不如四因捷徑二位者二八併得十三位者二八三十二三共併得四十二四位者二八三十二一百二十八四共併得一百七十五位者二八三十二一百二十八五百一十二五共併得六百八十二衰為法除實得一分衰數以乘各衰今有金三千兩令二等人戶二八納之問各該若干
+  hash: sha256:2477cad4f674485b330464d11adf6c766b0141e3e4a18ac716e968dcb5ee5979
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d5808218820fc12a115b3f753f22b31ac51e3c2849b3619621cd9d8e472b0da6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/990
+seq: 990
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 築堤之法最蹊蹺東高倍之加西高上下廣併乗折半西高另倍加東高上下廣併仍乗折一折数併共相交却用原長乗爲實五歸其實積無饒今築堤一所東頭上廣八尺下廣一十四尺高九尺西頭上廣二十尺下廣二十二尺高二十一尺東至西長九十六尺問積若干荅曰二萬八千八百尺法日以東高九尺倍之得一十八尺加西高二十一尺共三十九尺却以東頭上下廣併之共二十二尺乗之得八百五十八尺折半得四百二十
+  hash: sha256:fe17400884f7478febd82291138be60ad6d25a7a8bc5e1109ed8a1c3b9b48eda
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6427bf5f9ae0061849e9eb57905d5c0a2a0fc87ac177cc9797ac8ed8192538f9

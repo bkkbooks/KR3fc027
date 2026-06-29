@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1056
+seq: 1056
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有車一輪輪高六尺推行二十里問輪轉若干荅曰輪轉二千次法曰置二十里以里率一千八百尺乘之得三萬六千尺爲實另以輪高六尺三因得周一十八尺爲法除之合問今有人車不知其数凡三人共車二車空二人共車九人步行問人車各若干荅曰一十五車三十九人法曰置二人以三人乘之得六加九人得車一十五又以二人乘車十五得三十加九人得人数今齋僧不知人数初日毎五人米八斗次日毎九人米七
+  hash: sha256:abf14112a350e4a37b47bae1b1860c10c72057564c231f6cfed221f5c03c19a5
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:bd829f91b1ce22afe6baa6a8bd2f38550cad3b27deb27220fb6280b607440414

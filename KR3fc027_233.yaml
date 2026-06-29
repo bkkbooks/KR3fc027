@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/233
+seq: 233
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法酋四錢乘五厘起三五一十五本位上一定位右位加五三分三四一十二有位上一右位加二下位是錢也向前逆陛合得實尾五石四五得二變五為二三三如九一位加九九進一還一十石法酋是每石三錢遇石即止下一位得術是也九兩四四一十六本位存一右位加六十三十實首三百三四一十二本位存一右位加二原實百起呼百往後合順數至石得二百還原用歸除法詳後四一二十二逢四進一十三三如除九四一二十二逢八進二十三四除一十二
+  hash: sha256:b214dc45a2e82230e0261549f9130bad897f01875344510e6abdd3b2dd33bf85
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9062840ad02f7914545e2cc2feb733b0805bc2dce4f9447df74d811b2eef7763

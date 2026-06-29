@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/407
+seq: 407
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假如四不等田一坵截作三段量之一段直田長四十歩濶二十八歩南邉勾股一段股長三十二歩勾濶十歩東邉勾股一段股長四十歩勾濶四歩問共積若干荅曰三共積一千三百六十歩法日先置直田長四十歩以濶二十八歩乗之得直積一千一百二十歩又置南勾股一段股三十二歩以勾十歩乗之折半得積一百六十歩再置東勾股一段股四十歩以勾濶四歩乗之折半得積八十歩三共併積一千三百六十歩此乃准数毫忽無差
+  hash: sha256:92ffe8a5537d4c545df5b06bb7d38518a22c472a208453cc76b3ef0f4c3e25e3
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:621750f0dd62ee7a69b544abd40bb223a5bc97ade86407cfd0d281140f55a7fa

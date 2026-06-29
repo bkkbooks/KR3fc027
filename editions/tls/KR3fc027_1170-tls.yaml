@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1170
+seq: 1170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弦和和一百令八除之得十八爲弦和較弦和較除前實得弦和和勾二十七加股弦較九共三十六卽弦較較勾二十七減股弦較九餘十八卽弦和較勾加弦較和五十四共八十一卽股弦和股三十六加勾弦較十八共五十四卽弦較和股三十六減勾股較十八卽弦和較股加弦較較三十六共七十二卽勾弦和勾股較九加股弦較九共十八卽勾弦較勾股較九減股弦和八十一餘七十一卽勾弦和勾股和六十三加股弦較九共七十二爲勾弦和股弦和八十一減勾股和六十三餘十八卽勾弦較勾股較九加勾股和六十三共七十二半之爲股勾股和六十三
+  hash: sha256:eaa6844fd29d93fe3b07b620b43e9b7759ba52d1881cd2da816243efc66bf8fd
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4f15b6274675fc7a6de9a01fc8f53462a5a19e4c6bb787bcea38a0df69a380af

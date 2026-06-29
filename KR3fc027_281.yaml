@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/281
+seq: 281
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加法凡加法首位有一數者用此置所有物為實以所求價為法加之然加法不用首位一數只以次位餘數加之言十就身加十言如次位加如亦從末位算起用减法還原歌日加法仍從下位先如因位數或多焉十歸本位零居次一外添如法更立假如今有珍珠二百六十八顆價銀一兩一錢問該銀若干
+  hash: sha256:1d86431ca7ba5ceffe4583b57944e7f4a44db44f0abed1c7a9aa0df2c98d2abb
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a2cb4946b2157067eb9d936e6e793c10c426d2cf74fcb05d50d9e5ba718d4ea3

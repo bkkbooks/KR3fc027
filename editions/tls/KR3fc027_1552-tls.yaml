@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1552
+seq: 1552
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十一子作二十五子用聚五圖五圈各皆得積六十五数六子回廻環聚六圖各積一百一十一数
+  hash: sha256:d9bbdfa2c07be009bb87f5ddad975cbaad67d58f7f63edf0878c9888fff1a208
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6fbc4ef3b9f2f71ad8efdfc38ba7fc13e3db96bb54e486feaee72bc855f7a198

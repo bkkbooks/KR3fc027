@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/444
+seq: 444
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得五寸以加弦得一十五寸與圍三徑一直論正合然徑一則圍三有奇奇數則不能盡矣以是知弧背之說猶未盡也不特是也凡平圓一十二立圓三十六皆不過取其大較耳或曰密率徑七則圍二十二徽率徑五十則圍一百五十七何不取二術酌之以立一定之法曰二術以圓為方以方為圓非不可但其還原與原數不合數多則散漫難收故算曆者止用徑一圍三亦勢之不得巳也曰曆家以徑一圍三立法則其數似猶未精然郭守敬之曆至今行之無弊何也曰曆家以萬分為度秒以下背不録緃有小差不出于一度之中況所謂黃赤道弧皆度乃測驗
+  hash: sha256:0ab78eda5f31e670af7168c8cda5e9d8b93618b32f9885de5179a8caeba9ced4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1e95602f5599d54f0783f59d5767c3516b5d6664b3bbcaad23cca05bb2105f46

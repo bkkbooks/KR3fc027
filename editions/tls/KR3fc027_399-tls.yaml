@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/399
+seq: 399
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歩正長八十六歩問積若干荅曰二千四百九十四歩法日併南北二廣折半得四十歩加中廣共五十八歩以長乗得四千九百八十八歩折半得積合問一法倍中廣併能北二廣共一百一十六歩以四歸之得二十九歩以長乘之亦得按三共田乃是二段梯田之併必共三廣相去俱停乃可以三廣法筭或上段長下段短或上段短下段長並不可用三廣法当以二梯筭而併之乃为無弊又按鼔田杖鼔田又有箭箬箭翎田亦要三廣相去俱停可用三廣法若不停者亦只以三梯或二斜筭而併之是也
+  hash: sha256:5e09d2a12a634536a689356c0755fb59faf15029d1ff10edfae173d2394bafcd
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fab6b0b757040c4965aff2d950536e3dc20786383d206342df82d33cd4de2996

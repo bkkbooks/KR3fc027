@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 康熙丙申年重鐫新安程賓渠先生編集海陽率濱維新堂藏板
+  hash: sha256:223d477147ed4967b50ecffac8e4da4cf47e769370a9e1698d25296be6d00d1e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8602226a7b662da25f151a4ba306a9d40a5f7aeef8ebed0d2a7c876461378e75

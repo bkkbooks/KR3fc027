@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/249
+seq: 249
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 筭學雖深可畫知云筭者用心習學可以畫識者矣撞歸法一歸見一無除作九一二歸見二無除作九二三歸見三無除作九三四歸見四無除作九四五歸見五無除作九五六歸見六無除作九六七歸見七無除作九七八歸見八無除作九八九歸見九無除作九九巳有歸而無除用起一還原法卽是起一還將原数施一歸起一下還一本位起一下位還一二歸起一下還二本位起一下位還二三歸起一下還三本位起一下位還三四歸起一下還四本位起一下位還四
+  hash: sha256:e09a4ed65dc0b0de96840a448944e6d07648f7c06c53a720b1071218f5bb7d01
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b5ac4da6067689682758e5e6979f6f41fa5cd769adce8ce148cf9d93ab7ba3c8

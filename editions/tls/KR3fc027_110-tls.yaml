@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/110
+seq: 110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 當以初行爲右次行爲左以理而推之法當從右實當在左此乃不易之位也九九八十一便蒙通用一遍一上一二上二三上三四上四五下五六上六七上七八上八九上九二遍一上一二上二三下五除二四下五除一五起五還一十六上一起五還一十七上二起五還一十八退二還一十九退一還一十
+  hash: sha256:fba60c61a01ca64c72e05c717df13d7ca9f42085100ba540d111ad2e5e30d435
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f2d2c8bfcd7e0997e81c2b75a04d28abef0213b3612121c84ceae60d14b696ae

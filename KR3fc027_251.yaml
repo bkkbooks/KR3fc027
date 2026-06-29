@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/251
+seq: 251
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五歸起一下還五本位起一下位還五六歸起一下還六本位起一下位還六七歸起一下還七本位起一下位還七八歸起一下還八本位起一下位還八九歸起一下還九本位起一下位還九撞歸者有歸而無除之謂也豫以法實盈虧進退之理推之盈則有歸照法首之數進於上位成十虧則無除起一退於下位照法首之數還原先哲有云見一無除作九一之類此正謂有歸無除之祕法知此可與論制算纂法之深奧矣假如今有銀二百四十三兩糴米每斗價銀五分四厘問共該米若干
+  hash: sha256:e27fa299d35fbc616754a380b92809330c447393f2187de261a4266a9e9f6b5f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ed7c1861e3dc3e8c3ab729b6e7e7a1fcb31905bcc75ddfec9d98c6170905dc07

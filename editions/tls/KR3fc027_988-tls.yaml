@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/988
+seq: 988
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰二十四尺法日置原下周七十二尺内减今用上周一十八尺餘五十四尺以原高三十二尺乗之得一千七百二十八尺爲實以原下周七十二尺爲法除之得今高二十四尺合問原有圓錐下周七十二尺高三十二尺今改作圓臺已築高二十四尺問今上周若干荅曰一十八尺法日置原高三十二尺减今高二十四尺餘八尺以乗原下周七十二尺得五百七十六尺以原高爲法除之合問築堤歌
+  hash: sha256:7c9d5099775f183a3f23faf9adbe2099542ae9c033cf14be146b92a19b744713
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e8d4786e1a83132a7a6929b3d2fffea887de8c819b8004737af1b4ebc6973074

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1580
+seq: 1580
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吕仲吕属陰律長六寸一萬九千六百八十三分寸之一萬二千九百七十四却以分母通六寸加分子共得一十三萬一千零七十二寸以空圍九分因之得一千一百七十九萬六千四百八十分以分母一萬九千六百八十三爲法除之得積五百九十九分一萬九千六百八十三分分之六千三百六十三其候小満綂紀曆年度分地里今有一元綂十二會一會綂三十運一運綂十二世一世積三十年問一元該年若干荅曰一十二萬九千六百年法曰置十二會以乘三十運得三百六十又以十二世乘之得四千三百
+  hash: sha256:fe24602415c2e591ea9207b46d0dca831de8ddaab11e8f482ff725bdd6d927af
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:53b74ed3053c129311c2deaafcf0ad0879cb7a0042994749d350780062919e2a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/537
+seq: 537
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用十六乘法亦同定位只認原斤位得十両依次求之卽得今列布筭于後半起先呼五六加三不動本身加三爲八両二斤次呼二六加一十二本身加一更于下位加二両一十又次呼一六如加六不動本身只于下位加六今有銀四百三十二両問該斤若干荅曰二十七斤法曰此是両求斤置銀四百三十二両爲實以截両法通之定位只認十両上得斤依次陞上卽得二両起先呼二一二五変本二爲一更于下位加二又下位加五
+  hash: sha256:6c81d00369d6acffbe3e2f54137cc22786333dc94bfa99f3e4f6aa9b5f9ab7d1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1fd4f44ccf6e148a9a06b61e45c0d7028c54b2debe64b85fab809714cc38ce9f

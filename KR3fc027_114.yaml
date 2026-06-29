@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/114
+seq: 114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五下五六上一起五還一十七上七八退二還一十九退一還一十六遍一上一二上二三退七還一十四下五除一五起五還一十六上六七退三還一十八退二還一十九上四起五還一十七遍一上一二下五除三三上三四退六還一十五下五六退四還一十七上二起五還一十八退二還一十九退一還一十
+  hash: sha256:7e8d83d328cc3598446e24d05fe1fc814459c13d9ac5d13f56f785ce221c211c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:50bef15cc2d3680dec4b1528946dbc0a24cd19565f0e15b0d0ea3deec9494a8f

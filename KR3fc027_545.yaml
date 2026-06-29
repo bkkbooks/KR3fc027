@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/545
+seq: 545
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰此是斤問兩價置蠟五百三十五斤用加六法得數併人零七兩共八千五百六十七兩為實以價八厘九毫為法乘之合問今有大青四百三十二斤一兩每斤價銀二兩問諛銀若干答曰八百六十四兩一錢二分五厘法曰此是斤下帶兩求斤價巳後同置青四百三十二斤不動以斤下一兩用截兩歌遍之將一兩退位作六二五併得四百三十二斤六二五為實以斤價為法乘之合問今有杏仁二百一十八斤四兩每斤價五錢二分問該銀若干答曰一百一十三兩四錢九分
+  hash: sha256:93baa598372e6beece117758bff2e67722c10c637bc61a62f0dc94b0e6320878
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:116ec2e3562ea09551118edb9fb0919131284557bb65707f737fb965b50af394

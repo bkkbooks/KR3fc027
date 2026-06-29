@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 近因翻刻圖像字義訛舛致誤後學本宅特出家藏善本逐一較戡識者辨之龔顯寫
+  hash: sha256:22806c1265513253aaf35700ebf8072f54212231d163c100680c994e86f08497
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d27827cb2577ca70e0d2742411efd01dd0b2b6697e2167799c9d38109b243436

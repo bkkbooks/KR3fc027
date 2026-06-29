@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1098
+seq: 1098
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲物實以前除法除得物数却以右下盈若干左下不足若干二数相併爲人率先以前通法乘之爲人實後仍以前除法除之得人数雙套兩盈法先用前雙套法次以右中得数乘左下左中得数乘右下二数相减餘爲物實以前除法除得物数却以右下盈若干右下不足若干二数相减餘爲人率先以前通法乘之爲人實後仍以前除法除得人数兩不足同雙套盈適足法先用前双套法次以右中得数乘左下盈数就爲物實以前除法除之得物数却以左下盈若干就爲人率先以前通法乘爲人實後仍以前除法除之得人数不足
+  hash: sha256:07f12e4185039dd1720bca608b8b94b14d4af449b12017073425d9c7382c3fa4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:43c519570790bcdb574bee29d0d3e53a4f7ffccc0c3b0d19d7b5fa78ae1c6695

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/968
+seq: 968
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 原高乘併積為實六歸實數積如常今有築直臺一所上廣八尺長二丈下廣一丈八尺長三丈高一丈八尺問積若干答曰六千尺法日倍上長得四十尺加下長共七十尺以上廣八尺乘之得五百六十尺另倍下長得六十尺加上長二十尺共八十尺以下廣一十八尺乘之得一千四百四十尺併二數共二千尺以高一十八尺乘之得三万六千尺以六歸之合問今有築方臺上方六尺下方八尺高一十二尺問積若干答曰五千九百二十尺
+  hash: sha256:0407e38158dbed7398dad174d2d37ab823d2e43d880526a03514efd077c27b65
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:657146c6ad61f6014bce19f668606d8c18aba876845605f145f882dc68b68c8e

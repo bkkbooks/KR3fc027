@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1380
+seq: 1380
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西江月今有圓田一所不知頃畆端的直河一道正中穿圓分弧矢両段通田七十四歩二十四歩河寬除河見在幾多田水占如何得見荅曰見在田九畆八分九厘五毫八水占田七畆二分一厘六毫六法曰先置通徑七十四歩自乘得五千四百七十六歩以三因四歸得四千一百零七歩爲全圓總積再置通徑七十四歩减去河寬二十四歩餘五十歩折半爲二个弧矢
+  hash: sha256:3c4e3d7b8c18b791eae8b44b294a81d14ff381db04136774bf637658dbef8ad7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:72400d3f4cf69e255af11e7e773f7f9d2e9a58e4c9d639bba7e47b130a692260

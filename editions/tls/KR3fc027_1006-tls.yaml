@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1006
+seq: 1006
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有物靠壁一面尖堆底脚濶一十八箇積若干荅曰一百七十一箇法曰置濶一十八箇爲實另以一十八箇加頂一箇共一十九箇爲法乗之得三百四十二箇折半卽得今有物一靣平堆底脚濶七箇上濶三箇問積若干荅曰二十五箇法曰置底脚七箇减去上濶三箇餘四箇加一箇共五箇爲法乃是五層也另併上下濶共得十箇爲實以法五乗之得五十箇折半得二十五箇合問圖式具左
+  hash: sha256:d370e38f42d667e163d6978b6860b12a047204511dbe19b173fe9dfe9a53bb91
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f8ce2c9ad5cb8179f6168d727adc9d1a817567ccafd6fb885ce758102bb38bae

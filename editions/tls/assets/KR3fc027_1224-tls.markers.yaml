@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/markers/1224
+seq: 1224
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc027_tls_001-p312.s12}
+  - {type: line-break, offset: 0, content: '', id: KX_12_dup293, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 22, content: '', id: KR3fc027_tls_001-p312.s13}
+  - {type: line-break, offset: 22, content: '', id: KX_13_dup296, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR3fc027_tls_001-p312.s14}
+  - {type: line-break, offset: 37, content: '', id: KX_14_dup291, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR3fc027_tls_001-p312.s15.1}
+  - {type: line-break, offset: 43, content: '', id: KX_15_dup289, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg-start', offset: 50, content: '', id: KR3fc027_tls_001-p312.s15.2, seg_type: comm, member_ids: [KR3fc027_tls_001-p312.s15.2]}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR3fc027_tls_001-p312.s15.2}
+  - {type: line-break, offset: 51, content: '', id: KR3fc027_tls_1224-bkklb1}
+  - {type: 'tls:seg-end', offset: 52, content: '', id: KR3fc027_tls_001-p312.s15.2_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 52, content: '', id: KR3fc027_tls_001-p312.s15.3}
+  - {type: 'tls:seg-start', offset: 58, content: '', id: KR3fc027_tls_001-p312.s15.4, seg_type: comm, member_ids: [KR3fc027_tls_001-p312.s15.4]}
+  - {type: 'tls:seg', offset: 58, content: '', id: KR3fc027_tls_001-p312.s15.4}
+  - {type: line-break, offset: 61, content: '', id: KR3fc027_tls_1224-bkklb2}
+  - {type: 'tls:seg-end', offset: 64, content: '', id: KR3fc027_tls_001-p312.s15.4_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR3fc027_tls_001-p312.s15.5}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR3fc027_tls_001-p312.s16}
+  - {type: line-break, offset: 68, content: '', id: KX_16_dup288, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 70, content: '', id: KR3fc027_tls_001-p312.s17}
+  - {type: line-break, offset: 70, content: '', id: KX_17_dup285, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 92, content: '', id: KR3fc027_tls_001-p312.s18}
+  - {type: line-break, offset: 92, content: '', id: KX_18_dup277, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR3fc027_tls_001-p312.s19}
+  - {type: line-break, offset: 101, content: '', id: KX_19_dup277, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 107, content: '', id: KR3fc027_tls_001-p312.s20.1}
+  - {type: line-break, offset: 107, content: '', id: KX_20_dup275, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg-start', offset: 113, content: '', id: KR3fc027_tls_001-p312.s20.2, seg_type: comm, member_ids: [KR3fc027_tls_001-p312.s20.2]}
+  - {type: 'tls:seg', offset: 113, content: '', id: KR3fc027_tls_001-p312.s20.2}
+  - {type: line-break, offset: 114, content: '', id: KR3fc027_tls_1224-bkklb3}
+  - {type: 'tls:seg-end', offset: 115, content: '', id: KR3fc027_tls_001-p312.s20.2_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR3fc027_tls_001-p312.s20.3}
+  - {type: 'tls:seg-start', offset: 120, content: '', id: KR3fc027_tls_001-p312.s20.4, seg_type: comm, member_ids: [KR3fc027_tls_001-p312.s20.4]}
+  - {type: 'tls:seg', offset: 120, content: '', id: KR3fc027_tls_001-p312.s20.4}
+  - {type: line-break, offset: 121, content: '', id: KR3fc027_tls_1224-bkklb4}
+  - {type: 'tls:seg-end', offset: 122, content: '', id: KR3fc027_tls_001-p312.s20.4_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR3fc027_tls_001-p312.s20.5}
+  - {type: 'tls:seg', offset: 128, content: '', id: KR3fc027_tls_001-p312.s21}
+  - {type: line-break, offset: 128, content: '', id: KX_21_dup273, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:a5239d70f2008eae7939e41109d9d92541019f78b66ebfa2ebd82ed2a66c6300

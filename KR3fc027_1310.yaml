@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1310
+seq: 1310
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八子分綿歌九百九十六斤綿贈分八子做盤緾次第毎人多十七要將第八数來言務要分明依次第孝和休惹外人傳荅曰長子一百八十四斤次子一百六十七斤三子一百五十斤四子一百三十三斤五子一百一十六斤六子九十九斤七子八十二斤八子六十五斤法曰置七衰一二三四五六七併得二十八衰爲實以多十七乗之得四百七十六以数總綿数餘五百二十以八子除之得六十五斤爲第八子
+  hash: sha256:f9742bfc5ff5422ffcd3c08b4b6c3e446f1238aca4c2f0224d595770eedc3a0e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:19e78937efd7b3a0c0599f11c78d976c6b8ea0b32d9ec4d7f98fcebcc09f8dbf

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/841
+seq: 841
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰八寸九分三厘有奇雞盡法曰置銀一萬両爲實以銀率每寸一十四両爲法除之得七百一十四寸二分八厘又爲實以開立方法除之初商八寸于左亦置八寸于又爲下法自乘得六十四寸再乘得五百一十二寸除實訖餘實二百令二寸二分八厘却以三乘下法八寸得二十四寸爲方法次商九分于初商八寸之亦置九分于右初商八寸之次共八寸九分就以九分遍乘得八寸令一爲廉法再以方法二十四寸乘廉法得一百九十二寸二分四厘除實訖餘實十寸令令四厘却以次商九分自乘再乘得七寸二分九厘除實訖餘實不盡二分七厘五毫
+  hash: sha256:0da4e2f8d7321533a777b5ef042662ba1b7919009368f7769f9ef5606609fad0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2713d9339876debd01e15bab1fe5f1bd2d8d95fea4629fcfcfaab8f09520f32b

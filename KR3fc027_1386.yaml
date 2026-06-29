@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1386
+seq: 1386
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弧矢一畆積一叚更加九十七歩半矢不及弦十五歩弦矢各長怎的筭荅曰弦三十歩矢一十五歩法日通田一畆得二百四十歩加零九十七歩半共得三百三十七歩半以四因三歸得四百五十歩爲实以不及一十五歩爲縱方于右上商十歩下法亦置十歩加于縱方一十五之上共二十五皆與上商一十歩除實二百五十歩餘實二百歩另以下法初商一十倍之得二十次商五歩于左下法亦置五歩加于縱方一十五之上併倍初商共得四十歩皆與上商五除實盡得矢一十五歩加不及十五共三十歩爲弦合問
+  hash: sha256:140b09a2e2710bf6e5c6f4bf5ec9eeae0cb2a6294400b1b16fefb2a0e1a9f8a1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:aff2d5ad7e4a2060840276ec848a0589a26e3c89c3f8f204e631f8b1728bb255

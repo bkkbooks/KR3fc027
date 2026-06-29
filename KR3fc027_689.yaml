@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/689
+seq: 689
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 絹四十五匹該銀一十三兩五錢法日此四色差分先置一百六十匹以四除得四十匹就定中物羅紗二色及價却于一百六十匹內减羅紗共八十匹餘八十匹又干共價九十三兩內减去羅價二十八兩紗價二十兩餘四十五兩以貴賤差分算之置餘八十匹以綾價九錢乘之得七十二兩减去四十五兩餘二十七兩為實以綾價九錢减絹價三錢餘六錢為法除之得四十五匹為絹數却于八十匹內减絹四十五匹餘三十五匹為綾各以原價乘之合問訣三色四色差分之法俱先定中等惟留首尾二色以貴賤差分法算之不拘五六七八九色者倣此
+  hash: sha256:7ff11eda6f072a7d37b78d99aed55491261426a0324aaedad24207fbbb234565
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ff71c8f15427453e3879bd19b39a721287b846d6d8ea8afbf7a19459accab602

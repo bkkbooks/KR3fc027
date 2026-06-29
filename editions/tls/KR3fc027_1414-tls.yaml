@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1414
+seq: 1414
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推車問里歌二人推車恾且苦半徑輪該尺九五一日推轉二萬遭問君里数如何数荅曰一百三十里法曰置半徑輪一尺九寸五分倍之得三尺九寸爲全徑之数以周三因之得一百一十七寸爲一轉之数却以二萬遭乘之得二百三十四萬寸爲實另以每里三百六十歩每歩五尺計五十寸乘之得一萬八千寸爲法除之合問遅疾求平西江月甲乙同時起歩其中甲快乙遅甲行百歩且交立乙纔六
+  hash: sha256:7763b0f0a41ecc3140a097ae82476ed641f0319b525b2fd11353d4e30f1c86db
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:adbfcc6b36372480f68addbe0eabbd5cb7cf605ae064cbce14bfef3cfa31fa5c

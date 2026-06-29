@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/755
+seq: 755
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下位廉法六十併入次商五歩共六十五歩皆與上商五歩呼五六除實三百五五除二十五歩得廣三十五歩合問若問縱照前布列上商五十以乘不及五十得七百五十歩併加前積共二千五百歩却呼五五除實二千五百歩盡得縱合問今有圭田積一百二十六歩濶不及長九歩問長濶各若干荅曰長二十一歩濶一十二歩法日倍田積得二百五十二歩爲實以不及九歩爲縱方于右上商十歩下法亦置十歩于縱九歩上共一十九歩與上商十歩除實一百九十歩餘六十二歩另以下法初商十一倍之作二十次商二歩于左下法亦置二歩加于縱方九上共三十一歩皆與
+  hash: sha256:5c4d7238a1bd37f791ab5a0bbf63dd648ab04ef6f205b243e065f7f3b8a155ae
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2f9d5b62ad2f98cdbf64d46b9ac471db5e9337f0362e3dd4aea3ae83f06df182

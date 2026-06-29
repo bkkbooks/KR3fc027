@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/333
+seq: 333
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法日置利銀七十兩為實另置甲本七十兩以十二箇月通之得八十四兩又置乙本八十兩以九箇月通之得七十二兩再置丙本九十兩以六箇月通之得五十四兩三共併得二百一十兩為法除實得三錢三分三厘三毫三絲此乃是每年每兩之利也就以此又為法以乘甲通八十四兩得利二十八兩又乘乙通七十二兩得利二十四兩再乘丙通五十四兩得利一十八兩合問此是差分乘而相併除而又乘之法也假如今有人借去銀二百六十兩每年加三起息今有十箇月二十四日間該利銀若干答曰七十兩零二錢
+  hash: sha256:926c38a9b3663b484f133dbce8b0c83a80b517fc411c01b0ed9da60dc5e7e313
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:76bd418f0f1b2b67b42772e417a2c33b791fdb2a03c415474d713da6e6bd5367

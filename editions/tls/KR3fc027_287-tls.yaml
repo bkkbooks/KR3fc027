@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/287
+seq: 287
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 起五八加四下位是分也向前逆陞合得三分八尺三八加二十四本位加二共十下位加四十五九加四十五本位加四共四下位加五法首是每尺三分遇尺卽止下位是分也二實首九丈三九加二十七本位加二下位加七原实丈往後順至尺三両合得一十假如今有羅二百四十六疋每疋價銀一両二錢七分五厘問該銀若干荅曰三百一十三両六錢五分法日置羅爲實以每疋除價首一両只以二錢七分五厘爲法加之定位只認疋位上定両依次逆陞合得六七加四十二五六加三十二六加一十二
+  hash: sha256:52b0ea3a27c6d868af093bb504e931da0469cbd48297b5f0603ec4596760627e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:63ee17c2e60af819831c8286b2dca9edabe60055adbc719e206d7963d9a9d48e

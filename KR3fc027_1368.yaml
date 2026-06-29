@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1368
+seq: 1368
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西江月今有方田一叚中問有箇圓地歩量田池可耕犁十畆無零在記方至池邉有数每邉十歩無疑外方池徑果能知到處芳名説你解題耕犁十畆乃是池外餘地忘却方面圓徑二數只記得方至池邉十歩今問外方面內圓徑各若干荅曰方面六十歩內圓池徑四十歩法曰置田十畆以畆法二四通之得二千四百歩另以每邉十歩自乘得一百歩又以二因之得三百歩加入積內共得二千七百歩爲實另以每邉十歩以六因之得六十歩爲縱方于右以開平方帶縱法除之約商三十歩于位就置三十
+  hash: sha256:3cdc3b0bc71a307d4fd318ceda8450b1769fc9c9449a7193613652b43b926797
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ebdb58902293f28905304605367e89fac3e9754e2116f875a06acbfcfcd625fc

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1070
+seq: 1070
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法除物實爲物價法除人实人数目法曰置所出率與盈不足出率不足率出率盈率以盈不足互乘所出率併之共若干爲物实另併餘不足共若干爲人实置所出率相减餘若干爲法除人实得人数除物实得物價又法併盈不足爲人實以出率相减餘爲法除实得人数却以出率乘人数得若干减盈增不足卽得物價若人分物者却是增盈减不足卽得物数也其盈朒互乘出率併爲物实又併盈朒爲人實或併盈朒爲人实俱出率相减餘爲法也其理則一作法之意也朒女六切縮也
+  hash: sha256:20886726d770d01471d1f434e32ff7bfb6407ff98cdf3a59104ad97cf5313502
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e9764307cce20f33cea6cbf50bd5eb67eb83eeccf2f6dee98a57c98ff74aff2e

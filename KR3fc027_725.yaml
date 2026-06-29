@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/725
+seq: 725
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開平方有實而無法商約而除之平方積三百二十四步法日置積三百二十四步為實約初商一十步于實左下法亦置一十步于實右名日方法與上商相呼一一除實一百步餘實二百二十四步就以方法一十步倍之得二十步名曰廉法又約次商八步于左初商一十之次共得一十八步亦置八步于實
+  hash: sha256:f7e570e4dffb158040b73c58e2c4ee9e54365060002ac0cd412468291c46c94e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:60a5524e45bba9ba710b2570519e13fa0db9e53532b53ed6ff8dc2d41365b667

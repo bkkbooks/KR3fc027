@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/625
+seq: 625
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置總銀為實列丁二十七丙六十三乙一百四十七甲三百四十三副併得五百八十衰為法除實得若干為一衰之數以乘各衰得各人數若令五人作三七分之置總銀為實列戊衰八十一丁一百八十九丙四百四十一乙一千二十九甲二千四百零一副併得四千一百四十一衰為法除實得若干為一衰之數就以此為法以乘各衰得數合問折半差分法日所分物折半為衰二位者一二併得三三位者一二四併得七四位者一二四八併得十五五位者一二四八十六併得三十一各副併得為法除實
+  hash: sha256:5daaaa3e01a8e2cf5daa747e9002e8f9a53ddaf5c24a985c70f3922f7a8054cb
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:15b4066fe0392c19847535bf21567e15968b35f3598e1adb426584694af1479d

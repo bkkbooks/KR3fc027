@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/319
+seq: 319
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆三約之合問通分通分者通以分母納以分子也夫數之有盡者不必通也若畸零之不盡者使不通之則何以置位而算之乎此通分之法所由立也假如四分兩之一者則二錢五分也此所謂數之有盡者也若三分兩之一者三錢三分三厘以至于三三之無窮此所謂數之不盡者也必須以分通之乃可算也不然則畸零之不盡終無可置位矣假如今有布四十五匹每匹價三分兩之二問共該銀若干
+  hash: sha256:01c13cda47258766319dc1dc8b008ade1016e20c27727409a5a621223229daf3
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a5addd41a89e62c10daf487aa5683ec8000f5655f060337e18b329af66aa7e65

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/956
+seq: 956
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新安賔渠程大位汝思甫編集會孫素亭光紳佩章甫較正藴齊鈁洪聲甫尜閱商功第五章商度也商量用力之法也此章以堅壤之率求穿地之實以廣濶高深求城塹溝渠之積以車担往來求程途負載之功商功歌卽修築商功須要問工程長濶相乗深又乗乗此数來以爲實每日工程爲法行唯一築城别一樣上下將來折半平
+  hash: sha256:d18124dc5589bc7199b39a55c1e4a8234638ebf6f9b4344e17f212299c5b97f3
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:47bf0a9d71f5850c000a7ab7e072979de2fbeedf8bdfbb90558397c5f49f9b60

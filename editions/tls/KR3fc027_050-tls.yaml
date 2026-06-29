@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 算學統宗序夫算非小枝也有熊氏命隸首創焉周官則置保氏教國子以六藝而數居其一唯是數以俟夫算算以成夫數固二而一者也籍令算為小技何古先哲王用意勤如是哉廼令隸首遠兲保氏之職廢精其理者代不數人程汝思氏悵然有恫於裏爰輯算學統宗十七卷
+  hash: sha256:5ab0980edb77424a4b7424de446a61d0c5452583f01543158468edf4567dfb7b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:96617b8ac64ef15c292c056a6dd89642cc98b7dc528b5680ea539147a8a8eb5e

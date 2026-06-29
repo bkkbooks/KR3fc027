@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 族人程際明序之而汝思意不但已後屬余論列之不慧持籌未能何知籌數顧夫技藝之學六數業聖人所以寄至精意于窮者用之大至于窺天測海推宇原宙秭岻京不可窮小之極于分毫秒忽塵撮而無所間情物君子奈何以小道視之傳曰數可陳也其義知也熟其落向
+  hash: sha256:525df14cdccdeb732c3fb659b18a41c4943eca6f13ea0e4b121a7e1aac805696
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ba0896a832299b6c5aa021424dc17948fd36b11421d52b5f37d98b5426ef8488

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷之七分田截積圖十一十八問圭田截積圖二四問梯田截積圖二二問環田截積圖二二問圖田截積圖一二問弧矢圖三十一問卷之八商功五章堅河渠濠四問築臺五問築墻五問築方錐三問築方圖臺三問築堤一問開渠一問雜問七堆垜圖二十問挑土論方一問量木捆三問
+  hash: sha256:1016d8908dbdef899f8c7cca40b423ae2063bae972c2a4fb77949f69e49a625e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:50df8e56af8a840cfa77b6a74195cf2e6c9a1f4cca0109867f9646bfa7720712

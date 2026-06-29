@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1402
+seq: 1402
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上廣一箇下廣五箇堆垜鐔式法日置積一百六十以六乘之得九百六十爲實倍多廣七个得一十四个加上長三个共一十七个爲縱方再加上長三个共二十个爲縱廉以三爲隅筭用開立方法除之上商五个下法亦置五个自乘得二十五个又以隅三乘之得七十五个爲隅法又以五乘縱廉二十得一百以方廉隅三法共得一百九十二皆與上商五除實盡得下廣五箇加多七箇爲下長三箇爲上長合問歌
+  hash: sha256:3dc5331b243f094ddc714278a66a827fab58da11480e54296af62c8d12494a6b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:23db5cf06fb0430b6371933a3243611f648343f36cd94835db301012dc77f70b

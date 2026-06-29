@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/883
+seq: 883
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四千三百二十九尺以深一十三尺除之得三百三十三尺內减上方自乘得八十一尺餘二百五十二尺爲實以上方九尺爲縱方開平方法除之得下方一十二尺合問或云下方一十二尺深一十三尺問上方若干荅曰上方九尺法日仍以前實四千三百二十九尺以深除之得三百三十三尺內减下方自乘一百四十四尺餘一百八十九尺爲實以下方十二爲縱方以開平方法除之得上方九尺合問今有米七十七石二斗欲造圎窖盛之只云上周一十四尺深九尺問下周若干
+  hash: sha256:12ebec42d75e81237854eb1d8eccd1313bf4e537f2d8a99fa1b31a4eb9b2e368
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b02c700a5dcde1ee08b51be0129c9883405ecb9346a18f1c32c64a013bd075be

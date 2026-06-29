@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1412
+seq: 1412
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黍米一轉止三分幾轉轉到山脚底荅曰四百八十萬轉法日置山高八十里以每里三百六十歩乘之得二萬八千八百以每歩五十寸乘之得一百四十四萬寸爲實以米轉三分爲法除之合問排魚求数歌三寸魚兒九里溝口尾相野直到頭試問魚兒多少数請君對靣説因由荅曰五萬四千箇法日置九里以每里三百六十歩乘之得三千二百四十歩以每歩五十寸乘之得一十六萬二千寸以每魚長三寸爲法除之得魚数合問
+  hash: sha256:1343a9801c170fd70b1652721c2fa1bf5144074e6796001598cb24b4731548d3
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:dcca479f4ef35b40529e7103a3351304faeb4db6e6c8650827f2ab3b36de6ac8

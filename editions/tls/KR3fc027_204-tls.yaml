@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/204
+seq: 204
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅日一十八両三錢七分五厘法日置總苧爲實以每錢賣四斤爲法歸之合問定位法只認斤前一位定錢依次逆陞合得法四斤歸四二添作五变二爲五定位五厘實尾五斤四三七十二变三爲七右位加二逢四進一十本位去四進一千左斤法上是四斤遇斤卽止前一位得令是錢也七分三十四一二十二变一爲二布位加二逢四進一十本位去四進一于左十是錢也向前道陛合得實首七百四三七十二变三爲七右位加二原起逢四進一十本位去四進一于左實百呼百往後起順數至斤八両合得千還原用四因
+  hash: sha256:6367228031b20a2985386b566050a94affa0a88426c82208aa0292f7bd44b950
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e6e0afd40291c0170e2deae4192a2ba658e1f84778ffab58a6501cfa9f85bbee

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/100
+seq: 100
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中寶即商總也併率如一二三四五併得十五數也得令斤兩貫箇石等類也得術乃法首位每下該得之名互乘如四處數目上下斜角相乘相減如二數以少減多餘日較合得算數定奪維乘四處顛倒相乘若干一為數始十為數終未算難定幾何與若干相同數附暗馬式一二三四五六七八九右大圈九字配合相生而成法也大圈之下小圈乃暗子馬數惟一二三不拘橫直但位數配合得宜不亂為式假如十一數作二十二作三十三作四十四作五十七作六十九作餘倣此大數
+  hash: sha256:f327db3e080fbcf262e9978500874ac82dacece8e2d0d7b5c69ae5e835704d01
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ba53dbd331c9a13663037de16a1164545394f110523b6306341eef290e68bf0f

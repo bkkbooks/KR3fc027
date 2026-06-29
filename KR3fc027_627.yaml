@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/627
+seq: 627
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有錢五百九十四文令甲乙二人折半分之問各諛若干答曰甲三百九十六文乙二百九十八文法曰置總錢為實以甲二乙一併得三衰為法歸實得一百九十八文為乙所得數倍之得三百九十六文為甲所得數合問今有銀六百七十二兩令三等人作折半分之問各若干答曰甲三百八十四兩乙一百九十二兩丙九十六兩法曰置總銀為實以甲四乙二丙一併得七衰為法除實得九十六兩為丙所得數以二因得乙數以四因得甲數合問今有女子善織初日遲次日加倍第三日轉速倍增第四
+  hash: sha256:0484b7f375766189d48e6c86cb9734b4d40f6351d549b96919807c7d2bfd1ed7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d8a4084c4848d09f9b8f3e63d426a51c09293d4fece6362ba9673ef4468a44ca

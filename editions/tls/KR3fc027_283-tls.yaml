@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/283
+seq: 283
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰二百九十四両八錢法日置珠爲實以每顆價除價首一両只以次價一錢爲法從末位加起次第而上定位只認顆本位定両十顆上定十両百顆上定百両所謂加减只須認本位也餘倣此法首一錢爲加定位起一八如八因字故下位下位是錢也回向前逆数陞上合得八錢實尾八顆一六如六起五進一于左顆法首是每顆加一錢遇顆卽止下一位是錢也四両六十一二如二伒七共九十九十實首二百原实百起呼百往後順数至顆合得二百
+  hash: sha256:313603e8e71c357e671d608eb7defb1ad9a5539218b5850e8f8e869ebcb3409f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0ddf7edd8d5ef3ae22cec41d5e5d4f61f729d929411aaeb0ab8fed91d6650169

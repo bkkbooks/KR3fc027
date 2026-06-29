@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/575
+seq: 575
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四尺爲法除之合問今有紗一十二疋二丈六尺每疋四丈二尺賣鈔二百六十五貫問每尺該鈔若干荅曰五百文法曰置鈔二百六十五貫爲實以紗一十二疋以疋法四丈二尺乘之加入零二丈六尺其得五百三十丈爲法除之合問今有銀二十六兩五錢買紗每疋長四丈二尺價銀五錢問該買紗若干荅曰五十三疋法曰置銀二十六兩五錢以乘每疋四丈二尺得一千一百一十三疋爲實以
+  hash: sha256:fec17f8a2cd9dbbc0ad2f0c886367115452b63a3170b217bddd51a9aae5e359b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:37253d46ee14ba7c74c33aa94d7cffd7e3b5ba24b23cdc30892c402403bc19ec

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/655
+seq: 655
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰以一三五七九為陽位二四六八十為陰位三位者三五七併得十五四位者二四六八併得二十五位者一三五七九併得二十五照位併而為法除實得首尾二人共數于內减甲多或丙少數餘數折半得首尾數加甲多或丙少數為首數三位者互和首尾甲丙二人所得數折半得中乙數合問四位者照前得首尾甲丁二人數中有乙丙二人不可折半得數却置甲多或丁少數依例用三歸之合問
+  hash: sha256:23fd714735ef546b05de238ac2a207b5785282c3149dc55f2c6f360a77ca4871
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:379c88e35d56917157e3bf8269a6e0d4e420cc97ef4851ae1936697d0eeaa18c

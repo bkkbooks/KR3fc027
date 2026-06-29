@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/895
+seq: 895
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四歩六分北頭要濶四歩問截南濶若干荅曰截南頭濶三歩直田截斜法日置截積五十四歩六分爲實以原長一十五歩六分爲法除之得截濶三歩五分此是二廣均勻之数加倍得七歩减去北廣四歩餘得截南廣三歩是也又法倍截得一百令九歩二分爲實以原長一十五歩六分爲法除之得共截濶七歩减北廣四歩餘得截南廣三歩亦得今有直田長一十五歩濶一十二歩今從西北角截勾股形一段積三十一歩五分年原坐落西邉股長九歩問截北
+  hash: sha256:83debf2fed7f2deb6bdc233ecda7330caedd4a09f13f872a0a8b1aac9ea7b5f4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:377dc50af7150e3e4252057f4da80d6a46494b29e624cc7605cbb05c2a5d94c1

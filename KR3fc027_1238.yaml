@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1238
+seq: 1238
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法日置表高十尺減人目四尺餘六尺以相去一十五尺乘之得九十尺爲實另以前表退行五尺減去後表退行八尺餘三尺爲法除實得三十尺加表高十尺得竿高四十尺另置相去一十五尺以前表退行五尺乘之得七十五尺仍以前法三尺除之得隔水廣二十五尺合問解曰前表是第一圖以表望木後表是第二圖以表望木葢總設人不知所以分作両圖解曰以隔水望木爲問設窺望海島爲題以重差爲術好事者引而伸之以發其餘也其前表去木遠乃小股中容積一段後表去木遠乃大股中容積一段以小容積減大容積起餘
+  hash: sha256:18fe64a93afa7223dc3911fd6d36269ba9a4b5c55bd3faa3fe4f9c5591ef3853
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d33923f2cca4e99a1359d9962724992368bfe40e6f4f2e5fd4984a59f9442f67

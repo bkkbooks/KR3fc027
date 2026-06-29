@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/924
+seq: 924
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若截小頭田積歩小濶自乘併實傍供用開方爲截濶両廣併來折半強折半数來爲法則法除截積便知長今有梯田長九十歩南廣二十歩北廣三十八歩今自南邉小頭截積八百二十二歩五分問截長濶各若干荅曰截上長三十五歩截中濶二十七歩法日置截積八百二十二歩五分倍之得一千六百四十五歩以二廣相减餘一十八歩爲濶差以乘倍積得二萬九千六百一十歩以原長九十歩除之得三百二十九歩以小頭
+  hash: sha256:9f2955c2a1eb144533858f0623f76bf7970f4c8ede7c1a7148db4359338d9ada
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e430c72c752120cbd659855f9566352a2b6a520dd4aa8d1d2d8276baa0383801

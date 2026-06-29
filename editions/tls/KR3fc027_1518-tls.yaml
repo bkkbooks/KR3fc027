@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1518
+seq: 1518
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰三十六石五斗法曰置總銀于左爲實列爲三行以每石價四錢于右爲法歸之四一二十二逢四進一十四二添作五逢四進一十四二添作五此五句後分三行用逢四進一于前本位去四存四二添作五五斗加前二作上逢四進一于前本位過門存四二添作五加後進一作六石四一二十二下位加二加後進一作合得三十乘法式假如今有米五十三石二斗每石六錢四分問該銀若干荅曰三十四両零四分八厘
+  hash: sha256:4c7a1f23da5009e733274fd5ba4d159d841abf6a46e79e9f974bb631ba6f3784
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9203606bc9812b8c5294e7666b52ac768088642a9e488541be628d45aa3c51c3

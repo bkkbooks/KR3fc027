@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1188
+seq: 1188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置勾二十七步自乘得七百二十九步另以弦多股九步爲股較自乘得八十一歩二位相減餘六百四十八步爲實倍較九步得一十八步爲法除之得股長三十六步加較九步得弦長四十五步合問此是股較求股卽股弦相差一法名弦較求弦置勾自乘得七百二十九步爲實以弦較九步爲法除之得股弦和八十一步仍加弦較九步得九十步折半得弦長四十五步內減較九步得股長三十六步亦得今有葮二莖生池中竝根杪齊出水三尺引葮一莖斜去至岸九尺與水適平問水淺若干荅曰水淺一丈二尺
+  hash: sha256:f6a30729608f77a28403eed1a83d30ea3332fefaee34b0459edffd30ba2e9807
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:57d8017b8df52e4c766d64f95ac37a1dfa04ca8eb6cb49109f3dac07f7735af0

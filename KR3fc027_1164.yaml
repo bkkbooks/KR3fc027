@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1164
+seq: 1164
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勾股名義生變一十三名勾橫日勾勾股較勾股相減勾弦較勾弦相減勾股和勾與股並勾弦和勾與弦並股直日股股弦較股弦相減股炫和股與弦並弦斜日弦弦較和弦與勾股較並弦和和弦與勾股和並弦和較弦與勾股和相減弦較較弦與勾股較相減勾股論説釋義
+  hash: sha256:0b43d8d4e502a66a3daf5def2818827cdd605f26db3aa784ce66f5311c5c8aa9
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:35506aa923009b92a558c3f8ef976d541c3e0fcd5aa06e60f5e01155eef57f1c

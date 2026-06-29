@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/889
+seq: 889
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新安賔渠程大位汝思甫編集曾孫素亭光紳佩章甫較正總齊鈁洪聲甫參閲分田截積法直田截積歌直田截積法尤奇截長積步濶除之截濶用長除且易得其步數不須疑法日若依原長截積則以原濶除之若依原濶截積則以原長除之原截方田章因與圭等截積問隅不便觀覽今核此以統于一
+  hash: sha256:f16051bd54a55282da28939a2bcd488063b43e120f6c4158242b675db880202e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ae96f252d85137addd3b8482c011dfff760557f8af88d9e9442dc28156362a53

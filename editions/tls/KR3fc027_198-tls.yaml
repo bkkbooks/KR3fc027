@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/198
+seq: 198
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 定位法只認石上前一位卽十之位定両逆上卽百之位定十両再陞上一位定百両合得此所謂歸與歸除上位施先数原實百起順下至石遇法首位是每両二石則止轉向前一位得令是両逐位逆数陞上合得也今列布筭于後法二石爲歸實尾位二斗逢二進一十本位除去進一于左定位六石逢六進三十本位除去進三于左石法上是每両二石遇石卽止前一位得令是両也一錢八十逢八進四十本位除去進四于左十是両也向前逆數還位陞之合得三兩
+  hash: sha256:2021aec9fbc02be6b866abc206dc3222327b30d585d57744af6789210f6c477d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:11b504325b929cb131f033f0c6086957fb311cd27f4b3173d7bd91a898fa14a1

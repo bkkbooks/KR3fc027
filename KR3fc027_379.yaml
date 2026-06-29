@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/379
+seq: 379
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假如今有方田丘長濶各五十步問現積若干答曰積二千五百步稅十畒四分一釐米六毫米
+  hash: sha256:9d6f94be43fb3f426b08452dff347a9a4d9dda05a71974286c7601bbc16ca3f8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b4cde0f322c745d5ceb6eb9e8eda357edf26448007eae84d56931324dfb02ecf

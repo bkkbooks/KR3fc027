@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 算法統宗既成問序扵余余閱之率葉見其標倫揭目開啓鑰鈎玄抉隱剛繁業要苴罅補隙正訛點謬其啓振瞶也若發蔀其列同較異也若懸鑑其苞會統舉揔百端之畧而集之成也若派列區分而統宗扵一以是視天準地揆序萬物宣惟圍徑方斜繼橫旨曲鹽腸凹突開折愛物淂其變即陽海聖山捧影測表六合之
+  hash: sha256:3f2f23eb7d6d850e6ea926ec24182b0e392236bdf77fe274cb7e4952556db999
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6ac9c45886d9df8475ce46686cf8eacbd8c6143470c92710abe4c438a69b1835

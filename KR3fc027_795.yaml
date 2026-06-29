@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/795
+seq: 795
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 面方八根却减去一根得七根以四因得外周二十八根若前方箭積八十一根乃是單層者若只以方箭為實以開平方法除之得一面方九根却减去一根得八根以四因得外周三十二根亦得面方八數為雙乃八八六十四也九數為單乃九九八十一也此法不論雙層單層皆可用捷徑無差演段根源開方圖解夫算之術入則諸問出則直田蓋直田能致諸用而有此說故立演段蓋欲演算之片段也知片段則能窮根源既知根源而心無滕昧矣今摘數問詳誅圎解以明後學其餘自可引而伸之不待盡述
+  hash: sha256:e90ac1bb81af5f7072148cf784875e638966f542cfff94bc59a513deab744936
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e85125bc355e891134e7d7870712d1ae294f5570b896f0ac156c9f97e8bed7c0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1398
+seq: 1398
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 縱多二堵共一十六尺以五歸之得三歩二分爲縱方以平方帶縱法除之得濶一十六歩加三歩二分得長一十九歩二分各以一歩六分除之得墻二十二堵合問解法縱多二堵共一十六尺以五歸之卽每尺爲二分也各以一歩六分除之卽每堵八尺也繋羊問索歌瞔野之地有箇樁椿上繋着一腔羊圑團踏破三畆二試問羊繩幾丈長荅曰繩長八丈法日此乃平圓之法置地三畆二分以畆法二四通之得七百六十人歩以四因三歸之得一千令二十四歩爲實以開平方法除之初
+  hash: sha256:936ef79cbeb3dfa4aac337d739334c8636e842777296ae50f76ee7917f535f88
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:522c8f79fb6d0818201e8b1841786e791ef04fbd36571759e52a3214faaa63a9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/693
+seq: 693
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 梨一千七百一十五箇該錢九百八十文法日列置九箇十一文七箇四文五千箇四千九百九十五文先以上十一互乘中七箇得七十七箇又以四文乘九箇得三十六箇以少减多餘四十為長法若求桃數價者以中下互乘置總錢以七箇乘得三萬門千九百六十五箇另置總果以四文乘得之二萬以减三萬四千九百六十五箇餘一萬四千九百六十五箇為實以長法四十一除之得三百六十五箇為短去列二位一位九箇乘得桃三千二百八十五箇一位以十一文乘得桃價四千零一十五文於總內减桃數餘者即梨總價也若求梨數價者却置總錢以九箇乘之又置總果以
+  hash: sha256:59161f0eadfe5dcf04ebea2837c12accfe85ff113461c21076f0daadbde8b9fa
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8cc296044b896279ba4eac2b53f3317707589f0d00b2ab51cc6aca7a28ab9a43

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/243
+seq: 243
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五步三五一十五只認步下一位定法首二七一十四步是十也四百實首七十三七二十一原實十起呼十往後至步合得二千假如今有方田長濶各一百二十六步問該積步若干答曰一萬五千八百七十六步法日置方面一百二十六步為實亦置一百二十六步為法即自乘之合問法六米二十一百乘六步六六三十六定位七十
+  hash: sha256:18bccd7c8a0e69b768b26f4a2883b3ba7ea2335cee31a6d202a986e6a290a4be
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8de811fbbfcd377ddb978898b83a7232f153a57f79aaa88d5ca61801198df714

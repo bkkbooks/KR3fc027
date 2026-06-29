@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/551
+seq: 551
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 銀若干答曰二錢八分六厘八毫七絲五忽法曰置今買絲六兩化為三七五為實以每斤七錢六分五厘為法乘之合問原有銀一錢買猪肉四斤今有銀三分五厘問諛若干答曰諛肉一斤兩四錢法曰置錢三分五厘為實以每銀一錢肉四斤為法乘之得一斤四此四乃是虛數合斤之數也宜當每兩用加六之法四六加上二兩四錢共得一斤六兩四錢合問原有銀二錢三分買白銅一十三兩今欲買五斤二兩問
+  hash: sha256:aac29c1c6ef3fbc68ea0f8e7132853731db6519b4ed98fd1b7e1828de0134060
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:eeb06651ac8b5d67fbe208600471e019a475ed2441270de3a29174462e31e1f8

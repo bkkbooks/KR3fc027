@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1458
+seq: 1458
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置三載本利平列一倍二二倍四共七率乘五斗得三石五斗折半三遭合問又法置五斗以七乘八除亦得巳前五欵原用盈不足法繁冗刪去不錄鷓鴣天百兔縱橫走八營幾多男女間來争一人一箇難拿盡四隻三人始得停來往聚閙縱橫各人捉得往家行英賢如果能明筭多少人家甚法評荅曰七十五人法曰置百兔爲實以四隻歸之得二十五却以三人因之合問自前問三處四處五處倍飲併三年倍利還債俱是原本
+  hash: sha256:a116688180ff4e5459eaea7104aa018f4806bd2eb9b33f155b03b32ecf373b6d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:bafd67c2bee0998812bb57e96ebcf2be9d93c2f4cb46c8b468e8a1a0f647fe82

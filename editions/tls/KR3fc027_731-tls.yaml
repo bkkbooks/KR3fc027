@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/731
+seq: 731
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有方田積三千一百三十六歩問平一靣若干荅曰五十六歩法日置田積爲實約實定初商五十歩于左下法亦置五十歩于右左右相呼五五除實二千五百歩餘積六百三十六歩就以下法五十歩倍之得一百歩次商六歩于左初商五十之下亦置六歩于右倍方一百隔位之下共得一百零六歩皆與次商六歩相呼一六除實六百歩又左六對右六相呼六六除實三十六歩恰盡今有方田積二十萬零七千九百三十六歩問平方一面若干
+  hash: sha256:093cad9a6135ae4b97a7915f227e814d4949756bae4f34b3843f4495d13f6cd0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9cd184a35b79eabc91ec07a1b8c37583dd965883e5361cec29e4993608ee4656

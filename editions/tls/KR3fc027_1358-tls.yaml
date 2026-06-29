@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1358
+seq: 1358
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 僧分饅頭歌一百饅頭一百僧大和三箇更無争小和三人分一箇大小和尚得幾丁荅曰大和尚二十五人該饅頭七十五箇小和尚七十五人該饅頭二十五箇法曰置僧一百名爲實以三个一个併得四个爲法除之得大僧二十五人以每人三个因之得饅頭七十五个於總僧內減大僧餘七十五爲小僧以三人歸之得饅頭二十五个合問歌一千官軍一千布一官四疋無零数
+  hash: sha256:3294e5d1f9aa63a8b1556270ce7efa9d239969d18ed0dce444fbe27a875ea84b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:50375211d7588d4dba59bd5e3a7513db678131210c54543a140240628d377bdd

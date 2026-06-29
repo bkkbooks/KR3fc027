@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/775
+seq: 775
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置六于右廉法一百隔一位下爲隅法共一百六皆與上商六相呼一六除積六百又左六對右六呼六六除積三十六歩恰盡今有圓積五萬四千箇欲爲平圓問徑若干荅曰徑二百六十八箇五百三十七箇之一百七十六法日置積数先以四因後用三歸之得七萬二千爲實以開平方法除之初商二百于左位下法右位亦置二百爲方法呼二二除實四萬餘積三萬二千就以右位二百倍之得四百爲廉法次商六十于左亦置六十于右廉法四百之次爲隅法相呼四六除積二萬四千又呼六六除實三千六百餘
+  hash: sha256:67d3e0ceaf144a3bc66cc14efbc4183781b26de4f311442527ca5523c572b190
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0350c2bbbb4c6704582e31b370de194461774324f0c780ffddd4a5d90b555dd3

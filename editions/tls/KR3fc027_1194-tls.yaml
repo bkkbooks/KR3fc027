@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1194
+seq: 1194
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 委地二尺如弦較爲法除之得三十二尺加弦較二尺共得三十四尺折半得索長一丈七尺將弦內減去較二尺得木高一丈五尺卽股今有廳門外懸簾下埀離地五寸引簾離閾六尺離地也尺五寸問簾高若干荅曰簾高一丈法曰置去閾六尺爲勾自乘得三十六尺以離地二尺五寸減去原離地五寸餘二尺爲弦較除之得一十八尺加弦較二尺共得二十尺折半得簾高一丈合問今有開門去閾一尺不合二寸問門廣若干
+  hash: sha256:7e559fd15f95de6da51f3887000cda46ecd9d6b647101db37b5be5e03f0ac2bd
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2323ef9726e3d6a5131471029f0be0d2d6148af992a7e0ac465ac43678168bd6

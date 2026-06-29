@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/797
+seq: 797
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 直田長濶相乘與萬篆同意今有直田積八百六十四步只云濶不及長一十二步問長濶各若干答曰長三十六步濶二十四步法曰置積為實以不及二十列于右為帶縱開平方法除之初商二十于左下法亦置二十加于縱上共三十二皆與上商二十相呼除實六百四十餘實二百二十四却以下
+  hash: sha256:ce99702624df566406d695d918daecef2175af3487d3e25e4c1c39b5c0ccbc72
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2e052bd62c6b93a51bba731195ec830ec64fd3f72875b9cb041eedd0132573ed

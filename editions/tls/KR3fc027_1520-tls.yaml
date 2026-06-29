@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1520
+seq: 1520
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置米于左列爲三行以價六錢四分于右爲法乘之二十如八二六一十二三四一十二三六一十八四五得二五六得三此六句總法後分五行用之二四如八厘加前又加前二作四分二六一十二下位加二又三四一十二加一作下位加二又加八八退二除尽進一于前零三六一十八下位加八加後進一作又四五得二加二作四両三六得合得三十除法式假如今有銀一千二百三十三両買綾四十五疋問每疋
+  hash: sha256:5455d8cb6616d27ff9c27f1048f110c531684b2747fda0a3a29874491e1b5627
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b1dbc3604db5a0eb97460ed8e74d9e7889e1c6b50032309601316fcf41f51d05

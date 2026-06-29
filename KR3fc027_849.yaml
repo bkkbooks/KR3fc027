@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/849
+seq: 849
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十四萬一千九百八十四再以初次商一百四十以三因得四百二十為方法再商四尺于初次商之下共得一百四十四尺就以四尺因之得五百七十六為廉法以方乘廉得二十四萬一千九百二十除實餘實六十四又以再商四尺自乘再乘得六十四除實訖合問凡立圎問周徑遇數單者則有不盡今有立方積一萬五千六百二十五步問立方一靣若干答曰二十五步歸除開立方法曰置積一萬五千六百二十五尺為實以萬積商二十置于積前就置二十于右下自乘得四百步與上商二十相呼二四除實八十餘實七千六百二十五步却以右下四百步以三乘
+  hash: sha256:7b81c0182e91ab3d8379caa73ffb244c040f79cf1c5b94e2d1c7eb4f31d0afea
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:494d5fe5bb80647ffc94768ad39e275ac0c88b40ddf44775ceecb98569440154

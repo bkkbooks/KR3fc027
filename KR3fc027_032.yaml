@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 象數之表將化日之日也夫將化境之境也去古所謂進乎技以入于道以神而不以器求者皆是物耳汝思當勉旃而惡知老之將至也歟哉萬曆壬辰夏四月新都程涓巨源著
+  hash: sha256:a1b7191d5a10cebe20b296ef1cbbea2e02dd27b4b25fe6581dad1c6d720ff51d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c51d195b53ee212c5268f25e05ce08c75d6e2dc4f0e836f6f7c63018677a7221

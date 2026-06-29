@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1416
+seq: 1416
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十歩矣使乙先行百歩甲行起歩方追不知幾歩方追及筭得揚名説你荅曰二百五十歩法日置甲行百歩乘先行百歩得一萬歩爲實另以甲行百歩减乙行六十歩餘四十歩爲法除之合問行程問日歌三藏西天去取經一去十萬八千程每日常行七十五問公幾日得回程荅曰一千四百四十日計四年法日置一十万零八千里以每日行七十五里爲法除之得日数再
+  hash: sha256:d15eec0ad8ab7e3b9aa6f2ff09c311226b5688226a7e48d4026752aa878ea6d9
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1a38a7dd040e80f6b0f9849df7a23be1b8f9626a206835be57be9d6f371052ab

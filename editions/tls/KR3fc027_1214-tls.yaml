@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1214
+seq: 1214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有弦比勾餘四尺復將弦比股餘二尺問勾弦各若干荅曰勾六尺股八尺弦一丈荅曰以勾較四尺乘股較二尺得八尺倍之得一十六尺爲實以開平方法除之得四尺加入股較二尺得六尺爲勾另以四尺加入勾較四尺的八尺爲股又加入股較二尺的一丈爲弦合問今有直田不知長濶只雲隅斜比長多二步又雲斜比濶多九步問長濶及斜各若干荅曰長一十五步濶八步斜一十七步法曰置勾弦較九步以股弦較二步乘之得一十八步以二因之
+  hash: sha256:88a3f5cd3949768d83138aac0e877ea372ad6c3a46aab69030c4aa256e54bb1d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fa644ecd5e832f7a94f30fbacdbacb753e05b361f336649e2ebc17d3c703684b

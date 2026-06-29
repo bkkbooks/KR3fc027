@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1442
+seq: 1442
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 我問開店李三公衆客都來到店中一房七客多七客一房九客一房空荅曰房八眼客六十三人法日置盈七客以一房空九人乗之得六十三以九客乘多七客得六十三併之得一百二十六爲實以盈七與不足九相减餘二爲法除之得六十三人以减去多七客餘五十六人以每房七客除之得房八眼合問西江月幾箇牧童閉要張家園内偷瓜將來林下共分拿三人七枚便罷分訖剩餘一箇内有伴歌兠搭四人九箇又分拿
+  hash: sha256:a0d87fcf1887cb21b6050dd8ffe8708d6fea19059bf7cf4b078fabb1a0887a51
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a70a04cadf7e5e6bd71976764b0d6e2e56a1ba6875aa0d74cca974f011c7d2fc

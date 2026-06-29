@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1290
+seq: 1290
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置紋銀一十二両以入色歸之得一十五両减去原銀一十二両餘入銅三両合問歌一斤半塩換斤油五萬白塩載一舟斤両內除相爲換須教二色一般籌荅曰各二萬斤法曰置總塩五萬斤爲實併塩油共得二斤半爲法除之得各二萬斤合問鋪金問積歌皇城內丹墀中周圍有八裡鋪金二寸湥方寸十六両秤
+  hash: sha256:0f6e466c3ff30cf732740ef0ed792bc6e42dcb35e70baa5cdecb82955196e3cc
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0e7c5b0f5934818f0b7a7bcfe71b54adb1b96200388f29e912b3443dc0dcfd26

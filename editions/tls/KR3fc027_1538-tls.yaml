@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1538
+seq: 1538
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 左左指有旁五指皆同務記清白假如左右両手中指掐音恰若左中指右下爲七錯記在四指左爲二此是以前位七而降後位一数差悮非小冝謹慎之如遇位数多者而足底亦當一位平立爲五平指歌前爲四平跟歌後爲六側於東南爲三側於西南爲九歌于東北爲一歌于西北爲七學者須依暗讀熟記自然慣便不拘乘除皆可用也
+  hash: sha256:cfe1e4da0a48e02d27c876190a7938613f762d5601a65532b5a8cc5d44798950
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:609d2ec1ddf61faacd8476fbef7ec8446ff534cc59f0324b9ef82bb43f3bbd8d

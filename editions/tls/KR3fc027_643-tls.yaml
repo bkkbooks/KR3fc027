@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/643
+seq: 643
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正三品俸粮加十三是第四等從二品俸粮又加十三是正二品俸粮各品逓加十三合問今有官米二百六十五石令三等人戶出之上等二十戶每戶多中等七斗中等五十戶每戶多下等五斗下等一百一十戶問每戶所出及逐等各若干荅曰上等每戶二石四斗共四十八石中等每戶一石七斗共八十五石下等每戶一石二斗共一百三十二石法曰置中等五十戸以每戸多下等五斗因之得二十五石又置上等二十戸以每戸多中等七斗多下等五斗共一石二斗乘之
+  hash: sha256:65198ed7991a3183390010bf29873f1d57b3afa9cac595348876725dc4b64f61
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:dbfc5468488578a63f400e3be1174247bcc5c615d0b1a67a35f1463e9aa21a4b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1274
+seq: 1274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢不錯巳用香油和合二斤十二無訛再添多少麵來和不會應須問我荅曰添麵一斤九両五錢法曰用異乗同除法置今有油二斤十二先將十二両化爲七五于二斤之次以乗原麵四斤得麵一十一斤爲實以原用油一斤爲法除之如故仍得實麵一十一斤减去巳用麵九斤六両五錢餘爲添麵一斤九両五錢合問梅氣清三石五斗粟會換芝麻三石足又有五斗五升蔴換來小麥量八斗今有小麥換粟米九石六斗無零數
+  hash: sha256:aa10b5b914b68e4ed52ba45c1e575f1533e06247acbd2f60e719adf6b3fb5c9c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2f7ad30c8512490b147e07db0e0ff754038755264b24250af240f23615fd63a1

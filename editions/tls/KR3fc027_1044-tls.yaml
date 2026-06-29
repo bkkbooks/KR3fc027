@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1044
+seq: 1044
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 里爲法除之合問原雇車一輛議行道一千里載重一千二百斤與銀七両五錢今重一千五百斤行一千三百問該銀若干荅曰一十二兩一錢八分七厘五毫法曰置今重一千五百斤以今行一千三百里乘之得一千九百五十里又以銀七両五錢乘之得一十四両六錢二分五厘爲實以原重一千二百斤乘原行一千里爲法除之合問今有貨重一千六百斤先付車主銀六両照前議行道一千里載重一千二百斤價七両五錢問該行道若干荅曰六百里
+  hash: sha256:883a3e15043cd9bd6bf53f3e0746a28f3b6cc61cea95baf3ab0bc04d4f0bbbd0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:be6546d3f585587e60bcc20186420f1dc1e6f58201373ee00aff79cedcbda57b

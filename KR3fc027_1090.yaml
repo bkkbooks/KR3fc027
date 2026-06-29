@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1090
+seq: 1090
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此是三條四條相减餘一爲法者不必用法除卽是盈適足不足適足歌盈與適足数相乘乘数將來爲物情盈数自稱爲人實二位各列要分明出率相减餘爲法法除物實物價眞法除人實爲人数不足適足一般行法曰盈適足者置所出率于上以盈與適足于下或以盈数互乘適足出率得若干爲法實另以盈数爲人實又以出率相减餘爲法除人實得人除物實得物一法以盈数爲人實另以出率相减餘爲法除人實得
+  hash: sha256:37c639c1921cc7d4c25e60ac250d73aa91129f75736e2b65c90732cf8d2bcdce
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7e5eabc9219ef1b259eb2d0dbc18434b577486c2db615b0e788b3bf8c0d5bbc6

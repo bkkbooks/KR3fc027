@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1130
+seq: 1130
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三色方程歌三色方程法更奇物價三行左作基左右互乘須減盡中下價餘左位宜又列二行仍乘減中中左中減無餘下餘爲法價餘實法實相除下價知此三色方程巳後內中或有正負同異加減者今有硯三箇墨五匣筆九枝共價八錢一分又硯四箇墨六匣筆七枝共價八錢九分又硯五箇墨七匣筆八枝共價一両零六分問硯墨筆各若干荅曰硯毎箇八分墨毎匣六分筆毎枝三分
+  hash: sha256:681863c66775ed145c601d24958ebeaf43b3851090d26f3ac0429ec8cc947ab9
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:95f3a3338e845d392b9a37ad90776bfaf961789a552e895feb823bf70f431088

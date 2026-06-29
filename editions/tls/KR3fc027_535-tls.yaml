@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/535
+seq: 535
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 必須挨斤之次設若五斤十二両就以十二両在五斤之下位筭盤梁之上二子梁之下二子卽十二両也若兼歸除爲法爲實就以十二両本身梁之上除去一子餘七另以下位加五卽爲七五然後用法乘除之卽不差也如除畢斤下有零数必須從尾位起用加六之法逐位逆上加之至斤下止切不可加於斤上學者慎之今有金一十二斤半問諛両若干荅曰二百靣法曰此是斤求両置金一十二斤半爲實以六爲法加之或
+  hash: sha256:212bdd479a436599761b28fe8649805c42a651dc6254e302096e39b841256d34
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:605f232e6c60049d8c20da3e975d6bb68a708a847ce6cc7ef387e7123b47bdf3

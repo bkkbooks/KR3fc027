@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷之二初學盤式圖九因八問九歸九問乘法八問歸除歌一撞歸法併論起一還原法十問加法四問減法三問商除二問約分四問乘分一問課分一問通分七問差分七問異乘同除五問同乘異除一問異乘同乘一問異除同除一問同乘同除一問傾煎論色六問卷之三方田一章
+  hash: sha256:d364fa986b77817a104b826c2804d92e051ebf9ee412193ea10e206ef9355e42
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:663db4bb9a642fdc553b77df3abb0377ce8c919305ebba447213d350e4776326

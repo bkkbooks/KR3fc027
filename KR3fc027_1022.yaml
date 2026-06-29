@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1022
+seq: 1022
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 毎根長一丈五尺除之得六根爲法乗實得八千四百六十又以深七尺五寸加之或用十七五乗亦可合問今有方捆深七尺濶五丈長六尺問木若干荅曰八千四百根法曰置深七尺倍作一十四根又以濶五丈亦倍作一百根相乘得一千四百根爲實另置長六丈以一丈五尺除之得四根爲法乘實得五千六百根又以濶五丈加之合問今有荒排深二丈一尺濶四丈四尺長六尺問木若干荅曰八千三百七十七根六分法曰置深二丈一尺以三歸得七尺倍作一十四根又以濶四丈四尺倍
+  hash: sha256:de4f2cf0247b74b904e7ade52fba9a0ae7eabf0f65cf26d8976a4d85c6c61889
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:eac5b6474a95191ad7408640b1348d6c896c57b75cd3dcc61a1e6e803c0ae30b

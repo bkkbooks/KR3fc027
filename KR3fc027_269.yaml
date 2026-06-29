@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/269
+seq: 269
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二石四六除二十四本位去二右位去四定位實首二十起五二倍作四變二為四原實十起呼原實十往前逆升至法首千止合得四合百升千法首位是千即止前位得令是石也斗前位是石也順數降下合得石還原用乘四六二十四三四一十二四五得二十假如今有銀一千零九十七兩二錢五分作五百七十人分之問每人該銀若干答曰一兩九錢二分五厘
+  hash: sha256:8b7b9e5f5ac376a952c0f3f252f3a30acffd48539e640c42174dc5ca654152c5
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5f7319069c9b49758c6b89e7c1340539cd0bc355b6dec8ea54521d0e4fa19dcc

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1600
+seq: 1600
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 重刋筭法綂宗序高祖賔渠府君手輯是編當時風行海內坊間刻本無慮数十然傳刻既多舛謬日甚余家有藏版頗足辨証訛偽緣經兵燹十亡其七此者國家嚮用文學研究律暦扵是搢紳之士持籌握筭考論源流益知崇信府君之書而故家所藏善本乃稍稍間出矣光紳动徥友人借録一帙謀
+  hash: sha256:960ea368548ca1f6eecb62f559838870b4e4e8c4bb251e5918d3955c3a181a65
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:506d9646a997b20b29bcf3eee72e8239308f329f769b7c2f50da96555da26a8c

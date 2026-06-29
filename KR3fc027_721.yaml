@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/721
+seq: 721
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此圓雖吳氏九章內有自平方至五乘方却不云如何作用注釋不明今依圖自上一得二為平方率又併三三得三三為立方率又併三四三六四得四六四為三乘方率向下求出三十餘乘方皆取自然
+  hash: sha256:f480ff55eb439b56ac8ec669169c8231bc1c72f3153df371b9f51a558165eecd
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e8e804ca2857ad7fe665f8ea4b015ca50c3f1ceb18fd2efe046d69121eee2211

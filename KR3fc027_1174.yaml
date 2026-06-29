@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1174
+seq: 1174
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開方便見弦之數法術從來有見成勾弦求股要推詳各自乘來各一張以少減多餘作實實求股數要開方弦股求勾皆一例算師熟記莫相忘勾股求弦法曰置勾自乘股自乘併二數以開平方法除之得弦數其勾自乘股自乘二數併之合弦自乘數故用開平方法除之卽得弦斜數也勾弦求股法曰置弦自乘內減勾自乘餘以開方除之得股長數其弦自乘數內有一勾自乘一股自乘數今減去勾自乘數餘是股自乘數故用開平方除之得股長數股弦求勾法曰置弦自乘內減股自乘餘以開方除之得勾濶數其弦自乘有一勾一股自乘數今減去股自乘數餘是勾自乘數故用開平方除之得勾濶數
+  hash: sha256:be9cf25f3b164942bd3e6d9474def7573bbd0b3bae96bef945e173d1fb06f41e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c8be6d3212b28b6719a43364b9efc2557ada08a32dec31244b877d2dcadb94cf

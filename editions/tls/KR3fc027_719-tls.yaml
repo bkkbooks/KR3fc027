@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/719
+seq: 719
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實若干餘實若干乃以二乘方法卽倍法也得若干爲廉法續商置第二位于上商之次得若干下法亦置續商若干爲隅法于倍方之次共若干皆與續商相呼除實盡得平方一靣数如不盡仍前再商之隅法者乃曲尺様二亷之角爲隅則小方也或数不及以法命之何謂之命若餘實若干不盡却以所商得平方数若干倍之再添一箇共得若干便商得靣方多一数也因此不及而爲之命平圓不盡数亦倣此其立方立圓不同若要還原如方田以面方自乘見積若還原過面方下原有不盡数者以面方自乘併入不盡数見積
+  hash: sha256:9210a2ba7d7b47655563230da17592ca7ebacc9c2a25a8af3a8e99a237d4584c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2095e907acbc9b1473c5e3f4fd4f9d8c3ad27a855ef0a398e2e74dc9b789bd44

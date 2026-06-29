@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1010
+seq: 1010
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有三角半堆果一垜毎靣上濶五箇底濶一十二箇問該若干荅曰三百四十四箇法曰亦用三角法先以底濶一十二箇求出全積三百六十四另以上尖虛底濶四箇求出虛積二十以减全積餘半堆積三百四十四箇一法上濶五箇自乗得二十五下法十二自乗得一百四十四上濶五乗下濶十二得六十又倍下濶得二十四加上濶五得二十九併四数共二百五十八爲實另以下濶十二減上濶五餘七加一得高八爲法乗實得二千令六十四以六除之合問
+  hash: sha256:d0a115e1fa2bfe90fa25b97447052479afdb60e7a4720d27b8de49600f9c993a
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b9ce1d76fb7f821028036bda8de70d05afc197db9386ab16db80cd4e1b7169ba

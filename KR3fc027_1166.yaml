@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1166
+seq: 1166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假如勾二十七步股三十六歩弦四十五步其求勾求股求弦容方容圓另具後圖勾股之法橫日勾直日股斜之爲弦勾二十七股三十六相減其差九日較勾股相並得六十三日和股三十六減弦四十五之差九日股弦較勾二十七弦四十五之差十八日勾弦較並勾股其三十六減弦四十五之差十八則日弦和較弦四十五減勾股之差九其差三十六日弦較較股弦相並得八十一則日股弦和勾弦相並得七十二日勾弦和勾股之差九並弦共五十四則日弦較和勾股弦並得一百令八日弦和和倍弦實卽弦自乘倍之得四千令五十減勾股和自乘得三千九百六十九餘八十一爲實平方
+  hash: sha256:38ac1181bd2c35cd9690f18ab5dac2f05a35781d2deaf00770c32a703f46baef
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:dabb633dd249f648f24625c4c4f85363b98e8c34dbee2acbdf8027638fcf5f39

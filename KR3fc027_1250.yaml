@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1250
+seq: 1250
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 少廣一十五問歌八西江月六駐馬聽一商功三問歌二西江月一均輸一十四問歌十西江月二鳳樓梧一鷓鴣天一卷之十六盈朒一十三問歌九西江月二浪淘沙一鷓鴣天一方程四問
+  hash: sha256:d81664700f7b9101d034fdb0b18e2163a654aac2e4ca3cd1e81e531703643a6f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6d1c11d32b5dea30865b05cd207e303958fa4ca1227eaa14c8954a425a0f0d45

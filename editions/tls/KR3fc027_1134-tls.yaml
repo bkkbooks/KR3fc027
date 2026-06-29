@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1134
+seq: 1134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 左墨四筆二十一得四十二價八錢七分得一両七錢四分復以左行墨四爲法遍乘右行筆價得数列右位却以左右對減墨尽餘得筆一十八枝爲法又以餘價得数相減餘五錢四分爲實以法除實得筆價每枝三分就以筆價乘後右餘筆十五得四錢五分以減右行餘價四錢七分餘一錢二分以右行餘墨二爲法除之得墨價毎匣六分于前右行原價八錢一分內減原筆九價二錢七分原墨五價三錢餘二錢四分爲實以前右原硯三爲法除之得硯價毎箇八分今有馬一匹騾二匹驢三匹皆載四石二斗至坡皆不能上馬借騾一匹騾借驢一匹驢借馬一匹方過其坡問
+  hash: sha256:3107bcdb17042159237039f7f943d06b072c15fb39c19b2ee7bb1f3c36c165a8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ddec4a282b230f7210aeee9fc2f2dcc93dbc98df042ecbe1671f3bfc0f7b11d9

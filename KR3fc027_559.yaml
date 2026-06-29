@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/559
+seq: 559
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 猪六十七斤乘之得三千一百三十五斤六為實另以原稱錘二十六兩為法除之得一二六乃一百二十斤實數六乃斤下虛數用加六法加得九兩六錢是也原稱稱物八斤二兩因失去錘今欲買錘配稱不知輕重另將別錘重二斤五兩稱之原物只得六斤問原錘重若干答曰原錘重一斤一兩三錢法曰置後錘稱物六斤以加六法通之得九十六兩以後錘三十七兩乘之為實另以原物八斤二兩亦用加六通之得一百三十兩為法除之得二十七兩三錢合問
+  hash: sha256:b1aa295078641cfafbfed3cbe9821b6adebcf45b5115c18d008f9693ab7387f5
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3000b0fe63948d3456e03d9cbe6d71547e629a8f99e114f1fea79a545976e174

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/363
+seq: 363
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假如今有八五色五両六錢換九五色銀問該若干荅曰該九五色銀五両零一分零五毫法曰置銀五両六錢以八五乘之得日丙七錢六分爲實以九五爲法除之合問假如今有足色紋銀七両六錢五分傾出成色銀九両問色幾何荅曰八五色法曰置紋銀爲實以傾出色銀九両爲法歸之合問假如今有足色紋銀三十五両二錢欲傾八八色銀問用銅若干
+  hash: sha256:8f930b1280a7e2efee407a4d4c1b3fbbb0ed815e0e6dd2eecfd440f3a9c9c62f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f35b85a6d57132f9fb40a128ca2e7b464f55805aff2a0d1ebbb97768fb64efc5

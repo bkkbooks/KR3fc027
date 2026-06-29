@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1528
+seq: 1528
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有人支銀四錢五分又支三錢四分又支三両五錢問共該若干荅曰四両二錢九分法曰置九圖先呼四錢五分將銅錢置錢圖㢲四上次將五分置分圖中五上又呼三钱四分將錢圖㢲四移在兊七仍四分于分圖丙起中五移在離九上再呼三両五錢置両圖內震三上郝將五錢在于錢圖內兊七去五移在坤二上進一於両圖內震三移在㢲四共得四両二錢九分合問今有米五百七十六石每石價銀三錢問共該銀若干荅曰一百七十二両八錢
+  hash: sha256:7622802f6cbd0c61b35185d1716d6e84b76695771025b509317e83f061a766ac
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d4abcd6d40344c0b02dae6f95d0a160275aa1eb00b8acfde13c1288f7f18583f

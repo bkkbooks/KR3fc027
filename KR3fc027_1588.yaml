@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1588
+seq: 1588
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰一百六十両法曰置總米爲實以毎銀糶米二石五斗爲法除之得数莫動却從寅上起百石卯上得十石辰上得石就以石前卯上定両逆陞前寅上得十両過前一位丑上卽百両也假如有米四百石用船脚銀三十両問毎石該銀若干荅曰七分五厘法曰置銀三十両爲实以米四百石爲法除之得数莫動此乃法多实少却從寅上起原实十逆陞上五位遇法是百止過前一位子上得令是両復轉順下降丑爲錢降寅位卽得七分卯位是五厘也
+  hash: sha256:f1bb68532e7304a16fa191723483f3cf19dd9a0e232ca5e10f15765a097fbe34
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4adec1a883877bf9a5623eb2cbeed03f037bc006ee2dc93ef1861975aa3bafd9

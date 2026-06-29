@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/349
+seq: 349
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二升亦得此法雖易知之恐愚拙者法則難於取價須用先乘後除其法㨗玅異乘同除互換㨗用法圖歌曰此法有四隅内有一隅空異名斜乘了同名兌位除詳此歌知此異名乘問名除
+  hash: sha256:b559ba1262339ba3072211183cbf24acd94924dcd1c944445f55752b8466bf9f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:55f5ea2520a578e9d68900de7fcdf21260c9c72afddb527b1fd61e56e318e5b4

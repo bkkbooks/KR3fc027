@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR3fc027/bkk/v1/markers/1612
+seq: 1612
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc027_tls_001-p410.s10}
+  - {type: line-break, offset: 0, content: '', id: KX_10_dup388, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3fc027_tls_001-p410.s11}
+  - {type: line-break, offset: 15, content: '', id: KX_11_dup33, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: punctuation, offset: 29, content: □, id: KR3fc027_tls_1612-bkkpn1}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR3fc027_tls_001-p410.s12}
+  - {type: line-break, offset: 29, content: '', id: KX_12_dup385, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 44, content: '', id: KR3fc027_tls_001-p410.s13}
+  - {type: line-break, offset: 44, content: '', id: KX_13_dup391, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: punctuation, offset: 49, content: □, id: KR3fc027_tls_1612-bkkpn2}
+  - {type: 'tls:seg', offset: 58, content: '', id: KR3fc027_tls_001-p410.s14}
+  - {type: line-break, offset: 58, content: '', id: KX_14_dup385, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 73, content: '', id: KR3fc027_tls_001-p410.s15}
+  - {type: line-break, offset: 73, content: '', id: KX_15_dup383, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: punctuation, offset: 76, content: □, id: KR3fc027_tls_1612-bkkpn3}
+  - {type: 'tls:seg', offset: 85, content: '', id: KR3fc027_tls_001-p410.s16}
+  - {type: line-break, offset: 85, content: '', id: KX_16_dup381, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 100, content: '', id: KR3fc027_tls_001-p410.s17}
+  - {type: line-break, offset: 100, content: '', id: KX_17_dup378, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: punctuation, offset: 100, content: □, id: KR3fc027_tls_1612-bkkpn4}
+  - {type: xml-element, offset: 100, content: '', id: KR3fc027_tls_1612-bkkxmlele1, name: p, role: close}
+  back: []
+hash: sha256:d66ead2712ee8bf676d2adecca62a225be49ea010e6f5d5926804e2177f04a01

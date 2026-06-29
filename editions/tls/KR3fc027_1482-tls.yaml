@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1482
+seq: 1482
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一十八歩八分以畆法二四除之合問南北均濶一十二歩卽六丈也歌八尺爲股六尺勾內容圓徑怎生求有人識得如斯妙筭舉方爲第一籌荅曰內容圓徑四尺法曰置勾六尺以八尺相乘得四十八尺倍之得九十六尺爲實另以勾六尺自乘得三十六尺以股八尺自乘得六十四尺相併得一百尺以開平方法除之得弦一十尺加勾六尺股八尺共二十四尺爲法除實得內容圓徑四尺合問歌
+  hash: sha256:e88c48bc65b198239d73aa744e286b3aa310f80f8a00bd2f0ba5043fe24c460e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:eeea0133b30fb009a709bb9b3b203776acd5fe746be4b3f405dbe8795d6b5a24

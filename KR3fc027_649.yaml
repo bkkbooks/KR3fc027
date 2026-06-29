@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/649
+seq: 649
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置六分之五四分之三以母四互乘子五得二十為次兄之差又以母六互乘子三得十八為小弟之差又以母四六相乘得二十四為長兄之差另以二十减去十八餘二為法先置長兄差二十四以八歲乘之得一百九十二為實以法二除之得九十六為長兄之歲另以次兄差二十以八歲乘之得一百六十為實以法二除之得八十為次兄之歲另以小弟十八亦以八歲乘之得一百四十四為實以法二除之得七十二為小弟歲數合問今有七人差等均錢甲乙均七十七文戊巳庚均七十五文問丙丁各若干
+  hash: sha256:29520f4ba01e280f50a0c0b113de80bfcb7fddcb82ae189c47b4e831cb65f778
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c9464cc8cf51996557fb840b78bf3ad1f8a3c13b8b5752da78bc3918c49ee668

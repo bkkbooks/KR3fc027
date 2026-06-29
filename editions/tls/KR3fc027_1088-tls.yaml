@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1088
+seq: 1088
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以出五錢减出四錢餘一錢爲法除銀實卽銀数除人實卽里数合問今有井不知深先將繩摺作三條人井汲水繩長四尺後將繩摺作四條入井亦長一尺問井深及繩長各若干荅曰井深八尺繩長三丈六尺法曰兩盈置長四尺以三條通之得一十二尺又置長一尺以四條通之得四尺各列置位三條四條互乘長一十二尺長四尺先以三條乘四尺得一十二尺又以四條乘長一十二尺得四十八尺二数相减餘三十六尺爲繩實却以三條四條相减餘一爲法除繩實得繩長另以前通兩盈数相减餘八尺爲井實仍以法一除之得井深数合問
+  hash: sha256:a41af0f8cc9894ac252ab38749ba7ecbfa4b7e1a954ca739dfcc15c89fc39d0f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e55a6dde2daa581962dcadcb41dbcfb02ff0590b79199ab50c4c7e71c873047d

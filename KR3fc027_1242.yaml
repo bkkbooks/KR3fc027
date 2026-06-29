@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1242
+seq: 1242
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有海島不知其高遠立表竿三丈推行六十丈又立短表三尺人目望其二表俱與島峯參合復卻推行五百丈又立表三丈推行六十二丈又立表三尺人目望其二表俱與島峯參合問海島高遠各若干荅曰島高三裏一百三十八丈島遠八十三裏六丈
+  hash: sha256:81911cd7b71ec15f100e265061ac1291284ef3c2a1e08a8f7a3d9b08bb1974e8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:64795a463794557efde2740adb84e85af4e88b2cc1a94a534377be9a4849857b

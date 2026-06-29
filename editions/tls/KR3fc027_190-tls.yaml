@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/190
+seq: 190
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五千五八得四十變五爲四千六千四萬四八三十二变四爲三下位加二萬七萬三十三八二十四变三爲二下位加四萬一百一八如八本位除去下位加八原實百萬起呼百往後順數至名合得百萬還原用八歸法詳後八一下加二八二下加四四下五除一逢八進一十八三下加六逢八進一十八四添作五八五六十二八六七十四八七八十六逢八進一十假如濕榖一千二百三十四石五斗六升七合九勺每石
+  hash: sha256:0b9f99848fee96325d5361f3455905f8ab326c71d17daff27a1d92e667977fda
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0f7b07b71d06ab0e8433c7a3047ae3a6984e359c3150e8083596800226b6d6e4

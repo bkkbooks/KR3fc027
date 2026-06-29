@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/821
+seq: 821
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置共積另置大立方靣多小立方面數自乘再乘以减共積餘積折半為實初商自乘再乘得數餘實訖次商若干併入初商共若干自乘再乘得數內减云初商自乘再乘數餘若干除實訖仍餘實若干倍之却以大多小數併入初次商數共若干以次商若干乘得數又以大多小數乘得若干却以三因之得若干除實恰盡得小立方靣數如多數得大立方靣數各以方靣自乘再乘得各積立方三所共積用三歸若四所共積用四歸餘傲此開立方法歌自乘為平方再乘為直方自乘再乘除實積三因初商方另列
+  hash: sha256:6e596c08d1986ef9629210b993b05b81742698ea0b7727bded514f98e4831b57
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8dbbca0247d4f7c2b6d14c7a9110d38094bbeec9a5c4023fcb9c37c8b521ddbc

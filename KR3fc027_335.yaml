@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/335
+seq: 335
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先日先將二十四日用三歸得八數在十月隔空一位之下再以十二月除之得九數如年以乘原本得二百三十四兩為實以每年加三為法因之合問解日凡算年月日期即似與兩求斤法减六同理每斤一十六兩减六只作一數每年十二月每月三十日故先用三歸如月併月後用十二除月如年以乘各人原本合得餘皆倣此圖式具左定盤算日月為年式法先三歸如月數法後二月一十除如年數四日逢六進二十本位去尽進二于左
+  hash: sha256:f92320ca9fc41723e773aec53dbae9e5425ae94b4411ee0efd6adba55f6da5e4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:121b44c470790eb6b084bc1b24ca4debf10f7160fcb004b33683ec4c9d06e5ed

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1510
+seq: 1510
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊法以九歸歸除减法俱例九位置九圖如何圖方攅凢数有九位者少常虚設其位者多今変立歸除圖二于右直排不論幾位皆可用也而無虛設位矣一筆錦歌巧筭一筆錦爲奇不用筭盤数可知垜積合總乘除法各行冩数莫差池
+  hash: sha256:bb1620906ac0f195703dc4b70c7da7d1c7023caa402af38689eeba8aa1d8a556
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:94aa3be20113a25a4ec8675573564d46f5b35f1b3533a12bf8ba9e436523336b

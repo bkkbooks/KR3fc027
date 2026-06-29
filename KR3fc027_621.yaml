@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/621
+seq: 621
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 却以六十三用三歸七因得一百四十七為乙衰却以一百四十七用三歸七因得三百四十三為甲衰併得五百八十五位者首位三以三因又三因再三因得八十一為戊衰却以戊衰用三歸七因得二百八十九為丁衰却以丁衰用三歸七因得四百四十一為丙衰却以丙衰用三歸七因得一千零二十九為乙衰却以乙衰用三歸七因得二千四百零一為甲衰併得四千一百四十一各以副併為法除實得一衰數以乘各衰如位數多者皆以三因首位用三歸七因以求下位衰數今有金三千兩令休績二縣金行鋪戶三七上納問各該
+  hash: sha256:c13a6ce5dbf0129640e0660d06f78773c16d53336a38f87a008a8dd30ff7700d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:977a89b8120cdf3cb04e20ecff41b861a11d10391422fedcea72f0de298c9897

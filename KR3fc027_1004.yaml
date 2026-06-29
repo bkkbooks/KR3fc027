@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1004
+seq: 1004
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一面尖堆只添一乘來折半積如常三角果垜亦堪知脚底先求箇数齊一二添來乘兩遍六而取一不差地要知四解盤中果添半仍添一箇隨乗此数來以爲實如三而一法求之今有酒瓶一垜底脚濶八箇長一十三箇問該積若干荅曰三百八十四箇法曰置長內減濶餘五箇折半得二箇半添半箇作三箇併入長共一十六箇以底脚八箇因之得一百二十八箇另以濶八箇添一箇作九箇乗之得一千一百五十二箇以三除之合問
+  hash: sha256:e6c4176dd65815152f2dadd582c95cbe9bcb0ab2738c3665f1a918b5cfce7f96
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4df8c7a9805d40527a2e52429ec343812cea18abed16ecd983e11ddd73789d59

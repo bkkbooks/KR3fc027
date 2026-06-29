@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1288
+seq: 1288
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歌足色黃金整一斤銀匠悮侵四両銀斤両雖然不曾耗借問却該幾色金荅曰八色法曰置金一十六両為實另以金加銀四両共二十両爲法除之合問歌足色紋銀十二両欲傾八成預忖量分両雖然添得重入銅多少得相當荅曰入銅三両
+  hash: sha256:05844cdc853da719757aef6b9d15843e5aa9c0be036d2ee09ba178af6d705fb1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:439566855238d7179c39f04f4916e8524d02641e92f278927ce7b109ee27815b

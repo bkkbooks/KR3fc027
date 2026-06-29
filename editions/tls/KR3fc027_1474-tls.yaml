@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1474
+seq: 1474
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得三十尺爲股自乘得九百尺另以一十六尺爲勾自乘得二百五十六尺併之得一千一百五十六爲實以平方開之初商三十自乘得九百除實餘實二百五十六以初商三十倍作六十爲方法次商四尺呼四六除二百四十又呼四四除一十六恰盡得三十四尺爲索長合問歌二丈木長三尺圍葛生其下繞纒之徐徐纒繞七週遍葛稍却與木稍齊試問先生能筭者葛長多少請君題荅曰二丈九尺法曰置木圍三尺與週七相乘得二十一爲股自乘得四百四十
+  hash: sha256:3683df530c3dc60075336ba84075ed115ca73f6557c2082f7271c795adb63a64
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b0603acfc017ef9ca2c5106fa01d0b26f2ee45b4ca8ede2c49247dd88a566a68

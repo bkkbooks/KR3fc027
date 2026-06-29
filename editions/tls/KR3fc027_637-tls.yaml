@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/637
+seq: 637
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四因得若干又將一等戸数以五因得若干併五等数共得五百四十衰爲法除實得二石一斗是第五等一戸所出数以二因得四等一戸所出数以三因得三等一戸所出数以四因得二等一戸所出数以五因得一等一戸所出数各以戸数乘之合問自五等起遁加二石一斗至一等止今有米二百四十石令甲乙丙丁戊五人分要將甲乙二人数與丙丁戊三人数以同問各該若干荅曰甲六十四石乙五十六石丙四十八石丁四十石戊三十二石法曰置總米爲實列甲五乙四丙三丁二戊一又併甲五乙四得九
+  hash: sha256:a483436785b9d98c6ec7ac5d8f901856508be7727fbe2821e07536e4e0157d88
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:60dde78e04ce98f51804ddca3797bc1125b0ec7d5edb41a6849ef92023f33258

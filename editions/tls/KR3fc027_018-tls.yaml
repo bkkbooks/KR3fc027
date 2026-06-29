@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 家藏善本將以公諸海內問序扵余深其善承先志而尤樂其實獲我心也刻既成遂書以為序康熈丙申仲秋既望族孫世綏再拜謹序
+  hash: sha256:2208411cfe499b98db3d06cd848f75775b9fb9e1190a56761c55731d31190531
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d31a97c2096730da6465c00fddbcd2bc5f92d67cc55778873ff6fa3293f28a1a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/239
+seq: 239
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若干答曰二百六十八步六分二厘法日置長為實以濶七步四分為法乘之合問定位法只認步下一位是法首步數逆上合得也法酋四分七步乘二厘三四一十二定位六分實尾三分三七二十一四六二十四下位是步也向前逆升合得八步六步六七四十二三四一十二步只認步下一位定法首位是步也六十實首三十三七二十一原實十起呼十往後至步合得二百
+  hash: sha256:b2d59e22077adc20d3cdbdacf0ca9e3f14ed5abc6a253ff2f8193b4ab637eb70
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fbb4fd2e2dd64a022bc261cad879daa3eca0e2bf42b4c27ff38a249f896b0290

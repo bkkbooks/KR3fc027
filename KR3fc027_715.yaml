@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/715
+seq: 715
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餘數續商隅又倍只依此法取空虛解日平方者乃方面自乘之積也開者以求方靣之數也一百一十定無疑者詷如積一百步可約方面十步巳無疑矣一千三十有零餘者謂積一千步可約方靣三十步有零也九千九九不離十者詷如積九千步約方靣九十步自乘九九八十一也一萬絻為一百步自乘得一萬步也此言約初商之訣再具商積于後開平方初商定首位訣是自乘之數也商一步積一步商一十步積一百步商二步積四步商二十步積四百步
+  hash: sha256:fc393f1a1a31725478b3e086e030774bdf4fb8b94eabdd824a38f463b8beda3a
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2d98242eeb1dc724659f05fba15965f181e427174e9a78df52828d1a99e57bfd

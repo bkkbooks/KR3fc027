@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/90
+seq: 90
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新安賓渠程大位汝思甫編集曾孫素亭光紳佩章甫較正蘊齊鈁洪聲甫參閲先賢格言改調西江月智慧童蒙易曉愚頑皓首難聞世間六藝任紛紛算乃人之根本知書不知算法如臨暗室昏昏謾同高手細評論數徹無縈方寸算法提綱習學之法一要先熟讀九數二要誦歸除歌法
+  hash: sha256:ca260bc0b772310a61caaa41df9b43227189ff71a022458d3d32fdda9d92b05d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0f7966da2a261f658aebd4c18497fed523cc0894f7eaf0f4976aaa0d506c2565

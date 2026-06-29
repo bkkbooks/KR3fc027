@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1052
+seq: 1052
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰五十三人共錢一千八百零二文法曰以八文併入六十文共得六十八文另置六十文于內減去入文餘五十二文再加長兄一人共得五十三人另以六十八文乘五十三人得三千六百令四文折半卽得今有中試舉人壹百名第一名官給銀一百両自第二名以下挨次各減五錢問該銀若干荅曰七千五百二十五両法曰置一百名减去第一名餘九十九名以五錢乘之得四十九両五錢以减一百両餘五十両令五錢爲第一百末名之数併入第一名給一百両共一百五十両令五錢以乘一百名得一萬五千令五十両折半合問
+  hash: sha256:130ffbbd3ee7e8777152cb25487c7e8fdfd24aaf39528bec32c3ea7c0709e8cb
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4e86d52bd5a062e269e10bc522e384198c42b2b0f12be4442ae7032c7187eaa5

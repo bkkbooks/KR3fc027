@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/245
+seq: 245
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 起二六一十二二六一十二下位是百也向前逆升合得八百實尾六步一六如六二二如四一六如六步只認步下一位定法首是百也五千二十一二如二一二如二十一萬實首二百一一如一原實百起呼百往後順數至步還原用歸除法詳後逢一進一十一二如除二一六如除六逢二進二十二二如除四二六除一十二逢六進六二六除一十二六六除三十六歸除凡二至九位數多者用此置物為實以價或分者為法
+  hash: sha256:dc8f8a688d57345b881b24f6cc070511f6a513b0c0b8f5fac597c37fcf64d550
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5b402cf2eeb010c3e63b603256d47823d13297a7383f7d9c8c0a50562bc48296

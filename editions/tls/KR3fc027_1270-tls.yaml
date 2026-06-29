@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1270
+seq: 1270
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 難題粟布二啞子買肉歌啞子來買肉難言錢教日一斤少四十九両多十六試問能筭者合與多少肉荅曰一十一両沒両該錢八文法曰置少四十加多十六共五十六爲實以多十六減両九餘両七爲法除之得八文卻以両九因之得七十二加多十六共得原錢八十八文以八歸之得肉一十一両合問解曰若買一斤少錢四十文若買九両多錢十六文老人問甲歌
+  hash: sha256:dece7b8f9443da46a2413af14d4ccea1920c78192b1acc181f84948fa3501beb
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:618090bcdbcca4ab857f9d1cb4f1ed7ea47890ae9ebced4c2d801501fcf9bec3

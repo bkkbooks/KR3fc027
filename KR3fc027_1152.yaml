@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1152
+seq: 1152
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四色方程歌附五六色倣此四色方程法可誇須存末位作根牙諸行乘減同前例偶與奇行認莫差若遇奇行須減價偶行之價要相加加減作實須加法減法亦須減法佳隨問幾多繁雜色憑斯推廣更無他今有瓜二箇梨四箇共價四分梨二箇桃七箇共價四分桃四箇榗七箇共價三分瓜一箇榗八箇共價二分四厘問各該價若干荅曰瓜八厘梨六厘桃四厘榗二厘
+  hash: sha256:28fa78ee2d3d58105df7be5bc44c405e445fb2e6efc656bdb05fd9f18838e5a0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:0bb08ebe3632e8cd5da362eeca0edd4877bc83592128dbcde380052c8bbf1268

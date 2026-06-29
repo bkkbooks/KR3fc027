@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/498
+seq: 498
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有八色金五十面用價銀二百兩今又換九色金四十兩問諛銀若干荅曰銀一百兩八十兩法日置九色金四十両以九因之得赤金三十六兩以價二百両因之得七千二百兩爲實另置八色金五十兩以八因之得赤金四十兩爲法除之卽得官粮帶耗歌官粮帶耗在其中一石例加七升同要見正米减去七隔位除之法更隆今有正米二百一十二石每石加耗七升問該耗米若干
+  hash: sha256:e7eeca8a666e3a2c04a3ec58cc8b5416f880bf968c9f39837b80b7d6ac188105
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7cfcc4313daacb0793a964764033c70ac1187ac5dc82ef13e188e1632765b502

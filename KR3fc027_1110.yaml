@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1110
+seq: 1110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實仍以前法一除之得田價三十七両合問取錢買物両盈歌附兩朒卽两不足取錢買物兩皆盈分子互乘分母訖以母通乘物價周封減盈錢爲物實物價互乘少減多乘子除爲錢實積率減零餘爲法行法實相除盡可識今有銀不知数欲買鹿取銀六分之四買之盈二両取銀四分之三買之盈三両五錢問銀数鹿價各若干荅曰銀一十八両鹿價一十両法曰先以之四互乘四分得一十六以通盈三両五錢得五十六両次
+  hash: sha256:f835d409f24a0def0a603b541010c39cb4c9000e14e28af0753e04787e5521c8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b021d1c68c8b9657ae872acd248903a5517c7d7b9f8dd69c905a0802fecb605e

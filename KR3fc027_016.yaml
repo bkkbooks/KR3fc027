@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 嗚呼公誠可謂神於算者矣然嘗恨夫坊刻既多舛誤不少矧于數學差之毫釐謬以千里每思欲一釐正之而苦於術之未習不敢妄有所更易今年夏公之魯孫佩章洪聲兩君子出其
+  hash: sha256:7dd00aafe4c8e8d77682e0199cb79a8f106284440677469a8601fedc4f399146
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:098467b52328d31923534ede31b5799761d069eadfcae4609167ab5377178ca5

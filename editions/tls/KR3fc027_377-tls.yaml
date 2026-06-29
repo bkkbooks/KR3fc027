@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/377
+seq: 377
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九分俱用分字五尺爲一歩依次而增至三十歩以上或四十歩以下可止篾上用明油油之雖污泥可洗又後制一式只用十字內中開槽畱頭不通中用木圓餅轉篾篾雖不散但轉起篾書皆挨擦損攘甚速總不如前制車式篾在十字十字轉動其篾安靜故難壤也方圓定制九圖首大約之其餘勾股用法詳解見後
+  hash: sha256:959ffbfe47532829dfe99a0a13c864aeadc555e270bfeee77c20ff5f0d63e569
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4ea1309f8436c290290fc5d777c2e2fa4b4ae3a282a44bcf42a053ece0af8695

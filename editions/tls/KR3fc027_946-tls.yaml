@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/946
+seq: 946
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除求之数减去矢餘存此卽是弧弦法日置積一百二十八歩倍之得二百五十六歩爲實以矢八歩爲法除之得三十二歩减矢八歩餘得弧弦二十四歩積求矢濶歌積求矢濶倍爲實弦爲縱方奠教遲商於左位右併縱前後呼除矢得冝法日置積一百二十八歩倍得二百五十六歩爲實以弦二十四歩於右爲縱方約商八歩于左亦置商八歩于右縱方二十之下共三十二歩皆與上商八相呼三八除實二百四十二八除實一十六歩恰盡得矢八歩
+  hash: sha256:f2915008f49b61d84ed03abac996253e8d5c69c904196afb33e6f189d3396bb6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fb73f0680b679c9d2f2d27b5525dbf79f76a1f0da9b0dcad05eb5b4c7d8bbaf5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/134
+seq: 134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之者就變法以四乘五得二十再以一十二乘之得二百四十就以二歸四除以代三次除也已上皆言算法變通之理乎開平方法者謂如平地四百皆然也如長十步濶十步自乘得積一百步開者以積求方面之數也此法別是一種有實而無法則商約而除之所以最難之法也今新增歸除開方而法之便矣開立方法者立者立起之方也如長十尺濶十尺自乘得一百尺再以高十尺乘之得積一千尺開者以積求立方每靣之數也有實而無法則商約而除之所
+  hash: sha256:b4d0a2258de2f1ec28bd00df0419c9cb5bd8557c99bddbb0982727ba7602340c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:16ec4647634f785c0a773862350d3c5231840f019237793c017f4fd626abfa94

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1590
+seq: 1590
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孕推男女法歌四十九数加孕月减行年歲定無疑一除至九多餘數逢雙是女隻生兒今有孕婦行年二十八歲八月有孕問所生男女荅曰生男法曰置四十九加孕月八共五十六减年二十八餘二十九减天除一地除二人除三四時除四五行除五六律除六七星除七不盡奇爲男偶爲女也一三五七九皆奇二四六八十皆偶如数多再以八風除八
+  hash: sha256:b2c358e9296af7ac8cd1a63964977c59e7146b6af9e6f817ba6095c86b7deb8c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:46bbd7146dadc73734434248c6e463067ab1504264e03401f84c16c1c8377a6a

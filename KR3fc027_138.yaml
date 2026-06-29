@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/138
+seq: 138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又十二字訣日乘從每下得術歸從法前得令定位祕訣凡定位俱從實上原首位數起至遇法首位乘則每數即斤兩貫丙石等類除則不拘斤兩貫箇千萬等類則止乘從每下得術術者乃法首位每下該得之名也從實上原首位赳往後順數至法首位每數則止于下位得法首每該之名是錢呼錢是石呼石是兩呼兩已上十百千萬已下厘毫合勺回向前數則升依數呼之歸從法前得令令者斤兩貫箇石等類亦從實上原首位起
+  hash: sha256:2cd936af92d62dc304d86c0784f549ab67147816756e64a2c30a8848d9478836
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:00f532c8e929fe354fb0fa31b082ac4395a11a4b2e9ed5f41dc3223943a90b53

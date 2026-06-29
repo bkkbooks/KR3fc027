@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 度量衡畆諸物輕重數錢鈔名數定筭盤位次實左法右論九九便蒙九九合數九歸歌因乗論九歸論商除論加法論減法論約分論通分論異乗同除論異乗同乗論異除同除論開平方法論開立方法論倍折二法論定位總歌定位秘訣直指定位訣定法實訣歸除法實假如總訣九歸釋義
+  hash: sha256:8d2b82a0cd782d2ce0748333eb3e2e05a14358c404fa3e6b13e079093e851b97
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b880af22e352ff57f84e537359cb246a001dfe98dffaf0cdc0d4d4ee1945d7c0

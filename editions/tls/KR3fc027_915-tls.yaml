@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/915
+seq: 915
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方法除之得截長四十五歩就以原來濶三十歩乘之得一千三百五十歩爲實以原長七十五歩爲法除之得截濶一十八歩合問今有勾股田股長四十歩勾濶二十歩今從大頭截積一百七十五歩問所截長濶各若干
+  hash: sha256:a68442db767868ee33a37b0a30ebc4db4953618ef66a2099a87bed7f3620feb8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c4a32b3145975943b0fde03eb87bb05630549d5c3ecb05104e91f39a051e74ea

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/873
+seq: 873
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三十六乘圎窖米命爲實積定無偏却用立方開見約方求長濶約爲先圎数求周爲約数各將約数自乘焉乘來爲法除實積便見深高法更玄今有米二千四百一十九石二斗欲爲方倉盛之問長濶高各若干荅曰長二十八尺濶一十八尺高一十二尺法日置米数以斛法二尺五寸乘之得六千零四十八尺爲實以開立方約之得濶一十八尺便約長二十八尺却以長濶相乘得五百零四尺爲法除實得高合問
+  hash: sha256:7853e34f9100d6abf546068fb0cb2888546f2e161f4d79d597dc8ed38dc31934
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d8d4e34f5252444b4518c0fbf39dd669ccccdc22c84b7f4ba8abed868de799f3

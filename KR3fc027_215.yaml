@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/215
+seq: 215
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答日一兩二錢三分六厘五毫法日置銀為實以羊八十為法歸之合問法八十歸實尾二分八四添作五變四為五五毫四錢八五六十二逢八進一十變五為六右位加二本位去八進一于左定位六厘八兩八二下加四逢八進一十本位不動右位加四本位去八進一子左兩三分實尾九十八一下加一逢八進一十本位不動右位加二本位去八進一子左原實起法上是八十遇十即止前一位得令是兩也二錢前位是兩也本位合得合得一兩還原用八因五八得四十六八日十八三八二十四
+  hash: sha256:39ad6ea901d48719164dfc39c2de39ea67f3ab800846e713cdf2ece16e6ba64c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6cf02bf5a597c16aee02f10d2223c598550192ba5ac465a761bbcd501d5a61f2

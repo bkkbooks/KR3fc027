@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/557
+seq: 557
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有綿花一百五十七斤半每花八斤十二兩換布一匹問該布若干答曰一十八匹法曰置花一百五十七斤半為實以八斤十二兩先將十二化作七五共八斤七五為法除之即得今有猪一口因無大稱以小稱稱之不及原稱錘重一斤十兩又加稱錘一斤四兩八錢稱得六十七斤問該公道正數若干答曰實重一百二十斤九兩六錢法曰置原稱錘二十六兩又加錘二十兩八錢共四十六兩八錢以共稱
+  hash: sha256:f467e728187e6423045a4da928bd2a610ff8b974b7ad90bbc0d0ac4e09e41638
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b579933b979c64139244509717708823d965a58aa409a149d6f9f562486509b9

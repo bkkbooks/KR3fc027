@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1262
+seq: 1262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 外週一百四十步法曰以畆法通田五畆二分得一千二百四十八步倍之得二千四百九十六步爲實以不及七十二步以六除得徑一十二步爲法除之得二百零八步以減不及七十二步餘一百三十六步折半得內周六十八步加不及七十二步得外周合問此是環田問周徑弧矢問難巳述七卷少廣章中故不重錄雙搗練長十六濶十五不多不少恰一畆內有八箇古墳墓更有一條十字路濶一步每箇墓週六步十字路濶一步每畝價銀二而五除了墓除了路問君該剩多少數
+  hash: sha256:b94fee775cd33d632e292e8657abe29d75265187e09a1f95a08fa7387afea32e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:444d98db9d9eed4b8d3044ea57f6e6a6a922d6c12a80360c8fb80a6edb17874b

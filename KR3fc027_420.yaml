@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/420
+seq: 420
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假如錢田外周二十七步徑三步內錢眼方周一十二步問該積若干答曰五十一步四分步之三步之三即是七分五厘也原法日置外周二十七步自乘得七百二十九步以圓法十二除之得六十步七分五厘以减內方周十二自乘得一百四十四步以方周法十六除之得內方積九步餘積五十一步七分五厘孤峯馬傑斷日錢塘算師吳信民編集此類世罕聞孤峯裁攺隺坡校錢田之法有差爭傑論此錢眼方周一十二步中間明有跡一十六步何
+  hash: sha256:f4958a18eb3965f02a41815a5aea88f7404a68cab7f0c129f1d9182823c498de
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ed859a7e828ac5a4689395a5d87a91fc9d4e49be9f663c5cf47acc1235fae99c

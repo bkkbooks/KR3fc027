@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/452
+seq: 452
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其勾股折半之法據理推之即是東北勾濶折半倒上以凑東南如直又將東南股尖一半倒下以凑西北如直但折半之法折長不可折濶或折濶不可折長切不可一槩尽折相乘實差一倍
+  hash: sha256:26b0157ef2e7ae041ca34cb857c5905bb0a87846bca67002a27f7db57be1039f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8fc01bad24288422e8b6fcd7a10e967fee5480865942413ae5d65d7c4cdf8f18

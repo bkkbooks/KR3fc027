@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1330
+seq: 1330
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歌甲乙丙丁戊分銀一両五甲多戊錢三互和折半與荅曰甲三錢六分五厘乙三錢三分二厘五毫丙三錢丁二錢六分七厘五毫戊二錢三分五厘解曰甲多戊一錢三分也法曰此互和减半置分銀一両五錢爲實以例用一分三分五分七分九分併之得二錢五分爲法除之得六錢乃首尾之数于內减中多戊一錢三分餘四錢七分折半得戊二錢三分五厘仍加多一錢三分得
+  hash: sha256:b7b4421c7ee9a4a716fa7741932de98f5681add4ae8a3ed2d15c7ce2cbc94bb6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:469e3215081607eea02480f9a86c1558e5ef816b06785ac69b680e6457d18c66

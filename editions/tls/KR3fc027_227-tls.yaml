@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/227
+seq: 227
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 還原用歸除逢六進二十二四如除八二五除一十三二六十二逢六進二十四八除三十二五八除四十三二六十二四六除二十四五六除三十假如今有銀三十五両八錢每銀一両糴米二石四斗六升八合問該米若干荅曰八十八石三斗五升四合四勺法日置總銀爲實以每両米数爲法乘之合問定位同前八合六开
+  hash: sha256:73e8a24aa8eb3b9f93e533150c28b318ea3342c2f3d057537cf4e55e9b473f0f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fac3a43b88bd289ab72582df4afea8de0a68678ab51856539772b06727835181

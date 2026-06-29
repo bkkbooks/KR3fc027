@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1240
+seq: 1240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不盡著乃前後表両界之中名表問積所以古人以表高減人目四餘六尺乘爲實以前圖小餘股五尺減後圖大餘股八尺餘三尺爲法除實得弦外之高卽木上節三十尺加表高十尺得木高四十尺本是大小容積相減餘爲實以大小餘股相減餘爲法除實得弦外之高加表高十尺爲木高也
+  hash: sha256:75e0bc21dd209686c1c64e8fae775f5292e78a8b360f1cec5f41268c35b356b2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2b0692aada78effaa79e6a238197d8dec4bfdab974ccc948137231b86c6604c3

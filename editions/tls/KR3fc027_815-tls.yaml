@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/815
+seq: 815
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小隅積餘積折半是一段小方積一段長濶廉積就如一段直田用帶縱開平方法除之求出一段小方面数加多歩爲大方数也今有大中小方田三段相併共積八百歩只云大方田靣比中方靣多四歩中方田靣多小方田靣四歩問大中小方靣併積各若干荅曰大方靣二十歩計積四百歩
+  hash: sha256:12ba9b96c48471600b00464ed61930c1404d84c98849709cd64b2e588085517e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:bade84dbd18fec7d71442935c2f21ece9c6191b82fb4eb62c48268e0828416e9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1426
+seq: 1426
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乙羊四十五隻又以甲一百七十一内减乙羊四十五餘一百二十六折半得甲羊六十三隻合問原法置甲七分乙五分各以九乘之亦得鳯樓梧甲趕羣羊逐草茂乙拽肥羊一隻隨其後戲問甲及一百否甲云所説無差若得這般一羣凑再添半羣小半群得你一隻來方立機奧玅誰叅透荅曰甲羊三十六隻解題甲羊三十六隻爲一羣借一羣亦三十六隻再借小半羣九隻又凑一隻共石隻也法日置羊一百隻减乙羊一隻餘九十九隻爲實併羣率原一羣又
+  hash: sha256:9e9b30625faa432272dc85ee0567da35225cc668b9b92d7084819480e3965765
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:cad6ec86c3fde2b8e10723d41a27d7d8f74e754ae9a36bbc2c2b23c3d2a82b33

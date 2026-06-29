@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1338
+seq: 1338
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰大船一十八隻裝塩三千引小船一十八隻裝塩一千三百五十引法曰列置四隻三隻三百五百先以左上三隻互乗右下三百引得九百次以右上四隻互乗左下五百得二千併之得二千九百爲法列置三四乗得一十二隻以乘總塩得五萬二千二百爲實以法除之得十八是大小船数先以大船塩五百因之得九千再以船三隻歸之得益三千引又置小船一十八隻以塩三百因之得五千四百又以船四隻歸之得塩一千三百五十引合問增錢剝淺歌擔作擔亦作儋今從担通用隣家有客亂爭喧相見問其所以然
+  hash: sha256:8b924408c6c178a83d4a4434f5b8c493632498747fd3f54f77d84a00e997ea36
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:8d3b893fcdf67bf981ffe0cc2bb0adeb6629f24e2b3318976c65cfc7ce25e181

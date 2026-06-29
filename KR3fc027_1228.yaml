@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1228
+seq: 1228
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 高十尺得木高四十尺合問解曰木高如股是上節三十尺表高十尺減人目四尺餘六尺是餘股木至表末加勾二十五尺表後推行五尺是餘勾木頂斜至表末如弦表末斜至人目是餘弦弦之內外分二段勾股其勾中容橫股中容直二積皆同各一百五十尺以餘勾五尺除橫積一百五十得積外之股木上三十尺加表高十尺卽木高
+  hash: sha256:8c6c057af69f17d6d47a7b7d961690c5768a950e1b42b9a40a4e95446e9a80e1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:def1e49500d916c98e764e2192fdaab135cdaf3a24de410e5e2f06d75dfeadcf

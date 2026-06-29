@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1332
+seq: 1332
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲三錢六分五厘互和甲戊共得六錢折半得丙三錢互和加甲三錢六分五厘共得六錢六分五厘折半得乙銀三錢三分二厘五毫併丙戊共五錢三分五厘折半得丁二錢六分七厘五毫合問西江月羣羊一百四十剪毛不憚勤劳羣中有母有羊羔先剪二羊比較大羊剪毛斤二一十二両羔毛百五十斤是根苗子母各該多少荅曰大羊一百二十隻小羊二十隻法曰置羊一百四十以大羊剪毛一斤二加六爲一十八両乗之得二千五百二十両以减共煎毛一百五十斤亦加六爲二千四百両餘一百
+  hash: sha256:3ec12a329a15cfcacd3899ba7f7c7563c747f0f53bde250443485ea872f403d6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f707aa4ddb885d72d25a09fcf01ac3dcf67f49fde9be1074780c6fbcf2b81bab

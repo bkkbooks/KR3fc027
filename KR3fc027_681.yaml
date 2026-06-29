@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/681
+seq: 681
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有金九塊銀十一塊稱之適等交換二塊則餘金比換銀多一十三兩問金銀各重若干答曰金一塊重三十五兩七錢五分銀一塊重二十九兩二錢五分金九塊銀十一塊各共重三百二十兩七錢五分法日列金重一十三兩折半得六兩五錢乘金九塊得五十八兩五錢為實却以金九銀十一相减餘二為法除實得銀一塊重二十九兩二錢五分數另置銀十一塊以六兩五錢乘之得七十一兩五錢為實仍以前二為法除之得金一塊重數合問貴賤差分歌
+  hash: sha256:5c01d79877eb50d0e04068a8c1522e243d8cf365fc6bc116e05dc330dd8bf132
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ac726a918df997182807745dcadba96e2eac687e64cf23a2f2355df6f3004fbe

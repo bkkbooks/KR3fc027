@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1344
+seq: 1344
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 管三套五爲期定問君多少配成完荅曰管套各得一十五萬五千六百二十五箇管竹五萬一千八百七十五竿套竹三萬一千一百二十五竿解題共有短竹八萬三千竿毎一竿截作筆管三个毎一竿截爲筆套五個問各該用竹若干裁截配合成筆法曰置竹八万三千爲實以管三套五併作八爲法除之得一万令三百七十五又爲實另以管三乗套五得一十五又爲法乗實得管套各得一十五万五千六百二十五个列置問管竹以三歸之問套竹以五歸之合問
+  hash: sha256:18769d741b56d0fea9048fbc605d2fe7f9b139971665ac86455128713d71b16b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2d54ea0096835a5e1b34a8d2786df19e1a721a64f74aaf1db28819c8f26a59ea

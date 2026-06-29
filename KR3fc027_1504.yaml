@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1504
+seq: 1504
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右直冩爲法法實相呼填冩格內先從末行起依次相乘逆上至實首止得数從下右邉小数起亦是逆陞向前遇十進上合問法疋價五千六百七十八文五五二十五五六得三十五七三十五五八得四十三五一十五三六一十八三七二十一三八二十四四五得二十四六二十四四七二十八四八三十二共銀二百四十六萬九千巳上二欵名曰冩乘格如樓梯巳下二問名曰冩除圖式與前不同今列于左
+  hash: sha256:dadcff3e248af1e9a69c228fe122a38c1795186571d0b26b9a7c157c5703befc
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ee35df62317a2e5cc51881f3804445894e58fd8e867b3a279cfc95a9f2fcf59c

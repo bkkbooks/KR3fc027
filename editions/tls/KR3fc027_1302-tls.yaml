@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1302
+seq: 1302
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行程减等歌三百七十八里關初行健步不爲難次日脚痛减一半六朝繞得到其關要見毎朝行里数請公仔細筭相還荅曰初日一百九十二裡次日九十六里三日四十八里四日二十四里五日一十二里六日六里法曰置三百七十八里爲實列置衰一二四八十六三十二併得六十三衰爲法除實得六里爲第六日之数逓加一倍合問浮層增級歌
+  hash: sha256:839bb7a1e8abe1c5af40cd12998305b21cc06f78c0b3b102cb07e3ca1f70d9c1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:92b07cc694dc385552445aaf3f785ee8292eec9eb2e83b6bf83b853e4c567b21

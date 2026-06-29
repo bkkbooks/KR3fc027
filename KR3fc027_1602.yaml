@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1602
+seq: 1602
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 刻未果去年道過虞山購淂家藏元本囙與徔第鈁重加釐訂付諸剞氏用廣嘉惠浚學之志嗚呼是書之作也葢非偶然矣先府君穎悟過人詩文篆法偹極工妙然皆無意出之獨研窮筭學自少至老不少傣怠以謂痀偻承烔尚不以萬物易其所好矧專精一業思信今而傳後顾可鹵莾爲之凡吾之孳匕不釋良以是也光紳不
+  hash: sha256:c358bb0fce902c0d7f3a41ae570ba70e3392fbadc726325299f160715a3a34ca
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e466f229f9d59b1e38939fda971c35256b99ff5de056de11fc6eacdfde14dd4f

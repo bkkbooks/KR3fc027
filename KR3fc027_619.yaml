@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/619
+seq: 619
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 衰一百七十為法除實得一衰之數以乘各衰即得若五等亦只加衰用法如前三七差分法日各以三為首就以三因或又三因再三因務求得宜為首衰却用三歸七因以求各衰二位者首位三次位七併得十三位者首位三就以三因得九為丙衰却以九用三歸七因得二十一為乙衰却以二十一用二歸七因得四十九為甲衰三位併得七十九衰四位者首位三以三因得九又三因得二十七為丁衰却以二十七用三歸七因得六十三為丙衰
+  hash: sha256:cffb1e9670605d1ddde17fc28e928cb0134ae8a382b151080cffd05fc0638d9e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:683f6c274ed6cf6d8f98fabbbb987b36f0d5581b45e79d385fc454656ad91ec2

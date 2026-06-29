@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/958
+seq: 958
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 高以乗之長又續又以長乗二以爲城積甚分明五因其積三而一此是堅求壤法行穿地四因爲壤積法中仍用五歸成穿地四尺爲壤五尺爲堅三尺壤是虛土也堅是实土也穿地求壤五因求堅三因皆四歸之壤地求穿四四求堅三因皆五歸之堅地求穿四因求壤五因皆三歸之城垣堤溝求積併上下廣折半以高深乗之又以長乗之得積方臺求積上方自乗下方自乗另以上下方相乗併之
+  hash: sha256:bb9668dd6e9fb17328705e7d6990f904efb0131c360782c6a21a12fb831348e4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:04b6a50fc4bf74e91dbe7130fc96c077c375cd4129766cd99b5b60d629c6fa59

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/231
+seq: 231
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三八除二十四二一添作五四五除二十五六除三十五八除四十二一添作五逢六進三十四八除三十二六八除四十八八八除六十四假如今有米三百四十五石每石價銀四錢外牙用三厘問該銀若干答曰一百三十九兩零三分五厘法日置總米為實以每石價併牙用共四錢零三厘為法乘之合問定位同前三厘
+  hash: sha256:f0a8cdffb123b7510717d0a2bb54da1928799ac5c3f762ce98be46bcc80ba227
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:aa4a0973bbe775bfadeb935c235ef99e18698e34859e491ad98467fa4103c4b4

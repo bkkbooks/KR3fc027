@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1420
+seq: 1420
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 貼回銅錢六百文收布一十五半疋不知每疋賣幾何只言每疋長四十荅曰一貫二百文法日置布三百疋以稅二尺乘之得六百尺另以收布一十五疋半以疋法四十尺乘之得六百二十尺以减該稅六百尺餘得多稅二十尺爲法以貼回錢六百文爲實以法除之得每尺價三十文以乘每疋長四十尺得一貫二百文合問雞兎同籠因前九卷均輪章内巳有故不重述鹧鸪天三足閣魚六眼毚共同山下一深池九十三足亂浮水一
+  hash: sha256:72facda6eca625a9b47c8e35668eebdd71106f8f534cc17c8c7241252874055b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a71998774c6f5c7c771e2128b386720d971d84d37b4ebd8415ebed9fc30092c2

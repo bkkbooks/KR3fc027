@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/470
+seq: 470
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 帶分母用約分者今有直田廣二歩二十分歩之九縱九十七歩四十九分歩之四十七問該積若干荅曰一畆法曰置廣二歩以分母二十乘之得四十加分子九共四十九另以縱九十七歩以分母四十九乘之加分子四十七共四千八百以乘廣四十九得二十三萬五千二百爲實又以分母二十乘四十九得九百八十爲法除之得二百四十歩以畆法除之合問今有圭田廣五歩二分歩之一縱八歩三分歩之二問該積若干
+  hash: sha256:42b4657c07883d54956c0802de8cc61fdf4fd9a5217e30ae01bb08a5be465ff8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6e9093593decd8725b1f8247ac46ffc95f8bd3c27e71ff19b04df62d51963eb7

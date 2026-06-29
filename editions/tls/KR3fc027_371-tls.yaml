@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/371
+seq: 371
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 梯斜両頭相併折長乗便見積分明三廣倍中加二濶四歸得歩以長乘弧矢弦長併矢歩半之又用矢相乘牛角眉田長歩併折半還將半徑乗二不等併東西歩折半仍將濶歩乘蛇船三濶同相併三歸得歩以長乘四不等田分兩段一爲勾股一斜形田形不一須推類二四除之畆數明丈量之法以五尺爲一歩每歩自方五尺計積二十五尺也以五尺計之歩下五寸爲一分一寸爲二厘若以長濶丈尺問積就以法实加倍相乘
+  hash: sha256:3378297e3593a4691c77be8764c5c623e3d712be631bbb03e23d9bfa0969b69f
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9f7fcaff9d04c315b5392ba16848c224fb9ae60ab98d8e013549da3855814679

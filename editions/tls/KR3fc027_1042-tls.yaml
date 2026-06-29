@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1042
+seq: 1042
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蔴五斗六升米六斗三升豆七斗二升法曰先置蔴豆價相乘得六斗三升退位爲米数又以米豆價相乘得五斗六升退位爲蔴数再以蔴米價乘之得七斗二升退位爲豆数各以價乘之合問但相乘数多者爲賤少者爲貴可以辨之原有人挑茶九十斤行道五百里脚銀九錢今挑一百二十斤行道三百里問該銀若干荅曰七錢二分法曰以今挑荼一百二十斤乘今行三百里得三百六十又以脚銀九錢乘之得三両二錢四分爲實另以九十斤乘原行五百里得四百五十
+  hash: sha256:5b7112ffcb724354109e33f3c15c340a851a20821f86e37066b6b6861bad20f1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:10b3dc752c1344daa13985aa474bb7fc8dc73039b70091e08626e86e69a7775e

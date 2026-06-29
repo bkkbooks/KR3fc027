@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/701
+seq: 701
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仍用前長法一錢八分除之得一錢二分五厘為短法列二位一位七斤乘之得小魚八十七斤半一位以五分乘之得小魚價六錢二分五厘合問今有圓木大小二根內大者一根頭徑一尺二寸稍徑八寸長二丈五尺小者一根頭徑一尺稍徑七寸長二丈共價銀四十九兩零八分問大小木各價若干答曰大木三十一兩二錢小木一十七兩八錢八分法曰先置大木頭徑一尺二寸自乘得一百四十四寸又將稍徑八寸自乘得六十四寸併之得二百零八寸以長二丈五八乘之得積五萬
+  hash: sha256:7e026314bc71efd142b58cbef639e67e13a2f3a7eefc6a187325d2c23e68de84
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4d36c96b4a65dce1886363157f711c755cb594bde760d494d2906fa2e0dd067e

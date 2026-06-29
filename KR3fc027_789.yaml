@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/789
+seq: 789
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一十二恰盡合問今有圓箭一束外周三十六根問總積若干答曰一百二十七根法曰置外周三十六于左亦置三十六于右加內周六共四十二相乘得一千五百一十二為實以圎束法十二除之得一百二十六加中心一合問凡圓物乃是六箇周中包一以六婦外周即知層數也目內之外每層加六自外之內每層减六今有三稜物九十一箇問外周若干答曰外周三十六箇
+  hash: sha256:79fa6b11df31d6cef16d48f2ddb2da042d0a30d7d6f9bab1ad4039707dcd5b04
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:47f833beb4cfd1a734d1bdd01939209c28526af58163672e9bc12371862ede1a

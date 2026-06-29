@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/631
+seq: 631
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有絹七百二十匹令甲乙丙三人依等挨次分之問各若干答曰甲三百六十匹乙二百四十匹丙一百二十匹法曰置絹為實以甲三乙二丙一併得六衰為法除實得一百二十匹為丙所得數以二因得乙數以三因得甲數合問今有銀九十二兩分散四子依等挨次分之問各若干答曰長子三十六兩八錢次子二十七兩六錢三子一十八兩四錢四子九兩二錢法曰置總銀為實以長子四次子三三子二四子一副併得十衰為法
+  hash: sha256:8ffb10f6b33b21fc38d200739828e68637a7e43077242bfce328efc9157b5641
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a04d60e960bc24f81ebb4b4b59b112dbd58d236cba9b2d7e323fcedd91cd375f

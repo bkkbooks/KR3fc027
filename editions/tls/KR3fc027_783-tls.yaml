@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/783
+seq: 783
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各要臨時添一数卽中心也束積推詳数可成今有方箭八十一根問外周若干荅曰外周三十二根法曰此是八箇周中包一置方箭八十一根减去中心一根餘八十根以十六乘之得一千二百八十根爲實于中位以八爲縱列于右位用帶縱開平方法除之初商三十于左位下法亦置三十于右縱八之上共三十八左右對呼三三除實九百又左三對右八呼三八除二百四十就以下法初商三十倍作六十不倍縱次商二于左初商三
+  hash: sha256:bfb0fd0011311b70f3916e150e61692e0a02c4fc2ce2a837fcd2dd5dda031544
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:6c8cac8a2dca85c8c021aa11340644d0d54e986a97a2e8fafc47afc73be1f09a

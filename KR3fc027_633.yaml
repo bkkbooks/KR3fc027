@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/633
+seq: 633
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除實得九兩二錢為四子所得數自下而上各加九兩二錢合問今有金八兩一錢欲挨次造套鍾五箇問各重若干答曰大號二兩七錢二號二兩一錢六分三號一兩六錢二分四號一兩零八分五號五錢四分法曰置金為實以五四三二一副併得一十五衰為法除實得五錢四分為五號鍾重數自下而上各加五錢四分合問若造禮樂射御書數六號杯置總金為實以六五四三二一副併得二十一衰為法除實得數字杯重若干自下而上各加數字號杯重若干合問
+  hash: sha256:344a299ccda0671d0de46719ad6b1e2caf7f4aaae0fb4e96afcbca1446f263bc
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fda5772309791172b036318343b6f6e740d9ba5d78ed0a230aa4bebf90bc63e2

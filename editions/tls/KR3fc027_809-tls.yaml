@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/809
+seq: 809
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰方面圎徑各一十二歩法曰置共積以四因得一千零八歩併方四圎三共七爲法除之得一百四十四歩以問平方法除之得方面一十二歩圎徑亦同術曰四因方圓共積得四箇方積四箇圎積共四箇圎積恰折三箇方積故用七除得一箇方積以開平方法除之得方圎徑舊法四因共積得一千零八歩爲實以開平方法除之併方四圎三共七爲隅于下法初商一十以隅七乘得七十爲方法與上商一十相呼除實七百餘實三百零八歩另倍方法得一百四十
+  hash: sha256:fabe598209354d03c0b77f1f8f5428f48f3618ceb6d24121e4f50c500baa9ad2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:71dd15455655d27a5b6103430d341c268b19c308d3d32bb5af9ca146779e4333

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/911
+seq: 911
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三角截四角法日置每靣一十四歩六因七歸得中徑一十二歩另以每靣一十四歩與徑一十二歩相乗得一百六十八歩折半得積八十四歩爲實以三段歸之各得二十八歩却以每靣折半得濶七歩歸之得四歩倍之得中長八歩合問今有直田長一十五歩濶一十二歩今依濶截圭積四十直田截圭五歩問截圭長若干荅曰圭長七歩五分法日置截積倍之得九十歩爲實以濶一十二歩爲法除之卽得其餘圭積等截法俱用開放于左
+  hash: sha256:8f1c19ce632441dadd52ef03c81e669d14bca9bec72c9d7e26d90ad41b230cc4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:910451030eb6affdea7b3d699218ca26b1d86f5e5ef641ed80c2772a4b42444b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1430
+seq: 1430
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二人二日四升七一十三口要粮喫一年三百六十日借問該粮幾多食荅曰三十六石六斗六升法日置今喫粮三百六十日以乘一十三日得四千六百八十又以原喫粮四升七合乘之得二百一十九石九斗六升爲實以原三人乘二口得六爲法除之合問歌諸葛綂領八員將每將又分八箇管每管裏面排八陣每陣先鋒有八人每人旗頭俱八箇每箇旗頭八隊成
+  hash: sha256:63848effff8f09b209606158c832ca7ab922172f98eb8c71929b32b28e2d2a9a
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5b4042d9229062c8a673d24abd85094867599d9fc7689591e56e0c33c06b3ea3

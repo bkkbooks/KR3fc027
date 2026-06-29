@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/541
+seq: 541
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加三作八兩藝香一萬兩退作六百二十五斤因無兩數不必加也餘倣此還原五六加三二六加一十二六六加三十六以合萬兩今有心紅每斤價銀三錢八分問每兩價若干答曰每兩該銀二分三厘七毫五絲法日置銀三錢八分以截兩為斤法之即一退六二五或用十六除之亦同八分起八五本身八去三為五三錢三一八七五變本身三作一下位挨次加八七五今有水銀每兩價銀一分八厘五毫問每今價若干答曰每斤二錢九分六厘
+  hash: sha256:b489873f310fa982518f5e0c1ae5f3911eccc3d7da90067ab74a1ed6ea50a9e4
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e725ffc21340dceaf1d343532bd0742708267151bcb1e4903f9d2c4f9ee5e782

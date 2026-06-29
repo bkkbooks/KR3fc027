@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/86
+seq: 86
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又名九官八卦三三圖八卦內二七六太極為中五九五一併之以為九九五一宫之位此圖為更換前圖易換術曰九子斜排上下對易左右相換四維挺出先以上一對換下九次以左七對換右三換畢將四維二六四八挺出平直列三行即如前圖縱橫斜角皆積十五數求積法日併上下數一九共十以九乘之得九十折半得積四十五為實以三行為法除之得縱橫斜角皆十五數也
+  hash: sha256:68dde9fefc40f7c51ffc2397e752a4f0b5c4dc6122ebafc7823de6163f4a8886
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:97c5b6b46bfa42e468f50b24f6e50e97ed0fb055bcccbf589a7445ddc260d222

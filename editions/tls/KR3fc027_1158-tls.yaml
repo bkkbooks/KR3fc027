@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1158
+seq: 1158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 價合問今有絹三疋添價六錢買布十疋又布五疋添價一錢買絹二疋問絹布價各若干荅曰絹疋價八錢布疋價三錢法曰如前正負術之此問可作盈不足筭右絹三正爲法布十疋負價六錢正左絹二負布五疋得正十五價一錢正得三錢先以右行絹正三爲法遍乘左行布正五得正一十五價正一錢得正三錢卻以左行絹負二爲法遍乘右行布負十疋得正二十疋減左行布正十五餘五爲法價正六錢得一両二錢加左行三錢共
+  hash: sha256:342564514b3796711f5b920e67c72308ac8b7a2d42cdaf7ad261b08586f13bef
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c87dcae75db402dfaad0734bff0fc18d6a3323a3dee54e19c08dcb3b86e9ae69

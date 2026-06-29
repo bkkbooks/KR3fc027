@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1082
+seq: 1082
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩盈出率互相乘多减少剩是物情兩盈相减遺人實出率相减法之名法除物情是物價法除人實人数稱若問筭中兩不足與盈法例一般行法曰置所出率兩盈互乘各得若干以少减多餘爲物實另以兩盈相减餘爲人實又以出率相减餘爲法除人實得人数除物實得物数今有人買物毎人出銀三兩五錢盈六両毎人出三両三錢盈二両八錢問人数物價各若干荅曰一十六人物價銀五十両
+  hash: sha256:67929375bf90e1c3484b713e7f124f3a489105b184a9a7fbcd39682e40a0a63b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a9e93c4b2fdaa6eda0f01a99ce0aa977fda2122c54c614e541998fca5d1ccb65

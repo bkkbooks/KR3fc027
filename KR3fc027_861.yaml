@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/861
+seq: 861
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰高二丈三尺方倉三丈六尺法日置積二萬九千八百八尺為實以開立方帶縱法除之約實二萬商三十尺自乘得九百尺再以三十尺乘之得二萬七千尺又約商三十六尺自乘得一千二百九十六尺另置三十六尺减不及一十三尺餘二十三尺乘之得二萬九千八百零八尺除實盡得方倉三十六尺高二十三尺合問今有二乘方積二千零一十五萬一千一百二十一尺問一靣若干答曰六十七尺法日置積為實下法常起三位初商六十于左下法
+  hash: sha256:0b4fa279e416e3330f4fd66f0d12d5df9025efccf880cd3204ede8d531c29674
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:da613086fc62068876decd5a673405cdb21ef962dcea6234e2737725705c226e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/891
+seq: 891
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有直田長四十八步濶四十步今依原長截積七百二十步問截濶若干答曰濶一十五步法日置截積七百二十步為實以原長四十八步為法除之得截濶一十五步合問今有直田長四十八步濶四十步今依原濶截積七百二十步問截長若干答曰長一十八步
+  hash: sha256:283e2137bd9e4d6ef8d026b126d0a76bbe9aa8812965272f8063fc0bdcac1dd1
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:65b37f4443860333915054cdf3d38266fc1c94514087ccfb3507e08b2edf72be

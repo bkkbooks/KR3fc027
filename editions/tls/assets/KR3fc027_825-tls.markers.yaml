@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/markers/825
+seq: 825
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc027_tls_001-p212.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup199, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3fc027_tls_001-p212.s2}
+  - {type: line-break, offset: 15, content: '', id: KX_2_dup209, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR3fc027_tls_001-p212.s3}
+  - {type: line-break, offset: 28, content: '', id: KX_3_dup208, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 43, content: '', id: KR3fc027_tls_001-p212.s4}
+  - {type: line-break, offset: 43, content: '', id: KX_4_dup206, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 58, content: '', id: KR3fc027_tls_001-p212.s5}
+  - {type: line-break, offset: 58, content: '', id: KX_5_dup207, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR3fc027_tls_001-p212.s6}
+  - {type: line-break, offset: 75, content: '', id: KX_6_dup205, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 92, content: '', id: KR3fc027_tls_001-p212.s7}
+  - {type: line-break, offset: 92, content: '', id: KX_7_dup199, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 109, content: '', id: KR3fc027_tls_001-p212.s8}
+  - {type: line-break, offset: 109, content: '', id: KX_8_dup202, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 126, content: '', id: KR3fc027_tls_001-p212.s9}
+  - {type: line-break, offset: 126, content: '', id: KX_9_dup194, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 143, content: '', id: KR3fc027_tls_001-p212.s10}
+  - {type: line-break, offset: 143, content: '', id: KX_10_dup202, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  back: []
+hash: sha256:a788bf240cd30097aa8b71f6dade8b8b34a5164104c9caeddd73fd53176700af

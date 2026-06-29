@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1300
+seq: 1300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除之毎両得五寸以乗各出麻合問誦課增倍歌有箇學生心性巧一部孟子三日了毎日增添一倍多問君毎日讀多少荅曰頭一日讀四千九百五十五字第二日讀九千九百一十字第三日讀一萬九千八百二十字法曰置一二四併爲七衰爲法以孟子字数三萬四千六百八十五字爲實以法除之得四千九百五十五字爲頭日之数之爲第二日数又倍之爲第三日数合問
+  hash: sha256:ceb60ecc29adb144b9e4d4a162b6845a1960e44ff8382d523239e6a37acf7f36
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:eac6eb483211a9b8c9701376cd38d977a2bac8952050b742075d2e4355fe8d85

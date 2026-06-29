@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/84
+seq: 84
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 洛書者禹治水時神龜負文列于背有數至九禹遂因而第之以成九疇洛書以相克爲序故右轉自北而西而南而東而中復始于北葢取龜象故其數戴九履一左三右七二四爲肩六八爲足
+  hash: sha256:5f6d76f8bb4fa264ee60a14af4effa2602e199a4006a5eb33550982c8c4f2e4e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5c2332e52aa1602d70e918bf680bf334d6f612b9a253ec874ab5d5fce0fbaf8e

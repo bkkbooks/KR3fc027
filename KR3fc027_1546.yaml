@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1546
+seq: 1546
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 易數與八陣圖數同八八圖一十六十七三二五七五六四一四十法曰併上下数六四四九四八三三八九二四二五上一下六十四共六十五六三五十四七三四七十二三二六以六十四乘之得四千二十五十八三一五八五五四二三九一百六十折半得積二千六二五一四六三五六十一二二二七令八十爲實以八行爲法除三十四十九三十五九五四四三三八之得縱橫斜角皆二百六十数四十三二十二九六十五三四四三七六一五二四五三六五十二二一二八
+  hash: sha256:45fb7a9c5536430ee015438a97a9dd6c54efec580a8f95952505e6a6462a0fe5
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:08c855fd34381619ae3754bb4b6a39ad1c83eb2e353db76b67d108fe2ebaf593

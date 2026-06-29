@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臂若枯木雖天地之大萬物之多而唯蜩翼之知不以異物他好易慮位之窮年矻矻于數癖無類是乎碩不以時序次成書藏之名山傅之其人通都大是寧獨無以盡管蠡之見即天地之祕藏萬彚之變態將何由泄而名何以著成法于天下浚卋于是參會諸家攄以獨見畫以形象綴以訓釋列屬九章釐為一十七卷題曰旨指
+  hash: sha256:1520d0d9ec76a115a4de29016d5034b6f7e6937829c50d77af165b9e7fb9f745
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:36c0cdf410dd24ccae79627eedeef0a706d23e591a89e52ba31572262f7f17ff

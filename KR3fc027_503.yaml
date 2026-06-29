@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/503
+seq: 503
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法日置正耗糧為實以耗米七升並正米一石共一石零七升為法除之得正米二千五百八十五石為實以耗七升因之得耗米合問若要見正耗共米隔位加七即得盤量倉窖歌方倉長用濶相乘惟有圓倉周自行各再以高乘見積圍圓十二一中分尖堆法用三十六倚壁須分十八停內角聚時如九一外角三九甚分明若還方窑兼圓窖上下周方各自乘乘了另將上乘下併三為一再乘深
+  hash: sha256:31e8ea2d6693f603f07d28efad189b8b7a7f15a27a7e15c8d76d200b3c2dab9a
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1529ed8d5df9fd0b9157dd0ab9b39baf52c88c66d16943df755cf9aa34bfcbd1

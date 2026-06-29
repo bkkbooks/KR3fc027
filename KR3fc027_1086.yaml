@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1086
+seq: 1086
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 相减餘一十一両六錢爲物實另以不足四両减不足二両餘二両爲人實又以出五両四錢內减出五両餘四錢爲法除物實得物價就以法四錢除人實得五爲人数合問今有里長值月議云毎里科出銀五錢依帳買物以辨酒席多銀三両五錢毎里科出四錢亦多五錢問合用銀併里数若干荅曰三十里用銀一十一両五錢法曰置兩盈出五錢出四錢互多三両五錢多五錢先以出五錢互乘多五錢得二両五錢次以出四錢互乘多三両五錢得一十四両二数相减餘一十一両五錢爲用銀實另以多三両五錢减多五錢餘三両爲人實再
+  hash: sha256:f3809c17a042efa6646c57f3ae53b87f3adc6ca0ed5843ef20c10115e8b2c80b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5a190746c944de61aa2b2ffa7f7a78b94a9f57186bca48a12b88749c79bade00

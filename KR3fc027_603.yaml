@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/603
+seq: 603
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰上等每戶一石二斗共三十石中等每戶七斗二升共二十八石八斗下等每戶二斗四升共一十四石四斗法曰置總米為實另置上等二十五戶五因得一百二十五中等四十戶三因得一百二十下等六十戶得六十三共併得三百零五為法除之得二斗四升是下等一戶所出之數三因得七斗二升是中等一戶所出數五因得一石二斗是上等一戶所出數各以戶數乘之得各等共數合問今有軍二萬五千二百名共支來麥豆三色只云四人支米三石七人支豆八石九人支麥五石問各該若干
+  hash: sha256:543df07cdef95ad7733439ff86058adb43b844ae3044b8553204b7db0f99b110
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1b806b9a282b813421e16d0bd4bd7a032242fbbff9fa8408becc590542abc2fd

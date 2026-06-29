@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1064
+seq: 1064
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 足折半得二十三隻合問一法以四因總頭减去總足餘折半得鶏或以二因四歸總足减總頭餘得兔倍頭减足折半是兔不分雞兔以雞二足乘頭数干共足內減之所餘者是一兔剩二足故折半爲兔也四頭足减折半是雞不分雞兔以兔四足乘頭数以共足减之所餘者雞足也故折半爲雞此法名二率分身卽貴賤差分也今有狐狸一頭九尾鵬鳥一尾九頭只云前有七十二頭後有八十八尾問二禽獸各若干
+  hash: sha256:f99241c5271a0e7012fd04646d02bb513a49f51a1898986a6953cdda2286d297
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4215ab83f3dda6fe95535f5a0603ff7cef060496d3f956e5306b0a9c4af64470

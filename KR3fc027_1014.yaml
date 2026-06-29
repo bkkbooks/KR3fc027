@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1014
+seq: 1014
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 半堆歌半堆瓶法另推詳上長倍之加下長却用上濶乘見数下長仍倍加上長別以下濶乘見積下長另減上頭長餘存三位同相併再以高乘爲實良要知其積從何見六而取一積該當今有半堆酒瓶一棧上長二十五箇濶一十二箇下長三十箇濶一十七箇高六箇問積若干荅曰該瓶二千四百一十箇法曰倍上長加下長以上濶乘之得九百六十又倍下長加
+  hash: sha256:86f84ac2b94ddf107dae569f8a93feaef85a4f3b5e9050f355531aef8c53cde5
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2fad0539105a63964a1c1cba2df6c370fc760df398c474f6f01be97639f8d015

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/579
+seq: 579
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爲法除之得四十四尺不盡八以法實皆折半命之曰九分尺之四合問此是借寬還窄原有銀二十三兩買布七十五疋每疋長四丈濶二尺今要狹布濶一尺六寸長與前同狹教照前扣减問價若干荅曰四兩六錢法曰置銀爲實另置布七十五疋以每疋四丈通之得三百丈以濶二尺乘之得六千尺爲法除實得尺價三厘八毫三綠三忽三另以濶二尺减去一尺六寸餘濶四寸以乘三千尺得一千二百尺爲不及數以尺價三八三三三三乘之得退還銀四兩六錢合問假如原買布其長二百四十八尺濶二尺一寸今無原布
+  hash: sha256:a67868cdfdfe4b263932816e7449d8e4f44d9a7f642182e6771f9ad0cd22e122
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:295eb606e9252e0ac03bd64d92451e14c67cca0636cf4ae5c9861cf04ac38c71

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/210
+seq: 210
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬則止向前一位得令是石也順數降下合得法五萬歸定位實首二十起五二倍作四本位加二爲四原實十起呼十往前逆數遇法是萬合得四勺百合千升萬法上是五萬人遇萬卽止前一位得令是石也斗前位是石也退後降小合得石還原用五因四五得二十假如今有銀二百六十五両三錢二分作六人分之問每
+  hash: sha256:adb53fb74a46b09ba0f54c48fa12ef0873858861da75039432c65f02cec64c9b
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:77e485083d63cf4b4a6a71f61a30608845484b75d65ede08bf98428b74a6979d

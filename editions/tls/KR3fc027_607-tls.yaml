@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/607
+seq: 607
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置田数以正米二斗乘得二十七石六斗置列二位一位以七成得米数一位以三乘得八石二斗八升以石麥斤零二八用加六得両錢之数数合問四六差分法曰各以四爲首用加五以求各衰首位四就身加五得六又加五得九又加五得十三衰五分又加五得二十衰二分五厘如位数多者各加五以生各衰倣此一法以首位爲四用四歸六因以求各衰不加加五捷徑二位者四六併得十三位者四六九併得十九四位者四六九一十三衰五分併得三十二衰五分五位者四六九十三衰五分二十衰二
+  hash: sha256:b35911b4884c2b87cd4d0825e9a43bfa7bb6263a983185d36c04830dd90f11c8
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b6d57b2e1d59120a6f866f06688094babfc2b10193e38975b539fb34a2b6f81e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1440
+seq: 1440
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人實以法二除之得六人合問浪淘沙昨日獨看瓜因事來家牧童盗去眼昏花信歩廟東墻外過聽得争差十三俱分咱十五增加每人十六少十八借問人瓜各有巳會先荅荅曰一十一人瓜一百五十八箇法日併盈十五不足十八得三十三爲實以各十三十六相减餘三爲法除之得一十以各得十六乘之得一百七十六减不足十八餘得瓜数合問歌
+  hash: sha256:13a83f665234daad5f7ffa1c7839b8a2fc324035c958944b40239f0373ccdd24
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3fe25e716782c50d5522b7160078e66afe73018a9784ddbc4bb799a028f83cb2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/225
+seq: 225
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 共該銀若干荅日九両八錢六分七厘法日置豆爲實以每斗三分四厘五毫爲法乗之合問定位同前五毫四厘三分乗五六得三十定位七厘起四六二十四五八得四十下位是分也向前逆陞合得六分實尾大斗三六一十八四八三十二三二五得一十斗法首位是每斗三分退斗卽止下一位有術是分也八石八石三八二十四二四如八石合得九百實首二十文二三如六原實十起呼十往後順數至斗
+  hash: sha256:13a9c5633ed36cc7ba17c91c1d3add094e8a1a0ce2b369823fa3604425ffe94d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:61a268b318e805500bf40e2b770cc00e32c6abe96845190e566fbe3e0775cccc

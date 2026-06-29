@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1468
+seq: 1468
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰此問七釧九釵共金九兩四錢交易其一秤之適等乃六釧一釵重四兩七錢八釵一釧重四兩七錢排列六釧一釵重四兩七錢一釵八釧重四兩七錢先以右行六釧爲法遍乘左行中下得数釧四十八重二十八兩二錢次以左行一釵爲法遍乘右行中一釵得一减左行四十八餘四十七爲法下重四兩七錢得四兩七錢减左行二十八兩二錢餘二十三兩五錢爲實以法除之得釵重五錢右行重四兩七錢减一釵重五錢餘四兩二錢以釧六隻除之得釧重七錢合問西江月甲乙二人沽酒不知誰少誰多乙鈔少半甲相和二百無
+  hash: sha256:245734dfc0283b536bedb0f4b72875088bf01c6c7d27570b37e5e277cd339dd2
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:7e695cdeadeec934d6add2ce4eae5d6395037794769aa4ca41e7d4312eae8229

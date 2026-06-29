@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1400
+seq: 1400
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商三十自乘得九百除實餘一百二十四歩另以右位初商三十倍作六十次商二歩子左下法亦置二歩于倍商六十之次皆與左次商相呼二六除一百二十又呼二二除四歩恰盡得三十二歩乃地之全徑折半得一十六歩爲羊所繋樁處再以每歩五尺乘之得八十尺爲羊繩長合問西江月今有酒鐔一垜共積一百六十下長多廣整七枚廣少上長三隻堆積糟坊圜内上下長廣難知煩公仔細用心機借問各該有幾荅曰上長八箇下長十二箇
+  hash: sha256:9884d4f1f3b939fbad8d35de845cc36413111af6a701598bd3d30a0d8f8639ca
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fb8820825ded0b516637813d9f627e0b79da374ec33cb6a50c11c11c9ec29031

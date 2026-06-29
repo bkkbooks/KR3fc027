@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/729
+seq: 729
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恰盡今列開平方法定分左中右式凢看字亦照筭盤自左至右九酉爲隅法亦與左次商呼除中实右下法初商干爲方法與左初商呼除中实後倍作二十爲廉法與左次商呼除中实一箇除恰盡中六十加二共八十亥呼九九除实八十併下位一去盡三百次商呼二九除一百八十箇本身去二下位加二初商呼除本身一百箇餘二百空位次商又對右九呼九九除实八十箇恰盡左九對右二呼九除实一百八十箇左初商一十左一對右一呼二除实一百箇
+  hash: sha256:646101c952876df08d47bd6e18a1147363e6e351431aea101599922c1a7e24a7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d0b64c99cf82fd3253e940f30fb6ebe148059b3f85b2597544ef1c702c9d2d96

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/148
+seq: 148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 總訣一日以所有總數為實以所求每數為法除之一日有總物而又有總價或云每物即以物為法以價為實或云每價即以價為法以物為實餘倣此
+  hash: sha256:b79890a8bf0847291cd7d38c413edf364db7294c771533f250aad4beb070025d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9b63446ac4a0ba3f4ed3aa364eae9ce489cb581a660f7a4ee049a8a597734bd6

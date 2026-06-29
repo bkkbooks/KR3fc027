@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1012
+seq: 1012
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有物四面尖堆底濶一十二箇問該若干荅曰六百五十箇法曰置底濶一十二箇另以十二加一箇共一十三箇乗之得一百五十六箇又以十二加半箇共一十二箇半乗一千九百五十箇以三歸之卽得今有物一堆横面下濶十箇上濶一箇正面下濶一十二箇上濶三箇問該若干荅曰四百九十五箇法曰置正面下濶一十二箇倍之得二十四加上廣三共二十七以横面下廣一十乘之得二百七十另置二百七十以横下廣一十乘之得二千七百併入二百七十得二千九百七十以六除之卽得
+  hash: sha256:0fb9293dc58e8f5a3ffcd1e92c7864d08c1a9311792dcb4e54113cdaf5ad05ca
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:442ab49583d986ad6f0869a4ce040070441d73ff77998c7feb975f045d43ee75

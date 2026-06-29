@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/903
+seq: 903
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得濶差六步以减下濶一十二步餘六步即是中廣合問今有梯田積一千五百步北廣四十步中長五十步問南廣若干答曰南廣二十步法日置積一千五百步倍之得三千步為實以長五十步為法除得六十步於內减北廣四十步餘得南廣二十步合問原有斜田南廣四步北廣十步長一十二步今欲增作勾股樣式問股長出若干答曰股長出八步斜增為勾股法日以南廣四步乘長一十二步為實另以二廣相减餘六步為法除之得尖出股長八步合問
+  hash: sha256:99acc77e65caf92752998c10efda009726f2d5dd4f7bb283001e4bc5be25e8ca
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:e74190969cb9a335c18b578f54362062da0c0de086450a7e5abd9f94dcc96ec8

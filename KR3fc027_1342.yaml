@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1342
+seq: 1342
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰趙一該貼一両三錢六分八厘錢二八錢一分六厘孫三三錢三分六厘法曰置趙一貨九十五担以毎担船脚銀六分乗之得五両七錢另以錢二貨八十五担以毎担船銀四分乗之得三両四錢又以孫三貨五十六担以毎担船銀二分五厘乗之得一両四錢併三数原船脚銀一十両令五錢爲法却以貼銀二両五錢二分爲實以法除之得二錢四分乃是船脚毎両貼剝之数就以此二錢四分爲法以乗各客船脚銀数卽得筆套取齊歌八萬三千短竹竿將來要把筆頭安
+  hash: sha256:43fc5d04153b38a5246f5ae2e8d346e1178b11031092ddac5c9534e8ff781c92
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b2d310c7c2f7674c30cdada55546a73ff3ac8b92731f5af2d42af375e9fae51c

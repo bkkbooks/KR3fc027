@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1610
+seq: 1610
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 訛謬別其序次清其句讀俾上智见解扵筌蹄之外而成學众可縁是以獲魚兎豈敢日立我明一代筭数之宗胼以啟浚學之成式尔巳錐然图以刋陈而以图陳者不兵之法書以傳御而以書御者不書馬之情則今日筭数之编六图陈書御要要以縁尺度而求窾擊淂神理而六
+  hash: sha256:6339218deb10dd29430136619e6842f7858a4cf223ecd19740c6f5a31da6a164
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:32a589e5de478184ce6047e2e273eb2e81b975ca5ff4af2af928daff75e7efaf

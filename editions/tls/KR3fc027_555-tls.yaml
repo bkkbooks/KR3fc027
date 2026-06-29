@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/555
+seq: 555
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得七二此乃合斤之両数可用加六法加之二六加一十二六七加四十二共成一十一両五錢二分是也亦是異乘同除法今有木香一十二斤價銀四両三錢二分問毎両價若干荅曰二分二厘五毫法曰置銀四両三錢二分爲實以木香一十二斤爲法除之毎斤得價三錢六分以両求斤法呼之六三七五三一八七五合問若用十六歸除亦得今有豬肉八十四斤毎銀一両四十八斤筭問該銀若干荅曰一両七錢五分法曰置肉八十四斤爲實以毎両四十八斤爲法除之合同
+  hash: sha256:628ad7d993b60d88d8e88770cdececf47a492d024a78aee1657c6d9903b9580e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a34680675f613580ef94ef74f438e5046fb02cfe67a277e80b940b2337d398ac

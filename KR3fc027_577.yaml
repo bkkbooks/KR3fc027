@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/577
+seq: 577
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 匹價五錢為法除之得二百二十二尺六寸又以匹法四丈二尺除之得五十三匹合問今有布三匹二丈八尺每匹價銀二錢四分問該銀若干答曰八錢八分八厘法曰以匹下二丈八尺用匹法四尺歸之得七分併入三匹共三匹七分為實以價二錢四分為法乘之合問原借人布一匹長四丈濶二尺今將狹布濶一尺八寸算還問該長若干答曰四丈四尺九分尺之四法曰置布長四丈以濶二尺乘之得八十尺為實以今布一尺八寸
+  hash: sha256:e27d2675872cca58bef8aac6bd44feeaaec24ef2cfe8354094ad347dbae2ba6e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c997b70e97c53ddca93cd12add12bcced62c6e28838def92e1f8099bc7e5425c

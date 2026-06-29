@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/793
+seq: 793
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有三稜物外周三十六箇問總積若干答曰九十一箇法曰置外周三十六于左亦置三十六于右加內周九共四十五相乘得一千六百二十為實以東法十八除之得九十加中心一合問凡三稜物乃是九箇周中包一以九歸外周即知層數也自丙之外每層加九自外之內每層减九假如方箇積六十四根問外周若干答曰外周二十八根法曰此是雙層者只以方箭積為實以開平方法除之得一
+  hash: sha256:cfeba413c6c3e37a2cb489aec25c16a73ca560c5426a3dfd58bb5e5ece712d34
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4d117a737b13a5c55cdc1f132e01bbbd4e03e4128e13b879bb0fcbcc9943cb62

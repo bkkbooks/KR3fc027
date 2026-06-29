@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/707
+seq: 707
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物不知總孫子歌曰又云韓信點兵也三人同行七十稀五樹梅花草一枝七子團圓正半月除百令五便得知今有物不知數只云三數剩二箇五數剩三箇七數剩二箇問共若干答曰共二十二箇法日列三五七維乘以三乘五得一十五又以七乘之得一百零五為滿法數列位另以三乘五得一十五為七數剩一之衰又以三乘七得二十一為五數剩一之衰又以五乘七得三十五倍作七十以三除之餘一故用七十
+  hash: sha256:23546e1d7f5013015c689964549cc4edfadd1681214c7975ad5a6511953ed153
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ae48e19d7147c421e45298f896b98f351550a2400a66240ddfb969b70551e811

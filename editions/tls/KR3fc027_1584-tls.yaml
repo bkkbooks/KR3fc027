@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1584
+seq: 1584
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 袖中定位訣歌掌中定位法爲奇從寅爲主是根基因乘順数下回轉歸與歸除上位施法多原實逆上数法少原實降下知乘除大小從術化釐毫絲忽不差池定位掌圖
+  hash: sha256:923c30a2ca36e2b1b329a6fffe1c2d7f39aa9fae7617e2925754707c0867383e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:5032cbbb21f235a09ffba8ee7cf7404919b147c01276d56d70ac98e7f9974a28

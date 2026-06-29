@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/829
+seq: 829
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次商用法不同法曰置積爲實別置一筭名日下法于實数之下自末位至首常超二位約實千至九十餘萬俱定十百万後俱定百實上商置第一位得若干下法亦置初商若干自乘再乘得若干除實訖餘實若干却以三乘下法初商若干得若干爲方法列位初商置第一位于初商之次得若干下法亦置次商若干于初商之次共得若干就以次商若干遍乘得若干爲廉法再以方法乘廉得若干除實訖餘實若干却以次商若干自乘再乘得若干爲隅法除實盡得立方靣数若有不盡数仍前再商之或有不盡数以法命之何謂之命若餘實若干不盡却以所商
+  hash: sha256:ce1b300f8e1297c793b446d2058c151aacbbe593320982f16c6bf04f149dee4e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2afe1a102c3103bbafab466c33f0ea65b01337adc1d955a38f93f70c6430dff1

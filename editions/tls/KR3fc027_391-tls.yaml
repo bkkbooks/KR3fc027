@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/391
+seq: 391
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰八十四歩法曰置十四歩以六因之得八十四歩以七歸之得中長十二歩另以每面十四歩折半得七歩因之合間三角卽圭也以半濶乘中長十二歩亦得假如棱田中長五十二歩中廣一十二歩間積若干荅曰三百一十二歩法曰置長五十二歩以廣十二歩乘之得六百二十四歩折半得積三百一十二歩合問勾股圭棱乘折半田形雖典理一同假如斜圭田長三十歩濶一十六歩間積若干
+  hash: sha256:61e4e0398faec931cd5bb1cc26598fe51795066305c6a4ace12035af8a32ec45
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2ecc134aca959df4d1219b28fd99fb7931f8f65865198c3e969a91cded2dbd8f

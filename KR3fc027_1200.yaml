@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1200
+seq: 1200
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置鋸道一尺折半得五寸爲勾自乘得二尺五寸爲實以淺一寸爲股較除之如故得二尺五寸爲股加淺一寸共得木徑二尺六寸合問此如圓田中截去以孤矢天問原徑同法置鋸道一尺如孤矢之弦折半得五寸自乘得二尺五寸爲實以淺一寸如矢爲法除之得二尺五寸併入矢淺一寸共二尺六寸爲圓木原徑亦得今有圓木徑二尺六寸鋸淺入木八寸問鋸道長若干荅曰鋸道長二尺四寸此問與右圖式相同今數註十圖內徑左共之便覧法曰以徑二尺六寸減淺八寸餘一十八寸復以鋸淺八寸乘之得一百
+  hash: sha256:420445d8a277518c543e4f66046e90b44e265acc28271dcec7628eeda2c58aff
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:283cc79c3d2fc24d28b3295f73f599b8b020f825fd8068eedbf7674291718bfb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/571
+seq: 571
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以法除之得原礦四十二兩合問度法端疋歌四十爲疋五爲端或减或加尺寸寬端疋乗來方見尺尺求端疋法除看諸物皆所用度故首論之今世俗尺度不等無物可爲定則或云以黍作一分十分爲一寸又云黃金方寸爲一斤今較古斛法二尺五寸此俗用尺不同難爲凖則解曰原以四丈爲一疋五丈爲一端今無定規或三丈上下亦爲疋也古設端疋之數今亦長短不一難以執法從俗可也
+  hash: sha256:d39df94484a1890aced18dcf55930a050098a1ec79064e2cd04825ee804efcd7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:377885b77b09cde2894f6bdebdeaff135e811ebcf6313ab1811bc26789247ee1

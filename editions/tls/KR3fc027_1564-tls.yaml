@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1564
+seq: 1564
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三分損一者乃三分之二也五音相生圖三分益一者乃二分之一也法曰黃鍾之管長九寸以九寸自乘得八十一寸爲宮音却以八十一以二因之得一百六十二寸以三歸之得五十四寸所謂三分損一而生徵火却以五十四以四因之得二百一十六以三歸之得七十二寸所謂三分益一而生商金却以七十二以二因三而一得四十八寸而生羽水復以羽数四十八四因三而一得六十四而生角木此乃五音相生之法多者爲尊爲濁少者爲卑爲清也
+  hash: sha256:c76b3e9a0200b3c6cc136168b3d29cad7713e90395a9245ac1eb62219a7bdd5a
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f634420c0c7e540269d73dd64026d4f59c7f192cd57d16e89dd4709d253278a2

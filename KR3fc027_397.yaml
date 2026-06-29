@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/397
+seq: 397
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰七十步法日置中長一十七步五分以廣八步折半得四步乘之得積合問或量內外灣併之折半另以半徑乘之亦得假如攬形中長四十步濶一十六步問積若干答曰三百八十四步法曰置長四十步如弧弦以半濶八步如矢併得四十八步折半得二十四步又以矢八步乘之得一百九十二步即一弧矢之積倍之是攬得積合問假如三廣田南廣二十六步北廣五十四步中廣一十八
+  hash: sha256:523f82942955fd5232dc06cf40d57a83bed3a6546c4bd519ebc0926c809daf23
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:c83f3204aa9e61e73f895f359cb888c7e849430aee4250482bffcd36804e72d2

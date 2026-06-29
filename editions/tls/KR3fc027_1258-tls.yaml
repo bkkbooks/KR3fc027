@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1258
+seq: 1258
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 畆法二四除之合問此是勾弦和歌三十八萬四千步正長端的無差誤六絲二忽五微濶不知其該多少畆荅曰一畆法曰置長三十八萬四千步爲實以濶六絲二忽五微爲法乘之得一百四十步以畆法二四除之合問此是直田長濶問積歌一段環田徑不知二周相併最幽微皆知一畆無零積一百六十不差池
+  hash: sha256:3fe8d4aed8e90e15d9b5ec31a76787b8c2544201145ad339a74e494b73470de6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:df9dd8dd5e0f2e038266f9d1518b6a95c2cb6ff21920997be94a44b0b335c875

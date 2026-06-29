@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/166
+seq: 166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新安賔渠程大位汝思甫編集曾孫素亭光紳佩章甫較正蘊齋鈁洪聲甫參閱
+  hash: sha256:b76cdddefa0fdcd4d7764e5ccb41151cb0f24556f2190e508517e5e2c204089c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:a854dedb073453b4a6f56f702085b428e7865e90cd06489740ccf846901e1d9f

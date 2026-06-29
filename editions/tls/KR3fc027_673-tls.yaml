@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/673
+seq: 673
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰置總米爲實另置第一等四戸以一萬因之得四萬第二等八戸以八千因之得六萬四千第三等十五戸以六千四百乘之等九萬六千第四等四十一戸以五千一百二十乘三得二十萬零九千九百二十第五等一百二十戸以四千零九十六乘之得四十九萬一千五百二十併五位共九十萬零一千四百四十衰爲法除實得二勺五抄爲一衰数就以此乘一等衰一萬每戸諛米二石五斗以八因得二石是第二等一戸所出数又八等一戸数又八因得一石二斗八升是四等一戸数又以八因得一得零二升四合是五等一戸数各以戸乖之合問匿價差分歌
+  hash: sha256:0dfb71154ccee09fc5ac0824f6707e50ba825df733e7e2bc6b03bcea18b86969
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:06e675c3db24b33a59796f8d4bd0cd477afd37e1af3cfc8dd6ff40ab9b95c552

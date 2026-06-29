@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/827
+seq: 827
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商二十步積八千步至二萬六千步商三十步積二萬七千步至六萬步商四十步積六萬四千步至一十二萬商五十步積一十二萬五千步至二十一萬商六十步積二十一萬六千步至三十四萬商七十步積三十四萬三千步至五十一萬商八十步積五十一萬二千步至七十二萬商九十步積七十二萬九千步至九十九萬商一百步積一百萬步至七百萬步以上皆言初商首位之積以所商自乘再乘之數
+  hash: sha256:f46066d3a4716953ac9c6e75e87d7d9b239d8487a6f33b1111ed4e83340c6eef
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:169872396c6b3193778342ebee7397f3be0ba0148814e55e8971135cc5f23177

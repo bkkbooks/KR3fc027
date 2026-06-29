@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/591
+seq: 591
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未併者是前列衰各自爲實以法除之合問可約者約分之不尽者以法命之一法置所分物爲實併各衰爲法除之得一衰以乘各衰合率差分今有一銀一千二百兩買綾絹議要絹一停綾二停其綾每疋價三兩六錢絹每疋二兩四錢問二色併價各若干荅曰綾二百五十疋價九百兩絹一百二十五疋價三百兩法曰置銀一千二百兩爲實另置綾價以二因之得七兩二錢併入絹價二兩四錢共九兩六錢爲法除之得絹一百二十五疋倍之得綾二百五十疋各以原價乘之合問
+  hash: sha256:c29c8da896eaf9ba41430ae81944ef3b3e9c824f4d9bfa786ee452374cb59945
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:20042bca0e47d92ac1cbc3a848f21cfd4de766387432eddd27008daa07fd85cb

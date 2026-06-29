@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1018
+seq: 1018
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東西併折半南北亦如斯互乘爲實位深数再乘之今有田內開土挑泥填基東六丈五尺西七丈五尺南八丈北九丈深二尺問取泥該方数若干荅曰一百一十九方法曰置東六丈五尺併西七丈五尺共一十四丈折半得七丈又以南八丈併北九丈共十七丈折半得八丈五尺相乘得五十九丈五尺又以深二尺乘之得一百一十九方合問量水捆西江月捆有封書模樣捆法不一一名一封書一名方捆深濶各倍相乘如濶若干
+  hash: sha256:97a5cfb14d1c64008e6f3cf9f8e429f13d1b48aa6b424cfc88f2e902619e60e3
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9fc6b783dace990159bf131336561bfc4a79a2230294bd305e0dca70625964bc

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1418
+seq: 1418
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以三百六十日除之得年数合問歌當年蘇武去北邉不知去了幾周年分明記得天邉月二百三十五畨圓荅曰一十九年法日置月圓二百三十五畨以每年十二月除之得一十九年不盡七月乃是閏月合問歌昨日街頭幹事畢閑來稅局門前立見一客持三百布每疋必須稅二尺
+  hash: sha256:1c7e45f4c563e8506adbb4a7daec0f91c8a586f44fbd2e9bb8b82113503d5e87
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:53f4617ce210a09c7b0a881f90710229f8f7ddbdb1b193ca7755a02ae100db8e

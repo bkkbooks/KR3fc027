@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/663
+seq: 663
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 折半得丁鈔三十九貫二百文又互和甲丙鈔共一百一十二貫折半得乙鈔五十六貫令問今有五人均銀四十兩內甲得十兩四錢戊得五兩六錢問乙丙丁次第均之各該若干答曰乙九兩二錢丙八兩丁六兩八錢法曰併甲戊共一十六兩折半得丙銀八兩又併甲丙共一十八兩四錢折半得乙銀九兩二錢又併丙戊共一十三兩六錢折半得丁銀六兩八錢合問假加前三人四六分物者可將一等與二等所得數併作一處却分為十分比驗其一等原得數是六分其二等原
+  hash: sha256:f6d6ddaca27ca572ac6a65cdbabe7c3a5a9a0c0f5acc4b6bdd3d58ca83956203
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:56dd9bc22067cb6823dcfe1dd3aacb1954f2433fc7b87480e1eac236527a3281

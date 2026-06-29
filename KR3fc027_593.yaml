@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/593
+seq: 593
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今有銀一百二十一兩一千七分五厘糴米麥豆議要米一分麥二分豆三分其米每斗九分二厘麥每斗八分五厘豆每斗三分六厘問三色併價各若干答曰米三十二石七斗五升價三十兩零一錢三分麥六十五石五斗價五十五兩六錢七分五厘豆九十八石二斗五升價三十五兩三錢七分法曰置總銀為實另置麥價以二因之得一錢七分又置豆價以三因得一錢零八厘米價九分二厘併三價得三錢七分為法除實得米數二因得麥數三因得豆數各以原價乘之得各價合問又法先得米數倍之得麥數加五即豆數
+  hash: sha256:41aadd724afccc75208ec2405693e1763e1dcc54f0981e3ddf8774a27d14338d
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:825abfb4de164cae7ab48288a4a659504cbf353012b190b2a0b55d8b9f09a8fc

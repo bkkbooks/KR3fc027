@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1360
+seq: 1360
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四軍纔分布一疋請問官軍多少数荅曰官二百員該布八百疋軍八百名該布二百疋法曰置官軍共一千爲实以四疋一疋併得五疋爲法除之得官二百員以每員四疋因之得布八百疋於總官軍內減二百餘八百名爲軍以四軍歸之得布二百疋合問歌今有千文買百雞五十雄價不差池草雞每箇三十足小者十文三箇知荅曰公雞八隻賣錢四百文母雞十一隻賣錢三百三十文
+  hash: sha256:6690abdb08432e1ec3c620341359cc8c4f9cbfc76d5dd4c1dc0cc3f9f648a3f3
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2d598bf8a65d3ba8b4059242fc941ca8f70c8ab9f59885c447a7238f035c2fc1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/241
+seq: 241
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 還原用歸除法詳後七二下加六逢七進一十三四除一十二七四五十五逢七進一十四六除二十四七二下加六逢七進一十三四除一十二假如今有田長七十五步濶三十二步問積若干荅曰二千四百步法日置長爲實以濶爲法乘之合問定位法只認原實步下一位定決首十逆陛合得法酋二北少三十乘定位起二五得一下位是十也同向前逆陛一位爲百又前一位爲千合得
+  hash: sha256:a22e71114ef383b05f1eb4f752a86c67f3110d084cceb0f05cdc0e9adf71e6ad
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:d86cb1135dbeb1db169e305992449b56d5c94cd3cdf25972fee20849bc2b640a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其義則九之技扵致遠蓻成而下者等耳得如而又淂其所以數寫參伍錯綜之用可以成變化而行鬼神游蓻之功固易範之奧吾儒之實用也忑可以湏曳廢哉國家二百餗年薰陶醖釀之化鍾為人物三仁四科代不乏賢而筭如之學之無特出者嘉靖中大司寇顧以握算高一代唐中丞
+  hash: sha256:9853fc775ccc3197f510539a79e4e9f3a3132ff07d975bee3754976cc41f8b83
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:ab6700c2934b4ccc810d836f7ed953fed95546ec57d4d7c0d3925bc8b1b7c42c

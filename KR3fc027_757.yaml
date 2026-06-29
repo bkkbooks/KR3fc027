@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/757
+seq: 757
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上商二相呼除實盡得濶一十二步加不及九步得長合問今有勾股田積四百八十六步只云勾少弦一十八問各若干答曰勾濶二十七步股長三十六步弦斜四十五步法日倍積得九百七十二步為實以弦差一十八步折半得九步為縱方開平方法除之得勾二十七步加差一十八步為弦斜四十五步另以勾自乘弦自乘二數相减餘一千二百九十六步為實以開平方法除之得股長三十六步合問今有勾股田積四百八十六步只云股少弦九步問各若干
+  hash: sha256:0f1a55ee55f29561772ddf2ccefb549459fa0fc0d8993a81c9367ce6dd373d92
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:4f7ff0833d846acde876b2b8a94a81b85b9be43bebc05efd8c2a8f358e19ed1d

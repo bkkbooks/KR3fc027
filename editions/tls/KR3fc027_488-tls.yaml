@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/488
+seq: 488
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新安賔渠程大位汝思甫編會孫素亭光紳佩章甫軗正藴齊紡洪聲甫參閱粟布章第二粟是米也布是錢也以粟稻等率求米之精粗以斛斗求粮之多寡以丈尺求帛之長短以斤両求物之輕重以御變易粟布歌穀爲糙米要須知法實分明莫亂題米爲實数榖爲法以法除之更不疑若言糙米爲白米糙法白實以除之
+  hash: sha256:552598521186fd219e5de64af96295225e60d6baf165de86604f68b6ad8d7ab6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:51f708cdbada9d163e61375e48f984fc86194d061f96c8389db889eb5816ca53

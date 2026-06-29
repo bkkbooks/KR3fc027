@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/675
+seq: 675
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 匿價分身法更奇多乘高物以爲實得價减总餘又列共物除餘低價知低價添多爲高價各乘各物不差池學者能知此般筭三四物價也相宜今有銀一萬七千六百九十両買馬騾一千匹議要馬七百匹騾三百匹其馬價多騾價七両七錢問各價若干荅曰馬每匹價二十両騾每匹價一十二両三錢以法日置馬七百匹以多七両七錢乘之得五千三百九十両以减總銀餘一萬二千三百両以馬騾一千爲法除之得騾一十二両三錢加多
+  hash: sha256:b1b13717a74e9f920e38ecd64b5bb1379f77f95bfe4fa9ce320b016ab04e5988
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:29994d8a6d764507f5ff0f91c84a92c0f1708da74d5b413c48f08854ddf2153a

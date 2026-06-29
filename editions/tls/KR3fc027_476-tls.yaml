@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/476
+seq: 476
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法曰倂内外周共一百七十五歩以内周之三乘外周二分得六分另以外周之一乘内周四分併之得十却以分母二分四分相乘八爲法除十得一歩二分五厘併前共得一百七十六歩二分五厘折半得八十歩一分二厘五毫爲實却以徑十二歩分母三通之加分子二共三十八爲法乘之得三千三百四十八歩七分五厘又以分母三除之得一百一十一歩六分二厘五毫以畆法除之得四畆六分五厘不盡歩下二分五厘以法約之得四分歩之一合問今有方田一坵面方十二歩四分歩之二問该積若干荅曰一百五十六歩五分
+  hash: sha256:c64ba4abfc9b2ea055942ba1efeaa595b88ba04677de816b2d5fd28d85142b40
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:bde26ab5e531baf429c1d6c9abe8469e10b5b73021f451fa24019dc88a633b43

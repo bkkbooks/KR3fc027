@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寡莫不取裁焉先儒謂數盡天下之物則又謂天地萬物具于指掌數距不重哉自隸首定數以率其羡要其會而後之布算者莫之有易漢魏以來代設專官以掌其事一時藝能之列心計之臣類能講試令觀其書起張莙以迄令日無類十數百家詳矣顧質有明胸見有偏全或有九章而無乘除或有乘除而無完位各照隅隙
+  hash: sha256:b372424fbb55f96d3e0f5dc8d25a919b03a28307aeb44742cecc6c5137a35aa6
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9dedb7b2b015c73c7f4300e84acff6505fc1dd2d8c369c543fd7b824d7edc8f6

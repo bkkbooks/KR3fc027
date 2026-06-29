@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1320
+seq: 1320
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荅曰第一節容米一升四合第二節一升三合第三節一升二合第四節一升一合第五節一升第六節九合第七節八合第八節七合第九節六合法曰置上四節加一爲五與四乗得二十折半得一十减去四餘得六爲下差率另以下三節以總九節乗之得二十七减去下差率六餘二十一爲上差率列置右四左三互餘六餘二十一得一十八得八十四三升三升九合得九分得一十五分六厘先以左上三互乗右中六得一十八次以左上四互乗左
+  hash: sha256:d376fbcc3d28d7acd5e3f98ebddb6d58d8bf99f1077f9b6b322de0a140063bb0
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:9b64e2498159a2bb22e77f8b85d8452036a1dec55b0cd360eda02494fe58b00e

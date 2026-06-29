@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1136
+seq: 1136
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三等力各若干荅曰馬二石四斗騾一石八斗驢六斗法曰列所問数先以右行正馬一爲法遍乘左行中下得数右正馬一爲法先乘借左中騾一下空四石二斗中空正騾二借驢一四石二斗左借馬一空負一正驢二得三四石二斗得四石二斗却以左行借馬一爲遍乘右行中下得数中得一因左行中空無減加入負騾一下空無数轉乘本行下正驢三得二四石二斗得四石二斗與左行減尽又以中行正騾二遍乘左行中下得数中加一得二丅三得六四石二得八石四再以左行中一爲
+  hash: sha256:5f674ce4cc12e880acd0c2db51a59d6702f54cf7aa548f9310e0befdff842331
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:74b8d320f1b789b11c5a2307d38614ed39284dbc29ff75b3c1697c714d605d9a

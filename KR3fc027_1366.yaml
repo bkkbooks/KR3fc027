@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1366
+seq: 1366
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新安賔渠程大位汝思甫編集會孫素亭光紳佩章甫較正蘊齊鈁洪聲甫黍閱難題少廣四歌直田七畆半忘了長和短記得立契時長濶爭一半今特問高明此法如何筭荅曰長六十歩濶三十歩法曰置田七畆半以畆法二四通之得積一千八百歩折半得九百歩爲實以開平方法除之約商三十歩自乘得九百歩餘實盡得濶三十歩爲法以除總田積一千八百歩得長六十歩合問
+  hash: sha256:8aa4854ac1291b5fa975ed607d9987e9766c9d4f069997d78b9f2a3a7223321c
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:b2034de9adb7764cfa00f8949432b6f1f9fccb1eb3c06a3fdedb8d5b27d7ddf6

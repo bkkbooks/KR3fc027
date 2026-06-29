@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/885
+seq: 885
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 答曰下周一十八尺法日置米數以斛法二五乘之得一百九十三尺又以圎率三十六尺乘之得六千九百四十八尺以深九尺除之得七百七十二尺內减上周自乘一百九十六尺餘五百七十六為實以上周十四為縱方以開平方法除之得下周一十八尺合問或云下周一十八尺深九尺問上周若干答曰上周一十四步法日仍以前實六千九百四十八尺以深九尺除之得七百七十二尺內减下周自承得三百二十四尺餘四百四十八尺為實以下周一十八尺為縱方以開平方法除之得上周一十四尺合問
+  hash: sha256:3070a6161aec7bcfcde3da5e56dcb1269680574cfc659139b1abf11eeae3be64
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:14f15f981ebd20122dbab1a99e60785c33213f6435b9f4a3a22591c61bfa384e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1266
+seq: 1266
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 竿上安篐歌圓圓三丈一高竿稍尖頭徑尺二毫今有鐵篐徑九寸試問將來何處安荅曰自上而下二丈二尺五寸法曰置竿高三丈爲實以頭徑一尺二寸爲法除之得二尺五寸以篐徑九寸乘之得自上而下二丈二尺五寸上安篐只離頭七尺五寸合問此如方錐作方問截高歌今有直田不知畆長濶相和十七步平不及長廿五尺請問田該多少數
+  hash: sha256:ff8fc8e19e9971ee4e92634414ad46fe9aaecd2c8ca2312b083337e8ffeade0e
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:2ae879d71247115a6c93837d1800a1716e28e893af37352823c0d9afc7872724

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/505
+seq: 505
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如三而一爲方積三十六兮圓積成斛法却將除見数一升一合数皆明古斛法以積方二尺五寸爲一石謂長一尺濶一尺高二尺五寸是也解曰斛有大小尺有長短古之度量與今不同未有定則故也直指曰若較今時斛法可將棹四張横頭竪地以爲井字樣式内用今尺横直各量一尺上下皆同四旁用物擠住不動將米一石傾放内中米上以平爲度却用尺量高若干定爲斛法除之得積米之数也此乃本處斛斗之積若别處斛斗大小不同但較一石大者多若干併石爲法除之如斛斗小启就以不
+  hash: sha256:3c0c7a385c5b81e0c65b19cc50016c6683984f9e0e1bc9b06057c48005943d13
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:76004dc535d1b2aa3aee55fad70855c5840ec84ba9c0333db4c1baa4abadf6cb

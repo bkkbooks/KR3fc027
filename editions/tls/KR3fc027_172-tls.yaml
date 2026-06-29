@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/172
+seq: 172
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此所謂逢如隔位者也八斗實尾位四錢起呼二四如八本位除去下位如八下位泵位是石也回向前逆數逐位陞之合得六石三両二三如六本位除去下位如六両法上是每両二石遇両即止下一位得術是石也四十二十二二如四本位除去下位加四十合得二百實首位二百一二如二本位除去下位加二原实百起呼百往後順數至而還原用二歸法詳後逢二進一十逢四進二十逢六進三十逢八進四十假如今有米二百三十四石五斗每石賣銀三錢問共該銀若干
+  hash: sha256:adecbeeb072c10ad956d0dffa252e78b842297ac7e57344f68d1fa5f865aa254
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:3d97960bd7ca166959ad03d6aaaa0dc34d6585dc9c05800867b565032cb29a8a

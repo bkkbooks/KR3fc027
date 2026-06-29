@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/723
+seq: 723
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生率之玅今畧具五乘方圖式可爲求廉率之梯堦又考其平方形如方田以平方面自乘得平方積数是一乘方其立方形如骰子様以平方面自乘得平方積再以高方靣乘之得立方積数是二乘方其三乘方以平方面自乘得平方積数再以高方面乘得立方積数又以方面乘得三乘方積数故日三乘方其形不知如何模様只是取数而已或至十乘方三十餘乘方皆是先賢取生率之玅以明開方正律亦不可廢
+  hash: sha256:3c20182117aec16612a9609e68762717d6f6016e724ab5c55c13545a1db327b9
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:1d933e83fe4832607f4c5a11133f100be4030584f74006f636cbf35cb9996546

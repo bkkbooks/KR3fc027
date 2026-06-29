@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/1252
+seq: 1252
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歌一西江月三勾股十問歌四西江月六卷之十七附雜法二十六金蟬脫殼二字筭訣冩筭卽餔低錦歸除圖二因乘圖一舊法九位圖一筆錦垜積合總因歸乘除式四洛書緃橫圖緃橫定位分別九圖一掌金花十六圖陽數一陰數一五五圖六六圖七七圖
+  hash: sha256:8eeeea7508e5c94bf78e4d93bfef02a83177b5dfa28539e413f4dd4968b85b12
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:fbcd996dc699251a94aaad2817864a47e8b93fe5ed1fded8c03df2fe6b3c76a8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc027/tls/v1/juan/317
+seq: 317
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人一百九十乗得三千八百爲實却以支銀一両以分母十九通之得十九両爲法除之合問解題曰十九分両之一每人卽一両五分二厘六毫有課分假如今有布二疋九分疋之五用過一疋六分疋之一問尚餘若干荅曰一疋十八分疋之七法日置用過布一疋以分母六通之加分子一共得七又以原布分母尢通之得六十三另置原布二疋以分母九通之加分子五其得二十三又以用過布分母六通之得一百三十八內减去前六十三餘七十五爲實以二分母九六相乘得五十四爲法除之得一疋餘實二十一法實
+  hash: sha256:bb8d33bc43aeaf8e02a1c2b39e234030afb652ea702cdc13c51897f97ddea1a7
+metadata:
+  title: 新編直指算法統宗
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc027.xml
+hash: sha256:f0c2ac376b493b011edfe4776466f138b76e0db64975c2a045cb2f095b4c51ca
