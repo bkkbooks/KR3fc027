@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 孤峯改正吳氏法未得真傳奇妙訣丈量之法要分明方自乘之為何說方周摺角數連根豈可除根用束法今立圖形考校明例依吳氏為定决方圍方束圖辨于後
-  hash: sha256:5b7b9117d217be7f0d9c710c5388909f5c9bdaffafce5a8dadaf01e2e6d06377
+  text: 孤峯改正吳氏法未得真傳奇玅訣丈量之法要分明方自乗之爲何説方周摺角数連根豈可除根用束法今立圖形考校明例依吳氏爲定决方圍方束圖辯于後
+  hash: sha256:b7fafc4de93181ff15b87fa8e6d506040957cf8abb0d498278890075704e7d95
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:823423d3eedcbd8371cb25481f31226ce9f4f1d0e88c1a94862f6c90cfa837ad
+hash: sha256:2a8823a3c344d48d568793919f37c1372a0b36668decc1be5f59d30a8ed2b986

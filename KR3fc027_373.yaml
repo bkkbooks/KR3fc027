@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 積步問畝二四歸除畝問積步二四乘法今惟休邑新立畝法
-  hash: sha256:3636e06883dae5fb9699019e2cd030aca0e8dff70a28bbf1b8003e08b19d473e
+  text: 積歩問畆二四歸除畆問積歩二四乘法今惟休邑新立畆法
+  hash: sha256:12b56a1e3c8b59370bcc8b191d9b2ccf57ad75b23c7207eaad0a2d4f58538b47
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:280fa1e1e31be7d4c239734d60e64735a17deddca87546db3d2de0f1ff78d828
+hash: sha256:d5af719ab2710e16e74b71bc24762c5e2928c5199d56d9c2781f132a745ebcbd

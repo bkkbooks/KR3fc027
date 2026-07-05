@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 今有直田長四十八步濶四十步今依原長截積七百二十步問截濶若干答曰濶一十五步法日置截積七百二十步為實以原長四十八步為法除之得截濶一十五步合問今有直田長四十八步濶四十步今依原濶截積七百二十步問截長若干答曰長一十八步
-  hash: sha256:283e2137bd9e4d6ef8d026b126d0a76bbe9aa8812965272f8063fc0bdcac1dd1
+  text: 今有直田長四十八歩濶四十歩今依原長截積七百二十歩問截濶若干荅曰濶一十五歩法日置截積七百二十歩爲實以原長四十八歩爲法除之得截濶一十五歩合問今有直田長四十八歩濶四十歩今依原濶截積七百二十歩問截長若干荅曰長一十八歩
+  hash: sha256:bfccdd089da050f6e1dd932a28a7cf702394cdcbc52de161caa794e851208c84
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:65b37f4443860333915054cdf3d38266fc1c94514087ccfb3507e08b2edf72be
+hash: sha256:12a17f9bff5aa6c010980be5a7f838023b324d0ecaff16cab45dffc80d381456

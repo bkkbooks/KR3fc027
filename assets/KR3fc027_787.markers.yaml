@@ -5,7 +5,6 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc027_tls_001-p202.s12}
   - {type: line-break, offset: 0, content: '', id: KX_12_dup191, _xml_error: duplicate-id, _xml_original_id: KX_12}
-  - {type: substitution, offset: 0, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: 'tls:seg', offset: 8, content: '', id: KR3fc027_tls_001-p202.s13.1}
   - {type: line-break, offset: 8, content: '', id: KX_13_dup189, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg-start', offset: 10, content: '', id: KR3fc027_tls_001-p202.s13.2, seg_type: comm, member_ids: [KR3fc027_tls_001-p202.s13.2]}
@@ -39,7 +38,6 @@ markers:
   - {type: line-break, offset: 49, content: '', id: KR3fc027_tls_787-bkklb5}
   - {type: 'tls:seg-end', offset: 53, content: '', id: KR3fc027_tls_001-p202.s15.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 53, content: '', id: KR3fc027_tls_001-p202.s15.2}
-  - {type: substitution, offset: 53, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: punctuation, offset: 57, content: 〇, id: KR3fc027_tls_787-bkkpn1}
   - {type: 'tls:seg-start', offset: 59, content: '', id: KR3fc027_tls_001-p202.s15.3, seg_type: comm, member_ids: [KR3fc027_tls_001-p202.s15.3]}
   - {type: 'tls:seg', offset: 59, content: '', id: KR3fc027_tls_001-p202.s15.3}
@@ -141,4 +139,4 @@ markers:
   - {type: 'tls:seg-end', offset: 172, content: '', id: KR3fc027_tls_001-p202.s21.8_end, seg_type: comm}
   - {type: 'tls:seg', offset: 172, content: '', id: KR3fc027_tls_001-p202.s21.9}
   back: []
-hash: sha256:b95dda76ea35a803325f85f171689d1cb58319c0747fa7d28324b6a6e332701e
+hash: sha256:0e4155482a5b9d7ee23272c4167b0edc88e383e37f8a6a679e82ca549b8cc5e5

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 梯斜兩廣併來折半以乘長得積假如上廣六步下廣八步併得一十四步折半得七步以長乘之得積如借西北之角斜而倒凑東南之角直其理明矣梯斜二田形異理同解曰此是將北廣除一步以凑南廣六步均七為之理形雖委曲算折為方其形原有定界不能變移算中折法似凑方直之理
-  hash: sha256:f2c184e2bb3a3d5f1318708b82511da3b3726fb1c161bcd4a2995c767dad7124
+  text: 梯斜兩廣併來折半以乘長得積假如上廣六歩下廣八歩併得一十四歩折半得七歩以長乘之得積如借西北之角斜而倒凑東南之角直其理明矣梯斜二田形異理同解曰此是將北廣除一歩以凑南廣六歩均七爲之理形雖委曲筭折爲方其形原有定界不能変移筭中折法似凑方直之理
+  hash: sha256:fd08ea34bd4c9cf936edd7fc8fccbbef5bb950b5bc37b9df6b0a2558dc7e4169
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:51f88847cc530a091d24480f3776ee2a29827c6493a74b86ef884ba8bf9d755f
+hash: sha256:d3ac89ad15ebd4fad85a2690212241204d4f64d1bb44e6d94a96df5a3dcd614d

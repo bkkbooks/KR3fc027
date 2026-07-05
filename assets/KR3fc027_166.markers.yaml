@@ -10,7 +10,5 @@ markers:
   - {type: 'tls:seg-start', offset: 14, content: '', id: KR3fc027_tls_001-p45.s3.2, seg_type: comm, member_ids: [KR3fc027_tls_001-p45.s3.2]}
   - {type: 'tls:seg', offset: 14, content: '', id: KR3fc027_tls_001-p45.s3.2}
   - {type: line-break, offset: 23, content: '', id: KR3fc027_tls_166-bkklb1}
-  - {type: substitution, offset: 24, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
-  - {type: substitution, offset: 30, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
   back: []
-hash: sha256:773cb7a255c784702740f988abd77c709cc253f3c3f9813a9e4c8fb4be8b4080
+hash: sha256:94f7279258ccdfdf9f68d532f58fb14824d1b1ba49e6f5c96966a182aa475f69

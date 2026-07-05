@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 保氏而吾幾其副耶匪汝思自任亦汝思之自淂者耳汝思之書具在一寓目而于古所謂方田以下旁要以上九數云者靡不了了于胸臆間妱知汝思之稱說不迂矣余謂汝思不佞于此道未見一斑第嘗讀漢記至安定嵩真玄菟元理一能自算其年壽一能為友人算困米舉所食筋十餘轉不差圭合其術
-  hash: sha256:a378ebcdb4d541571466a2d777c6f33eb93e0109e9afbd45cb7013cb694c8e5a
+  text: 保氏而吾幾其副耶匪汝思自任亦汝思之自淂者耳汝思之書具在一寓目而于古所謂方田以下旁要以上九數云者靡不了了于胸臆間妱知汝思之稱説不迂矣余謂汝思不佞于此道未見一斑第嘗讀漢記至安定嵩真玄菟元理一能自算其年壽一能為友人算困米舉所食筋十餘轉不差圭合其術
+  hash: sha256:e5afc338ccf7e881a99aa3a331bec85abe7b1659bb57c41a3d4e6929da403600
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:8a0dfc862d939edbdeb9da3b15f2f2e544b0cb6efc835747e3de1059e3cbe1a6
+hash: sha256:4e996c076bf514184226adb2701a5e42a6fec8050fd654d18aff822053a2b0cf

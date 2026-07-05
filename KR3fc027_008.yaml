@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 繁雜正其謬妄抒以獨見參之訓解作為是編風行寓內近今蓋已百有數十餘年海內握算持籌之士莫不家藏一編若業制舉者之於四子書五經義翕然奉以為宗余久心為識之
-  hash: sha256:19df1287b630b048083d6bc829b73a25aef9798f24e63fd2994889b5672011e9
+  text: 繁雑正其謬妄抒以獨見參之訓解作為是編風行寓內近今盖已百有數十餘年海內握筭持籌之士莫不家藏一編若業制舉者之於四子書五經義翕然奉以為宗余乆心爲識之
+  hash: sha256:f9495c779dfb00f0a3396a6e6056eeb4bd0334ce8b5b59a244f75773b31fc83c
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:65f4f952795bbfc1d7e67c24c4d149624412d52ec1e49d8073d39666e045cafd
+hash: sha256:1a287084ea6aaf41727fcb4fe2ffaa724a1bfc185fbe558640f88c5a0fbefeb3

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 嗚呼公誠可謂神於算者矣然嘗恨夫坊刻既多舛誤不少矧于數學差之毫釐謬以千里每思欲一釐正之而苦於術之未習不敢妄有所更易今年夏公之魯孫佩章洪聲兩君子出其
-  hash: sha256:7dd00aafe4c8e8d77682e0199cb79a8f106284440677469a8601fedc4f399146
+  text: 嗚呼公誠可謂神於筭者矣然甞恨夫坊刻既多舛誤不少矧扵數學差之毫釐謬以千里每思欲一釐正之而苦於術之未習不敢妄有所更易今年夏公之魯孫佩章洪聲両君子出其
+  hash: sha256:d34dd4ae92b397582669a402e12a305ac187b95c6d7a360de82ca74faeaee7cd
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:098467b52328d31923534ede31b5799761d069eadfcae4609167ab5377178ca5
+hash: sha256:311e5884e0ce5d0d1c5a4f795b5ac6d151df2fe640c86a18763baa572c6ba31c
