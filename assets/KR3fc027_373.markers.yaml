@@ -5,8 +5,13 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc027_tls_001-p97.s12.1}
   - {type: line-break, offset: 0, content: '', id: KX_12_dup90, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: substitution, offset: 1, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
+  - {type: substitution, offset: 3, original: 畆, replacement: 畝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16556}}
+  - {type: substitution, offset: 8, original: 畆, replacement: 畝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16556}}
+  - {type: substitution, offset: 11, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: 'tls:seg-start', offset: 16, content: '', id: KR3fc027_tls_001-p97.s12.2, seg_type: comm, member_ids: [KR3fc027_tls_001-p97.s12.2]}
   - {type: 'tls:seg', offset: 16, content: '', id: KR3fc027_tls_001-p97.s12.2}
   - {type: line-break, offset: 20, content: '', id: KR3fc027_tls_373-bkklb1}
+  - {type: substitution, offset: 22, original: 畆, replacement: 畝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16556}}
   back: []
-hash: sha256:90bef65c0994d3d7a151101faf816e77d911052b46fa7a4c25750a7dcd1bbee0
+hash: sha256:eddd207f4a9a3526f3552dc9ddeca6454f879af7606d5e6962c20052e5a9a108

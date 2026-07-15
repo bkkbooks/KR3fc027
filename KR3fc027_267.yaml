@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 五七三十五四七二十八假如今有米二十二石五斗二升作五千六百三十人分問每人該米若干荅曰四合法日置米爲實以人爲法除之合問定位法多實少同前除除法多實少法酋三十六百五千歸實尾二升五斗三四除一十二本位去右位去二尽
-  hash: sha256:de44d47e95018bf0354201bd66cd070f1af51b5bf5d13b5488c9afaee66ca201
+  text: 五七三十五四七二十八假如今有米二十二石五斗二升作五千六百三十人分問每人該米若干答曰四合法日置米為實以人為法除之合問定位法多實少同前除除法多實少法酋三十六百五千歸實尾二升五斗三四除一十二本位去右位去二盡
+  hash: sha256:21f819f7c2c1a8d4ecc5cb44527ac25157ff3591244af424acbb0294d2788d2a
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:05b1ffa3cfd6a2ad2bf325be20b285ea9dea25ad83c86edb3d834ff493941d03
+hash: sha256:68dd141bdf9081fccdebb6ba12517ec3dacf6efad52116242e399dff8e7a2ffd

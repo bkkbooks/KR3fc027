@@ -14,14 +14,17 @@ markers:
   - {type: punctuation, offset: 39, content: □, id: KR3fc027_tls_026-bkkpn3}
   - {type: 'tls:seg', offset: 42, content: '', id: KR3fc027_tls_001-p7.s13}
   - {type: line-break, offset: 42, content: '', id: KX_13_dup6, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: substitution, offset: 47, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: punctuation, offset: 48, content: □, id: KR3fc027_tls_026-bkkpn4}
   - {type: punctuation, offset: 50, content: □, id: KR3fc027_tls_026-bkkpn5}
   - {type: punctuation, offset: 50, content: □, id: KR3fc027_tls_026-bkkpn6}
   - {type: 'tls:seg', offset: 54, content: '', id: KR3fc027_tls_001-p7.s14}
   - {type: line-break, offset: 54, content: '', id: KX_14_dup2, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 54, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: punctuation, offset: 64, content: □, id: KR3fc027_tls_026-bkkpn7}
   - {type: 'tls:seg', offset: 68, content: '', id: KR3fc027_tls_001-p7.s15}
   - {type: line-break, offset: 68, content: '', id: KX_15_dup2, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 72, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: punctuation, offset: 77, content: □, id: KR3fc027_tls_026-bkkpn8}
   - {type: punctuation, offset: 78, content: □, id: KR3fc027_tls_026-bkkpn9}
   - {type: 'tls:seg', offset: 81, content: '', id: KR3fc027_tls_001-p7.s16}
@@ -32,4 +35,4 @@ markers:
   - {type: punctuation, offset: 102, content: □, id: KR3fc027_tls_026-bkkpn11}
   - {type: punctuation, offset: 108, content: □, id: KR3fc027_tls_026-bkkpn12}
   back: []
-hash: sha256:6c3f058b5272e5076d4e847367e5f8a793afe958b6337dad09d188dd8f8b501c
+hash: sha256:63ec4c228adb1e7667e0e3e22d8d221f944528a7b131315167e42f5ae5d75e67

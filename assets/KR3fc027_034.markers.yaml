@@ -11,13 +11,18 @@ markers:
   - {type: line-break, offset: 24, content: '', id: KX_3_dup9, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fc027_tls_001-p10.s4}
   - {type: line-break, offset: 40, content: '', id: KX_4_dup10, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 48, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: 'tls:seg', offset: 56, content: '', id: KR3fc027_tls_001-p10.s5}
   - {type: line-break, offset: 56, content: '', id: KX_5_dup9, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: substitution, offset: 64, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
+  - {type: substitution, offset: 69, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: 'tls:seg', offset: 72, content: '', id: KR3fc027_tls_001-p10.s6}
   - {type: line-break, offset: 72, content: '', id: KX_6_dup8, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 88, content: '', id: KR3fc027_tls_001-p10.s7}
   - {type: line-break, offset: 88, content: '', id: KX_7_dup4, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: substitution, offset: 95, original: 遅, replacement: 遲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20714}}
   - {type: 'tls:seg', offset: 104, content: '', id: KR3fc027_tls_001-p10.s8}
   - {type: line-break, offset: 104, content: '', id: KX_8_dup8, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: substitution, offset: 109, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
   back: []
-hash: sha256:b29496d07dab4b07cf39d32f4567d3dd55edc058731c86b8b2d1d40b23352697
+hash: sha256:4865751cd4202448e91242634a11087b8d8d4c4bc2a244a70284e39b6302e70a

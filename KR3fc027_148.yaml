@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 總訣一日以所有總數爲實以所求每數爲法除之一日有總物而又有總價或云每物卽以物爲法以價爲實或云每價卽以價爲法以物爲實餘倣此
-  hash: sha256:998f5793e27a57e5dd12be68ca1987e887591896f0c1705d8cecd5ffbf3f8421
+  text: 總訣一日以所有總數為實以所求每數為法除之一日有總物而又有總價或云每物即以物為法以價為實或云每價即以價為法以物為實餘倣此
+  hash: sha256:b79890a8bf0847291cd7d38c413edf364db7294c771533f250aad4beb070025d
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:982caad7d9a1a72bc077f491f3c49d2399dba725842f4eabf0f272509cda0e67
+hash: sha256:9b63446ac4a0ba3f4ed3aa364eae9ce489cb581a660f7a4ee049a8a597734bd6

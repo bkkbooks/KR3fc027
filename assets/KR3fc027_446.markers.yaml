@@ -9,10 +9,14 @@ markers:
   - {type: line-break, offset: 22, content: '', id: KX_13_dup105, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 44, content: '', id: KR3fc027_tls_001-p116.s14}
   - {type: line-break, offset: 44, content: '', id: KX_14_dup100, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 56, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
   - {type: 'tls:seg', offset: 66, content: '', id: KR3fc027_tls_001-p116.s15}
   - {type: line-break, offset: 66, content: '', id: KX_15_dup99, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 72, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
+  - {type: substitution, offset: 78, original: 静, replacement: 靜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20691}}
   - {type: 'tls:seg', offset: 88, content: '', id: KR3fc027_tls_001-p116.s16}
   - {type: line-break, offset: 88, content: '', id: KX_16_dup98, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: substitution, offset: 100, original: 静, replacement: 靜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20691}}
   - {type: 'tls:seg', offset: 110, content: '', id: KR3fc027_tls_001-p116.s17}
   - {type: line-break, offset: 110, content: '', id: KX_17_dup97, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 132, content: '', id: KR3fc027_tls_001-p116.s18}
@@ -24,4 +28,4 @@ markers:
   - {type: 'tls:seg', offset: 189, content: '', id: KR3fc027_tls_001-p116.s21}
   - {type: line-break, offset: 189, content: '', id: KX_21_dup84, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:1e21d0604cc7edc8f5eeea56cbaff278d756007a94dc03fb056c82d63daa36a9
+hash: sha256:839e32291429d95ccfe98cf9f4affdd8267c5398fb2390c2c35098b648745f3d

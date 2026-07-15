@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 成極為今上所許可而名公鉅卿輩亦各争相購致以為重余因退而縱觀見其爬羅剔抉窮幽極渺九章之經乗除之無不昭焉條分而縷析注詳而辯明極參
-  hash: sha256:75e8d83a4deb557d9d539d8f566574cff7aec1813a0265666c45c61e4eb3c86d
+  text: 成極為今上所許可而名公巨卿輩亦各爭相購致以為重余因退而縱觀見其爬羅剔抉窮幽極渺九章之經乘除之無不昭焉條分而縷析注詳而辨明極參
+  hash: sha256:c6a31f002f8f78fcb8b4711b91480cd252f6c19ac962cce940a68d335a1e41d9
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:c4d69e9a1fa000e0a651771146bb39e5c2e0938b64584dd87c0b27f61777cbf7
+hash: sha256:bd419344a3f276504c6ec5116b688883ae1cc1923fb26dbb05396d23962b7012

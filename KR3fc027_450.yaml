@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 半爲實以相差爲法除之得縱以廣乘之得積縱斜相和倣此廣斜相和相差俱同此其廣縱相差與前廣縱相和同假如圭田廣八歩縱一十二歩問該田積若干荅曰積四十八歩法日置廣縱相乘折半得積四十八歩合問
-  hash: sha256:40c8fa4cd2040c7d31df4b6f5a1a3e2bc81698092631aa9099874fff6ddb3c5a
+  text: 半為實以相差為法除之得縱以廣乘之得積縱斜相和倣此廣斜相和相差俱同此其廣縱相差與前廣縱相和同假如圭田廣八步縱一十二步問該田積若干答曰積四十八步法日置廣縱相乘折半得積四十八步合問
+  hash: sha256:bb3a63b6b0c7ba35ede7e5178eb451976078d4e40db8375dbb94b0f3b3d2abd1
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:39d1b8c0f530526fe0b8412a18bd5754b936c0d98d5d9096e0430e9eb25b98a3
+hash: sha256:80ea915af8dbb09f04e108ff60e2a050fd32537e61f295276c4802b980cde13f

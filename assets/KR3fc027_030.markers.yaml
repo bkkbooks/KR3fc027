@@ -16,9 +16,12 @@ markers:
   - {type: punctuation, offset: 39, content: □, id: KR3fc027_tls_030-bkkpn5}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fc027_tls_001-p8.s13}
   - {type: line-break, offset: 40, content: '', id: KX_13_dup7, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: substitution, offset: 45, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: punctuation, offset: 49, content: □, id: KR3fc027_tls_030-bkkpn6}
   - {type: 'tls:seg', offset: 54, content: '', id: KR3fc027_tls_001-p8.s14}
   - {type: line-break, offset: 54, content: '', id: KX_14_dup3, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 59, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
+  - {type: substitution, offset: 68, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 69, content: '', id: KR3fc027_tls_001-p8.s15}
   - {type: line-break, offset: 69, content: '', id: KX_15_dup3, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: punctuation, offset: 82, content: □, id: KR3fc027_tls_030-bkkpn7}
@@ -28,5 +31,6 @@ markers:
   - {type: punctuation, offset: 83, content: □, id: KR3fc027_tls_030-bkkpn9}
   - {type: 'tls:seg', offset: 96, content: '', id: KR3fc027_tls_001-p8.s17}
   - {type: line-break, offset: 96, content: '', id: KX_17_dup3, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: substitution, offset: 109, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   back: []
-hash: sha256:7525d923d7ec9965d6afd62dc740e9195ad54f0ea788d16ca011b600d87b4999
+hash: sha256:da5f4ca62e45a2ee3c2407540428469385cbf51eb01048eaeacd1df476044868

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 二升亦得此法雖易知之恐愚拙者法則難於取價須用先乘後除其法㨗玅異乘同除互換㨗用法圖歌曰此法有四隅内有一隅空異名斜乘了同名兌位除詳此歌知此異名乘問名除
-  hash: sha256:b559ba1262339ba3072211183cbf24acd94924dcd1c944445f55752b8466bf9f
+  text: 二升亦得此法雖易知之恐愚拙者法則難於取價須用先乘後除其法捷妙異乘同除互換捷用法圖歌曰此法有四隅內有一隅空異名斜乘了同名兌位除詳此歌知此異名乘問名除
+  hash: sha256:6ba0552da7d42282a9d5fe9c29a6661b36674c8b000b9937c5ade3501ef99623
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:55f5ea2520a578e9d68900de7fcdf21260c9c72afddb527b1fd61e56e318e5b4
+hash: sha256:7a55a10fc8ed91d64540f6d81d1a5b018dcac5640b35164e054e3213bd68c003

@@ -17,6 +17,7 @@ markers:
   - {type: line-break, offset: 51, content: '', id: KR3fc027_tls_120-bkklb1}
   - {type: 'tls:seg', offset: 56, content: '', id: KR3fc027_tls_001-p33.s16.1}
   - {type: line-break, offset: 56, content: '', id: KX_16_dup21, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: substitution, offset: 63, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
   - {type: line-break, offset: 71, content: '', id: KR3fc027_tls_120-bkklb2}
   - {type: 'tls:seg-end', offset: 85, content: '', id: KR3fc027_tls_001-p33.s16.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 85, content: '', id: KR3fc027_tls_001-p33.s17}
@@ -29,6 +30,7 @@ markers:
   - {type: 'tls:seg', offset: 99, content: '', id: KR3fc027_tls_001-p33.s18.2}
   - {type: 'tls:seg-start', offset: 102, content: '', id: KR3fc027_tls_001-p33.s18.3, seg_type: comm, member_ids: [KR3fc027_tls_001-p33.s18.3]}
   - {type: 'tls:seg', offset: 102, content: '', id: KR3fc027_tls_001-p33.s18.3}
+  - {type: substitution, offset: 105, original: 数, replacement: 數, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17639}}
   - {type: line-break, offset: 106, content: '', id: KR3fc027_tls_120-bkklb4}
   - {type: 'tls:seg-end', offset: 110, content: '', id: KR3fc027_tls_001-p33.s18.3_end, seg_type: comm}
   - {type: 'tls:seg', offset: 110, content: '', id: KR3fc027_tls_001-p33.s18.4}
@@ -51,4 +53,4 @@ markers:
   - {type: 'tls:seg-end', offset: 146, content: '', id: KR3fc027_tls_001-p33.s21.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 146, content: '', id: KR3fc027_tls_001-p33.s21.2}
   back: []
-hash: sha256:ac3a9526c55bfa483d43dc4b14052d91fcce809dfc85b035bd3d334dd81e8d74
+hash: sha256:76be20e1edabe961a3e715f63be41432ba32d0efafddb4affba1d0d70013b575

@@ -10,5 +10,6 @@ markers:
   - {type: 'tls:seg-start', offset: 14, content: '', id: KR3fc027_tls_001-p45.s3.2, seg_type: comm, member_ids: [KR3fc027_tls_001-p45.s3.2]}
   - {type: 'tls:seg', offset: 14, content: '', id: KR3fc027_tls_001-p45.s3.2}
   - {type: line-break, offset: 23, content: '', id: KR3fc027_tls_166-bkklb1}
+  - {type: substitution, offset: 30, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20841}}
   back: []
-hash: sha256:94f7279258ccdfdf9f68d532f58fb14824d1b1ba49e6f5c96966a182aa475f69
+hash: sha256:62c6b9f42d9c713592aac3415bacc9178e1f9fe326e0de2ea3549f94f5e2d7e7

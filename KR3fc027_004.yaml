@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 算法統宗余族祖汝思大位公之所也公㓜而颕異酷嗜算數不惜重貲以購求遺書比長遨逰吳楚間博訪聞人達士相與剖析毫芒既乃心解神悟於
-  hash: sha256:c3f37c1ed78f181f350b71d82009150fa2e651e40dde40c8e227355bd5222bdc
+  text: 算法統宗余族祖汝思大位公之所也公幼而颕異酷嗜算數不惜重資以購求遺書比長遨逰吳楚間博訪聞人達士相與剖析毫芒既乃心解神悟於
+  hash: sha256:f1c4cab5a2bd95cd821df33fcba617b896ff42b88f990bf74522115138fcae74
 metadata:
   title: 新編直指算法統宗
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc027.xml
-hash: sha256:f04db411e77d0bcee351ce9799e38fc6f504f3a4609dea04e0167c872fe6e6b4
+hash: sha256:ef96b9c6e8d28a159fc0e1acd134d092529793fbdd98d1a587925c45271c32da
